@@ -15,7 +15,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Aarauer Bierdeckel", 
-          "id": "430", 
+          "id": "BE0000048", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Aarauer Bierdeckel"
@@ -42,7 +42,7 @@
             "Bergues"
           ], 
           "shared_name": "Bergues", 
-          "id": "429"
+          "id": "BE0000767"
         }
       }, 
       {
@@ -61,7 +61,7 @@
             "Chimay"
           ], 
           "shared_name": "Chimay", 
-          "id": "428"
+          "id": "BE0000901"
         }
       }, 
       {
@@ -80,7 +80,7 @@
             "Fiumorbu"
           ], 
           "shared_name": "Fiumorbu", 
-          "id": "427"
+          "id": "BE0002093"
         }
       }, 
       {
@@ -93,11 +93,15 @@
           "NodeType": "RedWine", 
           "name": "Lepirudin", 
           "SUID": 426, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Beaujolais", 
           "cytoscape_alias_list": [
             "Beaujolais"
           ], 
+          "indication": "For the treatment of heparin-induced thrombocytopenia", 
+          "mechanism-of-action": "Lepirudin forms a stable non-covalent complex with alpha-thrombin, thereby abolishing its ability to cleave fibrinogen and initiate the clotting cascade. The inhibition of thrombin prevents the blood clotting cascade.", 
+          "drugbank-id": "DB00001", 
           "shared_name": "Beaujolais", 
           "id": "426"
         }
@@ -110,7 +114,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Cetuximab", 
+          "name": "Alsatian Pinot Blanc", 
           "SUID": 425, 
           "selected": false, 
           "canonicalName": "Alsatian Pinot Blanc", 
@@ -129,7 +133,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Dornase alfa", 
+          "name": "California Sauvignon Blanc", 
           "SUID": 424, 
           "selected": false, 
           "canonicalName": "California Sauvignon Blanc", 
@@ -148,7 +152,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Denileukin diftitox", 
+          "name": "Vouvray sec", 
           "SUID": 423, 
           "selected": false, 
           "canonicalName": "Vouvray sec", 
@@ -173,7 +177,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Abbaye de Belloc", 
-          "id": "422", 
+          "id": "BE0002094", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Abbaye de Belloc"
@@ -197,7 +201,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Berkswell", 
-          "id": "421", 
+          "id": "BE0002095", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Berkswell"
@@ -223,7 +227,7 @@
             "Le Moulis"
           ], 
           "shared_name": "Le Moulis", 
-          "id": "420"
+          "id": "BE0002096"
         }
       }, 
       {
@@ -240,7 +244,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Spenwood", 
-          "id": "419", 
+          "id": "BE0002097", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Spenwood"
@@ -264,7 +268,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Vermont Shepherd", 
-          "id": "418", 
+          "id": "BE0001529", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Vermont Shepherd"
@@ -288,7 +292,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Zamorano", 
-          "id": "417", 
+          "id": "BE0000710", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Zamorano"
@@ -306,13 +310,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Etanercept", 
+          "name": "Cetuximab", 
           "SUID": 416, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "California Zinfandel", 
           "cytoscape_alias_list": [
             "California Zinfandel"
           ], 
+          "indication": "For treatment of EGFR-expressing metastatic colorectal cancer in patients who are refractory to other irinotecan-based chemotherapy regimens. Cetuximab is also indicated for treatment of squamous cell carcinoma of the head and neck in conjucntion with radiation therapy.", 
+          "mechanism-of-action": "Cetuximab binds to the epidermal growth factor receptor (EGFr) on both normal and tumor cells. EGFr is over-expressed in many colorectal cancers. Cetuximab competitively inhibits the binding of epidermal growth factor (EGF) and TGF alpha, thereby reducing their effects on cell growth and metastatic spread.", 
+          "drugbank-id": "DB00002", 
           "shared_name": "California Zinfandel", 
           "id": "416"
         }
@@ -325,13 +333,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Bivalirudin", 
+          "name": "Dornase alfa", 
           "SUID": 415, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Carignan", 
           "cytoscape_alias_list": [
             "Carignan"
           ], 
+          "indication": "Used as adjunct therapy in the treatment of cystic fibrosis.", 
+          "mechanism-of-action": "Dornase alfa is a biosynthetic form of human DNase I. The enzyme is involved in endonucleolytic cleavage of extracellular DNA to 5\u00b4-phosphodinucleotide and 5\u00b4-phosphooligonucleotide end products. It has no effect on intracellular DNA. Optimal activity is dependent on the presence of divalent cations such as calcium and magnesium. Extracellular DNA is a viscous anionic polymer and its breakdown appears to improve the viscosity and viscoelasticity of purulent sputum of individuals with CF, thus reducing airflow obstruction. Dornase alfa does not seem to have any effect on non-purulent sputum.", 
+          "drugbank-id": "DB00003", 
           "shared_name": "Carignan", 
           "id": "415"
         }
@@ -344,13 +356,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Leuprolide", 
+          "name": "Denileukin diftitox", 
           "SUID": 414, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Sancerre Rouge", 
           "cytoscape_alias_list": [
             "Sancerre Rouge"
           ], 
+          "indication": "For treatment of cutaneous T-cell lymphoma", 
+          "mechanism-of-action": "Denileukin diftitox binds to the high-affinity IL-2 receptor complex. The IL-2 receptor (Tac) subunit is expressed on activated but not resting lymphocytes. The diphtheria toxin associated with Ontak then selectively kills the IL-2 bearing cells.", 
+          "drugbank-id": "DB00004", 
           "shared_name": "Sancerre Rouge", 
           "id": "414"
         }
@@ -363,7 +379,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Peginterferon alfa-2a", 
+          "name": "German Riesling Kabinett", 
           "SUID": 413, 
           "selected": false, 
           "canonicalName": "German Riesling Kabinett", 
@@ -382,7 +398,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Alteplase", 
+          "name": "White Bordeaux", 
           "SUID": 412, 
           "selected": false, 
           "canonicalName": "White Bordeaux", 
@@ -401,7 +417,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Sermorelin", 
+          "name": "White Burgundy", 
           "SUID": 411, 
           "selected": false, 
           "canonicalName": "White Burgundy", 
@@ -426,7 +442,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Abondance", 
-          "id": "410", 
+          "id": "BE0002098", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Abondance"
@@ -450,7 +466,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Beaufort", 
-          "id": "409", 
+          "id": "BE0002099", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Beaufort"
@@ -476,7 +492,7 @@
             "Comte"
           ], 
           "shared_name": "Comte", 
-          "id": "408"
+          "id": "BE0002100"
         }
       }, 
       {
@@ -493,7 +509,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Vacherin Fribourgeois", 
-          "id": "407", 
+          "id": "BE0004796", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Vacherin Fribourgeois"
@@ -511,13 +527,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Interferon alfa-n1", 
+          "name": "Etanercept", 
           "SUID": 406, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Aglianico del Vulture", 
           "cytoscape_alias_list": [
             "Aglianico del Vulture"
           ], 
+          "indication": "For treatment of severe active rheumatoid arthritis in adults, severe juvenile idiopathic arthritis, ankylosing spondylitis, and severe plaque psoriasis.", 
+          "mechanism-of-action": "There are two distinct receptors for TNF (TNFRs), a 55 kilodalton protein (p55) and a 75 kilodalton protein (p75). The biological activity of TNF is dependent upon binding to either cell surface receptor (p75 or p55). Etanercept is a dimeric soluble form of the p75 TNF receptor that can bind to two TNF molecules, thereby effectively removing them from circulation.", 
+          "drugbank-id": "DB00005", 
           "shared_name": "Aglianico del Vulture", 
           "id": "406"
         }
@@ -530,13 +550,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Darbepoetin alfa", 
+          "name": "Bivalirudin", 
           "SUID": 405, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "California Merlot", 
           "cytoscape_alias_list": [
             "California Merlot"
           ], 
+          "indication": "For treatment of heparin-induced thrombocytopenia and for the\nprevention of thrombosis. Bivalirudin is indicated for use in\npatients undergoing percutaneous coronary intervention (PCI), in\npatients at moderate to high risk acute coronary syndromes due to\nunstable angina or non-ST segment elevation in whom a PCI is planned.", 
+          "mechanism-of-action": "Inhibits the action of thrombin by binding both to its catalytic site and to its anion-binding exosite. Thrombin is a serine proteinase that plays a central role in the thrombotic process, acting to cleave fibrinogen into fibrin monomers and to activate Factor XIII to Factor XIIIa, allowing fibrin to develop a covalently cross-linked framework which stabilizes the thrombus; thrombin also activates Factors V and VIII, promoting further thrombin generation, and activates platelets, stimulating aggregation and granule release.", 
+          "drugbank-id": "DB00006", 
           "shared_name": "California Merlot", 
           "id": "405"
         }
@@ -549,13 +573,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Urokinase", 
+          "name": "Leuprolide", 
           "SUID": 404, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Periquita blend", 
           "cytoscape_alias_list": [
             "Periquita blend"
           ], 
+          "indication": "For treatment of prostate cancer, endometriosis, uterine fibroids and premature puberty", 
+          "mechanism-of-action": "Leuprolide binds to the gonadotropin releasing hormone receptor and acts as a potent inhibitor of gonadotropin secretion.", 
+          "drugbank-id": "DB00007", 
           "shared_name": "Periquita blend", 
           "id": "404"
         }
@@ -568,13 +596,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Goserelin", 
+          "name": "Peginterferon alfa-2a", 
           "SUID": 403, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Super Tuscan blend", 
           "cytoscape_alias_list": [
             "Super Tuscan blend"
           ], 
+          "indication": "For treatment of hairy cell leukemia, malignant melanoma, and AIDS-related Kaposi's sarcoma.", 
+          "mechanism-of-action": "Interferon alpha binds to type I interferon receptors (IFNAR1 and IFNAR2c) which, upon dimerization, activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription) which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon alpha binds less stably to type I interferon receptors than interferon beta.", 
+          "drugbank-id": "DB00008", 
           "shared_name": "Super Tuscan blend", 
           "id": "403"
         }
@@ -593,7 +625,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Afuega'l Pitu", 
-          "id": "402", 
+          "id": "BE0000658", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Afuega'l Pitu"
@@ -617,7 +649,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Queso de los Beyos", 
-          "id": "401", 
+          "id": "BE0000651", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Queso de los Beyos"
@@ -635,13 +667,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Reteplase", 
+          "name": "Alteplase", 
           "SUID": 400, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Barbaresco", 
           "cytoscape_alias_list": [
             "Barbaresco"
           ], 
+          "indication": "For management of acute myocardial infarction, acute ischemic strok and for lysis of acute pulmonary emboli", 
+          "mechanism-of-action": "Alteplase binds to fibrin rich clots via the fibronectin finger-like domain and the Kringle 2 domain. The protease domain then cleaves the Arg/Val bond in plasminogen to form plasmin. Plasmin in turn degrades the fibrin matrix of the thrombus, thereby exerting its thrombolytic action.", 
+          "drugbank-id": "DB00009", 
           "shared_name": "Barbaresco", 
           "id": "400"
         }
@@ -654,13 +690,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Epoetin alfa", 
+          "name": "Sermorelin", 
           "SUID": 399, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Beaujolais cru", 
           "cytoscape_alias_list": [
             "Beaujolais cru"
           ], 
+          "indication": "For the treatment of dwarfism, prevention of HIV-induced weight loss", 
+          "mechanism-of-action": "Sermorelin binds to the growth hormone releasing hormone receptor and mimics native GRF in its ability to stimulate growth hormone secretion.", 
+          "drugbank-id": "DB00010", 
           "shared_name": "Beaujolais cru", 
           "id": "399"
         }
@@ -673,7 +713,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Salmon Calcitonin", 
+          "name": "Cotes-du-Rhone", 
           "SUID": 398, 
           "selected": false, 
           "canonicalName": "Cotes-du-Rhone", 
@@ -692,13 +732,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Interferon alfa-n3", 
+          "name": "Interferon alfa-n1", 
           "SUID": 397, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Pinot Noir", 
           "cytoscape_alias_list": [
             "Pinot Noir"
           ], 
+          "indication": "For treatment of venereal or genital warts caused by the Human Papiloma Virus", 
+          "mechanism-of-action": "Interferon alpha binds to type I interferon receptors (IFNAR1 and IFNAR2c) which, upon dimerization, activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription)which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon alpha binds less stably to type I interferon receptors than interferon beta.", 
+          "drugbank-id": "DB00011", 
           "shared_name": "Pinot Noir", 
           "id": "397"
         }
@@ -711,13 +755,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Pegfilgrastim", 
+          "name": "Darbepoetin alfa", 
           "SUID": 396, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Red Bordeaux", 
           "cytoscape_alias_list": [
             "Red Bordeaux"
           ], 
+          "indication": "For the treatment of anemia (from renal transplants or certain HIV treatment)", 
+          "mechanism-of-action": "Darbepoetin alfa stimulates erythropoiesis by the same mechanism as endogenous erythropoietin. Erythropoietin interacts with\nprogenitor stem cells to increase red cell production. Binding of erythropoietin to the erythropoietin receptor leads to receptor dimerization, which facilitates activation of JAK-STAT signaling pathways within the cytosol. Activated STAT (signal transducers and activators of transcription) proteins are then translocated to the nucleus where they serve as transcription factors which regulate the activation of specific genes involved in cell division or differentiation.", 
+          "drugbank-id": "DB00012", 
           "shared_name": "Red Bordeaux", 
           "id": "396"
         }
@@ -730,13 +778,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Sargramostim", 
+          "name": "Urokinase", 
           "SUID": 395, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Ribera del Duero", 
           "cytoscape_alias_list": [
             "Ribera del Duero"
           ], 
+          "indication": "Urokinase can be used for the treatment of pulminary embolism, coronary artery thrombosis, IV catheter clearance, and venous and arterial blood clots.", 
+          "mechanism-of-action": "Urokinase acts on the endogenous fibrinolytic system. It cleaves the Arg-Val bond in plasminogen to produce active plasmin. Plasmin degrades fibrin clots as well as fibrinogen and other plasma proteins.", 
+          "drugbank-id": "DB00013", 
           "shared_name": "Ribera del Duero", 
           "id": "395"
         }
@@ -749,7 +801,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Secretin", 
+          "name": "Alsatian Riesling", 
           "SUID": 394, 
           "selected": false, 
           "canonicalName": "Alsatian Riesling", 
@@ -774,7 +826,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Aisy Cendre", 
-          "id": "393", 
+          "id": "BE0002102", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Aisy Cendre"
@@ -800,7 +852,7 @@
             "Affidelice"
           ], 
           "shared_name": "Affidelice", 
-          "id": "392"
+          "id": "BE0000704"
         }
       }, 
       {
@@ -819,7 +871,7 @@
             "Epoisses"
           ], 
           "shared_name": "Epoisses", 
-          "id": "391"
+          "id": "BE0000949"
         }
       }, 
       {
@@ -836,7 +888,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Soumaintrain", 
-          "id": "390", 
+          "id": "BE0000710", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Soumaintrain"
@@ -854,13 +906,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Peginterferon alfa-2b", 
+          "name": "Goserelin", 
           "SUID": 389, 
+          "type": "small molecule", 
           "selected": false, 
           "canonicalName": "California Cabernet Sauvignon", 
           "cytoscape_alias_list": [
             "California Cabernet Sauvignon"
           ], 
+          "indication": "Used to treat hormone-sensitive cancers of the breast (in pre- and peri- menopausal women) and prostate, and some benign gynaecological disorders (endometriosis, uterine fibroids and endometrial thinning). In addition, goserelin is used in assisted reproduction and in the treatment of precocious puberty.", 
+          "mechanism-of-action": "Goserelin is a synthetic decapeptide analogue of LHRH. Goserelin acts as a potent inhibitor of pituitary gonadotropin secretion when administered in the biodegradable formulation. The result is sustained suppression of LH and serum testosterone levels.", 
+          "drugbank-id": "DB00014", 
           "shared_name": "California Cabernet Sauvignon", 
           "id": "389"
         }
@@ -873,7 +929,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Asparaginase", 
+          "name": "Argentinian Torrontes", 
           "SUID": 388, 
           "selected": false, 
           "canonicalName": "Argentinian Torrontes", 
@@ -892,7 +948,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Thyrotropin Alfa", 
+          "name": "Italian Chardonnay", 
           "SUID": 387, 
           "selected": false, 
           "canonicalName": "Italian Chardonnay", 
@@ -917,7 +973,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Appenzeller", 
-          "id": "386", 
+          "id": "BE0002097", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Appenzeller"
@@ -941,7 +997,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Prattigauer", 
-          "id": "385", 
+          "id": "BE0002098", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Prattigauer"
@@ -967,7 +1023,7 @@
             "Torgenburger"
           ], 
           "shared_name": "Torgenburger", 
-          "id": "384"
+          "id": "BE0002099"
         }
       }, 
       {
@@ -978,13 +1034,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Antihemophilic Factor", 
+          "name": "Reteplase", 
           "SUID": 383, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Barbera d'Alba", 
           "cytoscape_alias_list": [
             "Barbera d'Alba"
           ], 
+          "indication": "For lysis of acute pulmonary emboli, intracoronary emboli and management of myocardial infarction", 
+          "mechanism-of-action": "Reteplase binds to fibrin rich clots via the fibronectin finger-like domain and the Kringle 2 domain. The protease domain then cleaves the Arg/Val bond in plasminogen to form plasmin. Plasmin in turn degrades the fibrin matrix of the thrombus, thereby exerting its thrombolytic action.", 
+          "drugbank-id": "DB00015", 
           "shared_name": "Barbera d'Alba", 
           "id": "383"
         }
@@ -997,7 +1057,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Anakinra", 
+          "name": "Alsatian Gewurztraminer", 
           "SUID": 382, 
           "selected": false, 
           "canonicalName": "Alsatian Gewurztraminer", 
@@ -1016,7 +1076,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Gramicidin D", 
+          "name": "Gruner Veltliner", 
           "SUID": 381, 
           "selected": false, 
           "canonicalName": "Gruner Veltliner", 
@@ -1035,7 +1095,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Intravenous Immunoglobulin", 
+          "name": "Tokay Pinot Gris", 
           "SUID": 380, 
           "selected": false, 
           "canonicalName": "Tokay Pinot Gris", 
@@ -1060,7 +1120,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Ardrahan", 
-          "id": "379", 
+          "id": "BE0002100", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Ardrahan"
@@ -1084,7 +1144,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Durrus", 
-          "id": "378", 
+          "id": "BE0001087", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Durrus"
@@ -1108,7 +1168,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Gubbeen", 
-          "id": "377", 
+          "id": "BE0000901", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Gubbeen"
@@ -1134,7 +1194,7 @@
             "Milleens"
           ], 
           "shared_name": "Milleens", 
-          "id": "376"
+          "id": "BE0001529"
         }
       }, 
       {
@@ -1145,13 +1205,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Anistreplase", 
+          "name": "Epoetin alfa", 
           "SUID": 375, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "California Pinot Noir", 
           "cytoscape_alias_list": [
             "California Pinot Noir"
           ], 
+          "indication": "For treatment of anemia (from renal transplants or certain HIV treatment)", 
+          "mechanism-of-action": "Binding of erythropoietin to the erythropoietin receptor leads to receptor dimerization, which facilitates activation of JAK-STAT signaling pathways within the cytosol. Activated STAT (signal transducers and activators of transcription) proteins are then translocated to the nucleus where they serve as transcription factors which regulate the activation of specific genes involved in cell division or differentiation.", 
+          "drugbank-id": "DB00016", 
           "shared_name": "California Pinot Noir", 
           "id": "375"
         }
@@ -1164,13 +1228,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Insulin Regular", 
+          "name": "Salmon Calcitonin", 
           "SUID": 374, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Nebbiolo", 
           "cytoscape_alias_list": [
             "Nebbiolo"
           ], 
+          "indication": "Used in the treatment of symptomatic Paget's disease for patients unresponsive to alternate treatments or intolerant to such treatments. In addition, it is used in emergency situations when serum calcium levels must be decreased quickly until the underlying condition is identified. It can also be added to existing therapeutic regimens for hypercalcemia such as intravenous fluids and furosemide, oral phosphate or corticosteroids, or other agents. Calcitonin can be used in patients with azotemia and cases where intravenous fluids would be contraindicated due to limited cardiac reserves. Also for the treatment of post-menopausal osteoporosis in women more than 5 years post-menopause.", 
+          "mechanism-of-action": "Calcitonin binds to the calcitonin receptor (found primarily in osteoclasts) which then enhances the production of vitamin D producing enzymes (25-hydroxyvitamine D-24-hydroxylase), leading to greater calcium retention and enhanced bone density. Binding of calcitonin to its receptor also activates adenylyl cyclase and the phosphatidyl-inositol-calcium pathway.", 
+          "drugbank-id": "DB00017", 
           "shared_name": "Nebbiolo", 
           "id": "374"
         }
@@ -1183,13 +1251,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Tenecteplase", 
+          "name": "Interferon alfa-n3", 
           "SUID": 373, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Syrah", 
           "cytoscape_alias_list": [
             "Syrah"
           ], 
+          "indication": "For the intralesional treatment of refractory or recurring external condylomata acuminata.", 
+          "mechanism-of-action": "Interferon alpha binds to type I interferon receptors (IFNAR1 and IFNAR2c) which, upon dimerization, activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription) which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon alpha binds less stably to type I interferon receptors than interferon beta.", 
+          "drugbank-id": "DB00018", 
           "shared_name": "Syrah", 
           "id": "373"
         }
@@ -1202,7 +1274,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Menotropins", 
+          "name": "California Chardonnay", 
           "SUID": 372, 
           "selected": false, 
           "canonicalName": "California Chardonnay", 
@@ -1221,7 +1293,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Interferon gamma-1b", 
+          "name": "German Muskateller Kabinett", 
           "SUID": 371, 
           "selected": false, 
           "canonicalName": "German Muskateller Kabinett", 
@@ -1246,7 +1318,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Azeitao", 
-          "id": "370", 
+          "id": "BE0002093", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Azeitao"
@@ -1270,7 +1342,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Queso de la Serena", 
-          "id": "369", 
+          "id": "BE0002094", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Queso de la Serena"
@@ -1294,7 +1366,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Serpa", 
-          "id": "368", 
+          "id": "BE0002095", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Serpa"
@@ -1318,7 +1390,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Serra da Estrela", 
-          "id": "367", 
+          "id": "BE0002096", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Serra da Estrela"
@@ -1342,7 +1414,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Torta del Casar", 
-          "id": "366", 
+          "id": "BE0000048", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Torta del Casar"
@@ -1360,13 +1432,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Interferon Alfa-2a, Recombinant", 
+          "name": "Pegfilgrastim", 
           "SUID": 365, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Barbera d'Asti", 
           "cytoscape_alias_list": [
             "Barbera d'Asti"
           ], 
+          "indication": "Increases leukocyte production, for treatment in non-myeloid cancer, neutropenia and bone marrow transplant", 
+          "mechanism-of-action": "Pegfilgrastim binds to the G-CSF receptor. As a G-CSF analog, it controls proliferation of committed progenitor cells and influences their maturation into mature neutrophils. Pegfilgrastim also stimulates the release of neutrophils from bone marrow storage pools and reduces their maturation time. Pegfilgrastim acts to increase the phagocytic activity of mature neutrophils. In patients receiving cytotoxic chemotherapy, pegfilgrastim can accelerate neutrophil recovery, leading to a reduction in duration of the neutropenic phase", 
+          "drugbank-id": "DB00019", 
           "shared_name": "Barbera d'Asti", 
           "id": "365"
         }
@@ -1385,7 +1461,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Banon", 
-          "id": "364", 
+          "id": "BE0000203", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Banon"
@@ -1409,7 +1485,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Hoja Santa", 
-          "id": "363", 
+          "id": "BE0000385", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Hoja Santa"
@@ -1427,13 +1503,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Desmopressin", 
+          "name": "Sargramostim", 
           "SUID": 362, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Chianti Classico", 
           "cytoscape_alias_list": [
             "Chianti Classico"
           ], 
+          "indication": "For the treatment of cancer and bone marrow transplant", 
+          "mechanism-of-action": "Sargramostim binds to the Granulocyte-macrophage colony stimulating factor receptor (GM-CSF-R-alpha or CSF2R) which stimulates a JAK2 STAT1/STAT3 signal transduction pathway. This leads to the production of hemopoietic cells and neutrophils", 
+          "drugbank-id": "DB00020", 
           "shared_name": "Chianti Classico", 
           "id": "362"
         }
@@ -1446,7 +1526,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Coagulation factor VIIa", 
+          "name": "Chardonnay Burgundy", 
           "SUID": 361, 
           "selected": false, 
           "canonicalName": "Chardonnay Burgundy", 
@@ -1465,7 +1545,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Oprelvekin", 
+          "name": "Sauvignon Blanc", 
           "SUID": 360, 
           "selected": false, 
           "canonicalName": "Sauvignon Blanc", 
@@ -1484,7 +1564,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Palifermin", 
+          "name": "South Africa Chenin Blanc", 
           "SUID": 359, 
           "selected": false, 
           "canonicalName": "South Africa Chenin Blanc", 
@@ -1511,7 +1591,7 @@
             "Emmental"
           ], 
           "shared_name": "Emmental", 
-          "id": "358"
+          "id": "BE0000661"
         }
       }, 
       {
@@ -1528,7 +1608,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Fontina d'Aosta", 
-          "id": "357", 
+          "id": "BE0000211", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Fontina d'Aosta"
@@ -1552,7 +1632,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Gruyere", 
-          "id": "356", 
+          "id": "BE0000538", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Gruyere"
@@ -1570,13 +1650,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Glucagon recombinant", 
+          "name": "Secretin", 
           "SUID": 355, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Madiran", 
           "cytoscape_alias_list": [
             "Madiran"
           ], 
+          "indication": "For diagnosis of pancreatic exocrine dysfunction and gastrinoma", 
+          "mechanism-of-action": "Secretin binds to the secretin receptor found on the lining of S cells in the duodenum and G cells in the stomach. Binding leads to the secrection of bicarbonate or the reduction of the secretion of gastrin. Properly functioning organs (duodenum, pancreas and stomach) should be responsive to this hormone", 
+          "drugbank-id": "DB00021", 
           "shared_name": "Madiran", 
           "id": "355"
         }
@@ -1589,7 +1673,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Aldesleukin", 
+          "name": "German Riesling Spatlese", 
           "SUID": 354, 
           "selected": false, 
           "canonicalName": "German Riesling Spatlese", 
@@ -1614,7 +1698,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Beenleigh Blue", 
-          "id": "353", 
+          "id": "BE0000717", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Beenleigh Blue"
@@ -1638,7 +1722,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Harbourne Blue", 
-          "id": "352", 
+          "id": "BE0000240", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Harbourne Blue"
@@ -1662,7 +1746,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Roquefort", 
-          "id": "351", 
+          "id": "BE0000625", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Roquefort"
@@ -1686,7 +1770,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Berkshire Blue", 
-          "id": "350", 
+          "id": "BE0000385", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Berkshire Blue"
@@ -1710,7 +1794,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Cashel Blue", 
-          "id": "349", 
+          "id": "BE0000661", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Cashel Blue"
@@ -1734,7 +1818,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Fourme d'Ambert", 
-          "id": "348", 
+          "id": "BE0000654", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Fourme d'Ambert"
@@ -1758,7 +1842,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Pecorino Toscano", 
-          "id": "347", 
+          "id": "BE0000211", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Pecorino Toscano"
@@ -1782,7 +1866,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Trade Lake Cedar", 
-          "id": "346", 
+          "id": "BE0000717", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Trade Lake Cedar"
@@ -1800,13 +1884,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Botulinum Toxin Type B", 
+          "name": "Peginterferon alfa-2b", 
           "SUID": 345, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "California Syrah-Mourvedre-Grenache Blend", 
           "cytoscape_alias_list": [
             "California Syrah-Mourvedre-Grenache Blend"
           ], 
+          "indication": "For the treatment of chronic hepatitis C in patients not previously treated with interferon alpha who have compensated liver disease and are at least 18 years of age.", 
+          "mechanism-of-action": "Interferon alpha binds to type I interferon receptors (IFNAR1 and IFNAR2c) which, upon dimerization, activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription)which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon alpha binds less stably to type I interferon receptors than interferon beta.", 
+          "drugbank-id": "DB00022", 
           "shared_name": "California Syrah-Mourvedre-Grenache Blend", 
           "id": "345"
         }
@@ -1819,13 +1907,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Omalizumab", 
+          "name": "Asparaginase", 
           "SUID": 344, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Red Burgundy", 
           "cytoscape_alias_list": [
             "Red Burgundy"
           ], 
+          "indication": "For treatment of acute lympocytic leukemia and non-Hodgkins lymphoma", 
+          "mechanism-of-action": "Asparaginase converts asparagine to aspartic acid and ammonia. It facilitates production of oxaloacetate which is needed for general cellular metabolism. Some malignant cells lose the ability to produce asparagine and so the loss of exogenous sources of asparagine leads to cell death.", 
+          "drugbank-id": "DB00023", 
           "shared_name": "Red Burgundy", 
           "id": "344"
         }
@@ -1838,7 +1930,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Lutropin alfa", 
+          "name": "German Gewurztraminer Spatlese", 
           "SUID": 343, 
           "selected": false, 
           "canonicalName": "German Gewurztraminer Spatlese", 
@@ -1863,7 +1955,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Big Holmes", 
-          "id": "342", 
+          "id": "BE0000895", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Big Holmes"
@@ -1887,7 +1979,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Brin d'Amour", 
-          "id": "341", 
+          "id": "BE0001088", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Brin d'Amour"
@@ -1914,7 +2006,7 @@
             "Fleur du Maquis"
           ], 
           "shared_name": "Fleur du Maquis", 
-          "id": "340"
+          "id": "BE0000240"
         }
       }, 
       {
@@ -1925,7 +2017,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "OspA lipoprotein", 
+          "name": "Albarino", 
           "SUID": 339, 
           "selected": false, 
           "canonicalName": "Albarino", 
@@ -1944,7 +2036,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Insulin Lispro", 
+          "name": "Savennieres", 
           "SUID": 338, 
           "selected": false, 
           "canonicalName": "Savennieres", 
@@ -1969,7 +2061,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bleu D'Auvergne", 
-          "id": "337", 
+          "id": "BE0000969", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bleu D'Auvergne"
@@ -1995,7 +2087,7 @@
             "Bleu de Laqueuille"
           ], 
           "shared_name": "Bleu de Laqueuille", 
-          "id": "336"
+          "id": "BE0002112"
         }
       }, 
       {
@@ -2012,7 +2104,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bleu des Causses", 
-          "id": "335", 
+          "id": "BE0000942", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bleu des Causses"
@@ -2038,7 +2130,7 @@
             "Fourme de Montbrison"
           ], 
           "shared_name": "Fourme de Montbrison", 
-          "id": "334"
+          "id": "BE0001656"
         }
       }, 
       {
@@ -2049,13 +2141,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Insulin Glargine", 
+          "name": "Thyrotropin Alfa", 
           "SUID": 333, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Rioja-style Tempranillo", 
           "cytoscape_alias_list": [
             "Rioja-style Tempranillo"
           ], 
+          "indication": "For detection of residueal or recurrent thyroid cancer", 
+          "mechanism-of-action": "Thyrotropin Alfa binds to the thyrotropin receptors found on any residual thyroid cells or tissues. This stimulates radioactive iodine uptake for better radiodiagnostic imaging.", 
+          "drugbank-id": "DB00024", 
           "shared_name": "Rioja-style Tempranillo", 
           "id": "333"
         }
@@ -2074,7 +2170,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bleu de Gex", 
-          "id": "332", 
+          "id": "BE0002113", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bleu de Gex"
@@ -2098,7 +2194,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Stilton", 
-          "id": "331", 
+          "id": "BE0000134", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Stilton"
@@ -2122,7 +2218,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bleu de Termignon", 
-          "id": "330", 
+          "id": "BE0000203", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bleu de Termignon"
@@ -2148,7 +2244,7 @@
             "Castelmagno"
           ], 
           "shared_name": "Castelmagno", 
-          "id": "329"
+          "id": "BE0000211"
         }
       }, 
       {
@@ -2159,13 +2255,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Collagenase clostridium histolyticum", 
+          "name": "Antihemophilic Factor", 
           "SUID": 328, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Cahors", 
           "cytoscape_alias_list": [
             "Cahors"
           ], 
+          "indication": "For the treatment of hemophilia A, von Willebrand disease and Factor XIII deficiency.", 
+          "mechanism-of-action": "Antihemophilic factor (AHF) is a protein found in normal plasma which is necessary for clot formation. The administration of AHF provides an increase in plasma levels of AHF and can temporarily correct the coagulation defect of patients with hemophilia A (classical hemophilia).", 
+          "drugbank-id": "DB00025", 
           "shared_name": "Cahors", 
           "id": "328"
         }
@@ -2184,7 +2284,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Blu del Moncenisio", 
-          "id": "327", 
+          "id": "BE0000538", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Blu del Moncenisio"
@@ -2210,7 +2310,7 @@
             "Murianengo"
           ], 
           "shared_name": "Murianengo", 
-          "id": "326"
+          "id": "BE0000717"
         }
       }, 
       {
@@ -2227,7 +2327,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Bonde de Gatine", 
-          "id": "325", 
+          "id": "BE0000240", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bonde de Gatine"
@@ -2253,7 +2353,7 @@
             "Chabichou du Poitou"
           ], 
           "shared_name": "Chabichou du Poitou", 
-          "id": "324"
+          "id": "BE0000654"
         }
       }, 
       {
@@ -2272,7 +2372,7 @@
             "Clacbitou"
           ], 
           "shared_name": "Clacbitou", 
-          "id": "323"
+          "id": "BE0000431"
         }
       }, 
       {
@@ -2283,13 +2383,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Rasburicase", 
+          "name": "Anakinra", 
           "SUID": 322, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Bandol", 
           "cytoscape_alias_list": [
             "Bandol"
           ], 
+          "indication": "For the treatment of adult rheumatoid arthritis and treatment of Neonatal-Onset Multisystem Inflammatory Disease (NOMID).", 
+          "mechanism-of-action": "Anakinra binds competitively to the Interleukin-1 type I receptor (IL-1RI), thereby inhibiting the action of elevated levels IL-1 which normally can lead to cartilage degradation and bone resorption.", 
+          "drugbank-id": "DB00026", 
           "shared_name": "Bandol", 
           "id": "322"
         }
@@ -2308,7 +2412,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bra", 
-          "id": "321", 
+          "id": "BE0000661", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Bra"
@@ -2334,7 +2438,7 @@
             "Raschera"
           ], 
           "shared_name": "Raschera", 
-          "id": "320"
+          "id": "BE0000385"
         }
       }, 
       {
@@ -2345,13 +2449,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Cetrorelix", 
+          "name": "Gramicidin D", 
           "SUID": 319, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Barolo", 
           "cytoscape_alias_list": [
             "Barolo"
           ], 
+          "indication": "For treatment of skin lesions, surface wounds and eye infections", 
+          "mechanism-of-action": "Gramicidin D binds to and inserts itself into bacterial membranes (with a strong preference to gram-positive cell membranes). This results in membrane disruption and permeabilization (it acts as a channel). This leads to (i) loss of intracellular solutes (e.g., K+ and amino acids); (ii) dissipation of the transmembrane potential; (iii) inhibition of respiration; (iv) a reduction in ATP pools; and (v) inhibition of DNA, RNA, and protein synthesis, which leads to cell death.", 
+          "drugbank-id": "DB00027", 
           "shared_name": "Barolo", 
           "id": "319"
         }
@@ -2364,13 +2472,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Adalimumab", 
+          "name": "Intravenous Immunoglobulin", 
           "SUID": 318, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Dolcetto d'Alba", 
           "cytoscape_alias_list": [
             "Dolcetto d'Alba"
           ], 
+          "indication": "IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders. These indications includes idiopathic thrombocytopenic purpura, Kawasaki disease, hypogammaglobulinemia, B cell chronic lymphocytic leukemia, bone marrow transplant complications, Guillain-Barr\u00e9 syndrome, chronic inflammatory demyelinating polyneuropathy (CIDP), multiple sclerosis, rheumatoid arthritis, myesthenia gravis, Wiskott\u2013Aldrich syndrome and inflammatory skin diseases.", 
+          "mechanism-of-action": "IVIg interacts with a number of different components of the immune system, including cytokines, complement, Fc receptors and several cell surface immunocompetent molecules. IVIg also impacts different effector cells of the immune system (B and T lymphocytes, dendritic cells, etc.) and regulates a wide range of genes. Its main mechanism of actions are believed to be Fc-dependent and F(ab')2-dependent. IVIg competitively blocks gamma Fc receptors, preventing the binding and ingestion of phagocytes and suppressing platelet depletion. IVIg contains a number of different antobodies, which prevent infection by attaching to the surface of invading pathogens and aiding in their disposal before they can infect cells. Antibodies remove pathogens via complement activation, agglutination or precipitation, pathogen receptor blocking, macrophage \u201ctagging\u201d or neutralization (via binding) of pathogen toxins. Intact IVIg and F(ab\u2032)2 fragments of IVIg can also neutralize the activity of various autoantibodies. By triggering the production of interleukin-1 receptor antagonist, IVIg modulates of the production of cytokines and cytokine antagonists. It also prevents the generation of the C5b-9 membrane attack complex and subsequent complement-mediated tissue damage by binding active complement components.", 
+          "drugbank-id": "DB00028", 
           "shared_name": "Dolcetto d'Alba", 
           "id": "318"
         }
@@ -2389,7 +2501,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Brescianella Stagionata", 
-          "id": "317", 
+          "id": "BE0000793", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Brescianella Stagionata"
@@ -2415,7 +2527,7 @@
             "Quercino"
           ], 
           "shared_name": "Quercino", 
-          "id": "316"
+          "id": "BE0000394"
         }
       }, 
       {
@@ -2432,7 +2544,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Taleggio", 
-          "id": "315", 
+          "id": "BE0000628", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Taleggio"
@@ -2450,13 +2562,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Somatropin recombinant", 
+          "name": "Anistreplase", 
           "SUID": 314, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Amarone della Valpolicella", 
           "cytoscape_alias_list": [
             "Amarone della Valpolicella"
           ], 
+          "indication": "For lysis of acute pulmonary emboli, intracoronary emboli and management of myocardial infarction", 
+          "mechanism-of-action": "Anistreplase cleaves the Arg/Val bond in plasminogen to form plasmin. This in turn leads to the degradation of blood clots.", 
+          "drugbank-id": "DB00029", 
           "shared_name": "Amarone della Valpolicella", 
           "id": "314"
         }
@@ -2469,7 +2585,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Imiglucerase", 
+          "name": "Pinot Blanc", 
           "SUID": 313, 
           "selected": false, 
           "canonicalName": "Pinot Blanc", 
@@ -2494,7 +2610,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Brie de Melun", 
-          "id": "312", 
+          "id": "BE0001036", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Brie de Melun"
@@ -2520,7 +2636,7 @@
             "Brie de Meaux"
           ], 
           "shared_name": "Brie de Meaux", 
-          "id": "311"
+          "id": "BE0002115"
         }
       }, 
       {
@@ -2539,7 +2655,7 @@
             "Brie de Nangis"
           ], 
           "shared_name": "Brie de Nangis", 
-          "id": "310"
+          "id": "BE0002116"
         }
       }, 
       {
@@ -2556,7 +2672,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Coulommiers", 
-          "id": "309", 
+          "id": "BE0002114", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Coulommiers"
@@ -2574,13 +2690,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Abciximab", 
+          "name": "Insulin Regular", 
           "SUID": 308, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Chilean Merlot", 
           "cytoscape_alias_list": [
             "Chilean Merlot"
           ], 
+          "indication": "Indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 1 and type 2 diabetes mellitus.", 
+          "mechanism-of-action": "The primary activity of insulin is the regulation of glucose metabolism. Insulin promotes glucose and amino acid uptake into muscle and adipose tissues, and other tissues except brain and liver. It also has an anabolic role in stimulating glycogen, fatty acid, and protein synthesis. Insulin inhibits gluconeogenesis in the liver.\nInsulin binds to the insulin receptor (IR), a heterotetrameric protein consisting of two extracellular alpha units and two transmembrane beta units. The binding of insulin to the alpha subunit of IR stimulates the tyrosine kinase activity intrinsic to the beta subunit of the receptor. The bound receptor is able to autophosphorylate and phosphorylate numerous intracellular substrates such as insulin receptor substrates (IRS) proteins, Cbl, APS, Shc and Gab 1. These activated proteins, in turn, lead to the activation of downstream signaling molecules including PI3 kinase and Akt. Akt regulates the activity of glucose transporter 4 (GLUT4) and protein kinase C (PKC) which play a critical role in metabolism and catabolism.", 
+          "drugbank-id": "DB00030", 
           "shared_name": "Chilean Merlot", 
           "id": "308"
         }
@@ -2593,7 +2713,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Drotrecogin alfa", 
+          "name": "New Zealand Sauvignon Blanc", 
           "SUID": 307, 
           "selected": false, 
           "canonicalName": "New Zealand Sauvignon Blanc", 
@@ -2618,7 +2738,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Cabrales", 
-          "id": "306", 
+          "id": "BE0000318", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Cabrales"
@@ -2642,7 +2762,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Gamonedo", 
-          "id": "305", 
+          "id": "BE0000661", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Gamonedo"
@@ -2668,7 +2788,7 @@
             "Picon Beyes"
           ], 
           "shared_name": "Picon Beyes", 
-          "id": "304"
+          "id": "BE0000385"
         }
       }, 
       {
@@ -2685,7 +2805,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Valdeon", 
-          "id": "303", 
+          "id": "BE0004798", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Valdeon"
@@ -2709,7 +2829,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Caerphilly", 
-          "id": "301", 
+          "id": "BE0000490", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Caerphilly"
@@ -2733,7 +2853,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Llangloffan", 
-          "id": "300", 
+          "id": "BE0000216", 
           "Country": "Wales", 
           "cytoscape_alias_list": [
             "Llangloffan"
@@ -2757,7 +2877,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Single Gloucester", 
-          "id": "299", 
+          "id": "BE0000364", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Single Gloucester"
@@ -2775,7 +2895,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Gemtuzumab ozogamicin", 
+          "name": "Condrieu", 
           "SUID": 298, 
           "selected": false, 
           "canonicalName": "Condrieu", 
@@ -2794,7 +2914,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Satumomab Pendetide", 
+          "name": "Vouvray demi sec", 
           "SUID": 297, 
           "selected": false, 
           "canonicalName": "Vouvray demi sec", 
@@ -2819,7 +2939,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Camembert", 
-          "id": "296", 
+          "id": "BE0001043", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Camembert"
@@ -2862,7 +2982,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Chaource", 
-          "id": "294", 
+          "id": "BE0002117", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Chaource"
@@ -2880,7 +3000,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Alpha-1-proteinase inhibitor", 
+          "name": "Chardonnay", 
           "SUID": 293, 
           "selected": false, 
           "canonicalName": "Chardonnay", 
@@ -2905,7 +3025,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Canestrato Pugliese", 
-          "id": "292", 
+          "id": "BE0002118", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Canestrato Pugliese"
@@ -2931,7 +3051,7 @@
             "Canestrato Abbruzzese"
           ], 
           "shared_name": "Canestrato Abbruzzese", 
-          "id": "291"
+          "id": "BE0001098"
         }
       }, 
       {
@@ -2950,7 +3070,7 @@
             "Pecorino Romano"
           ], 
           "shared_name": "Pecorino Romano", 
-          "id": "290"
+          "id": "BE0002109"
         }
       }, 
       {
@@ -2967,7 +3087,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Cantal", 
-          "id": "289", 
+          "id": "BE0001011", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Cantal"
@@ -2991,7 +3111,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Laguiole", 
-          "id": "288", 
+          "id": "BE0002119", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Laguiole"
@@ -3015,7 +3135,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Lancashire", 
-          "id": "287", 
+          "id": "BE0002110", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Lancashire"
@@ -3041,7 +3161,7 @@
             "Salers"
           ], 
           "shared_name": "Salers", 
-          "id": "286"
+          "id": "BE0002120"
         }
       }, 
       {
@@ -3060,7 +3180,7 @@
             "Caprino Noccetto"
           ], 
           "shared_name": "Caprino Noccetto", 
-          "id": "285"
+          "id": "BE0000565"
         }
       }, 
       {
@@ -3077,7 +3197,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Caprino Noce", 
-          "id": "284", 
+          "id": "BE0000710", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Caprino Noce"
@@ -3095,13 +3215,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Pegaspargase", 
+          "name": "Tenecteplase", 
           "SUID": 283, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Australian Shiraz", 
           "cytoscape_alias_list": [
             "Australian Shiraz"
           ], 
+          "indication": "For treatment of myocardial infarction and lysis of intracoronary emboli", 
+          "mechanism-of-action": "Tenecteplase binds to fibrin rich clots via the fibronectin finger-like domain and the Kringle 2 domain. The protease domain then cleaves the Arg/Val bond in plasminogen to form plasmin. Plasmin in turn degrades the fibrin matrix of the thrombus, thereby exerting its thrombolytic action.", 
+          "drugbank-id": "DB00031", 
           "shared_name": "Australian Shiraz", 
           "id": "283"
         }
@@ -3114,13 +3238,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Interferon beta-1a", 
+          "name": "Menotropins", 
           "SUID": 282, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Malbec", 
           "cytoscape_alias_list": [
             "Malbec"
           ], 
+          "indication": "For the treatment of female infertility", 
+          "mechanism-of-action": "Being a combination drug, Menotropins bind to the follicle stimulating hormone receptor (FSH), which results in ovulation in the absence of sufficient endogenous luteinizing hormone (LH). It also binds the LH receptor, thereby stimulating proper hormone release. The drug contains both FSH and LH, therefore, it induces ovarian follicular growth and development as well as gonadal steroid production in women who do not have ovarian failure. FSH is the primary driver of follicular recruitment and growth in early folliculogenesis, while LH is important for ovarian steroidogenesis and is involved in the physiological events leading to development of a competent pre-ovulatory follicle.", 
+          "drugbank-id": "DB00032", 
           "shared_name": "Malbec", 
           "id": "282"
         }
@@ -3139,7 +3267,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Cardinal Sin", 
-          "id": "281", 
+          "id": "BE0004684", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Cardinal Sin"
@@ -3163,7 +3291,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Munster", 
-          "id": "280", 
+          "id": "BE0002098", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Munster"
@@ -3187,7 +3315,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Reblochon", 
-          "id": "279", 
+          "id": "BE0002099", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Reblochon"
@@ -3205,13 +3333,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Pegademase bovine", 
+          "name": "Interferon gamma-1b", 
           "SUID": 278, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Oregon Pinot Noir", 
           "cytoscape_alias_list": [
             "Oregon Pinot Noir"
           ], 
+          "indication": "Interferon gamma-1b is used for the treatment of Chronic granulomatous disease and Osteopetrosis.", 
+          "mechanism-of-action": "Binds directly to the type II interferon gamma receptor IFNGR1, leading to a complex of IFNGR1 and IFNGR2. This activates JAK1 and JAK2 kinases which form a STAT1 docking site. This leads to STAT1 phosphorylation, nuclear translocation and initiation of gene transcription of multiple immune-related genes.", 
+          "drugbank-id": "DB00033", 
           "shared_name": "Oregon Pinot Noir", 
           "id": "278"
         }
@@ -3230,7 +3362,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Gorgonzola", 
-          "id": "277", 
+          "id": "BE0002100", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Gorgonzola"
@@ -3254,7 +3386,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Catahoula", 
-          "id": "276", 
+          "id": "BE0002097", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Catahoula"
@@ -3278,7 +3410,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Livarot", 
-          "id": "275", 
+          "id": "BE0000901", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Livarot"
@@ -3302,7 +3434,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Pont l'Eveque", 
-          "id": "274", 
+          "id": "BE0003455", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Pont l'Eveque"
@@ -3326,7 +3458,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Centovalli Ticino", 
-          "id": "273", 
+          "id": "BE0004685", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Centovalli Ticino"
@@ -3350,7 +3482,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Chabichou de Poitou", 
-          "id": "272", 
+          "id": "BE0004686", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Chabichou de Poitou"
@@ -3374,7 +3506,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Crottin de Chavignol", 
-          "id": "271", 
+          "id": "BE0000855", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Crottin de Chavignol"
@@ -3392,7 +3524,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Human Serum Albumin", 
+          "name": "Sancerre", 
           "SUID": 270, 
           "selected": false, 
           "canonicalName": "Sancerre", 
@@ -3417,7 +3549,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Explorateur", 
-          "id": "269", 
+          "id": "BE0000211", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Explorateur"
@@ -3441,7 +3573,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Roucoulons", 
-          "id": "268", 
+          "id": "BE0000538", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Roucoulons"
@@ -3465,7 +3597,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Chaput Vacherin Mont D'Or", 
-          "id": "267", 
+          "id": "BE0000717", 
           "Country": "Canada", 
           "cytoscape_alias_list": [
             "Chaput Vacherin Mont D'Or"
@@ -3489,7 +3621,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Krummenswiler Forsterkase", 
-          "id": "266", 
+          "id": "BE0000240", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Krummenswiler Forsterkase"
@@ -3515,7 +3647,7 @@
             "Vacherin Mont d'Or"
           ], 
           "shared_name": "Vacherin Mont d'Or", 
-          "id": "265"
+          "id": "BE0000033"
         }
       }, 
       {
@@ -3551,7 +3683,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Fiscalini Bandage Cheddar", 
-          "id": "263", 
+          "id": "BE0000858", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Fiscalini Bandage Cheddar"
@@ -3575,7 +3707,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Grafton Cheddar", 
-          "id": "262", 
+          "id": "BE0002123", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Grafton Cheddar"
@@ -3599,7 +3731,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Keen's Cheddar", 
-          "id": "261", 
+          "id": "BE0000941", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Keen's Cheddar"
@@ -3623,7 +3755,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Lincolnshire Poacher", 
-          "id": "260", 
+          "id": "BE0001183", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Lincolnshire Poacher"
@@ -3647,7 +3779,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Montgomery's Cheddar", 
-          "id": "259", 
+          "id": "BE0002124", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Montgomery's Cheddar"
@@ -3671,7 +3803,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Reade's Cheddar", 
-          "id": "258", 
+          "id": "BE0001123", 
           "Country": "Scotland", 
           "cytoscape_alias_list": [
             "Reade's Cheddar"
@@ -3695,7 +3827,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Westcombe Cheddar", 
-          "id": "257", 
+          "id": "BE0002125", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Westcombe Cheddar"
@@ -3719,7 +3851,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Cheshire", 
-          "id": "256", 
+          "id": "BE0001147", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Cheshire"
@@ -3745,7 +3877,7 @@
             "Double Gloucester"
           ], 
           "shared_name": "Double Gloucester", 
-          "id": "255"
+          "id": "BE0000942"
         }
       }, 
       {
@@ -3756,7 +3888,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Eptifibatide", 
+          "name": "Pouilly Fume", 
           "SUID": 254, 
           "selected": false, 
           "canonicalName": "Pouilly Fume", 
@@ -3781,7 +3913,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Chevrotin Des Aravis", 
-          "id": "253", 
+          "id": "BE0002126", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Chevrotin Des Aravis"
@@ -3805,7 +3937,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Classic Blue", 
-          "id": "252", 
+          "id": "BE0002127", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Classic Blue"
@@ -3829,7 +3961,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Monte Enebro", 
-          "id": "251", 
+          "id": "BE0000211", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Monte Enebro"
@@ -3853,7 +3985,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Constant Bliss", 
-          "id": "250", 
+          "id": "BE0000538", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Constant Bliss"
@@ -3877,7 +4009,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Coolea", 
-          "id": "249", 
+          "id": "BE0000717", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Coolea"
@@ -3901,7 +4033,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Gouda Boerenkaas", 
-          "id": "248", 
+          "id": "BE0000240", 
           "Country": "Holland", 
           "cytoscape_alias_list": [
             "Gouda Boerenkaas"
@@ -3925,7 +4057,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Mimolette", 
-          "id": "247", 
+          "id": "BE0000969", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Mimolette"
@@ -3943,13 +4075,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Serum albumin iodonated", 
+          "name": "Interferon Alfa-2a, Recombinant", 
           "SUID": 246, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Chilean Carmenere-Merlot blend", 
           "cytoscape_alias_list": [
             "Chilean Carmenere-Merlot blend"
           ], 
+          "indication": "For the treatment of chronic hepatitis C, hairy cell leukemia, AIDS-related Kaposi's sarcoma, and chronic myelogenous leukemia. Also for the treatment of oral warts arising from HIV infection.", 
+          "mechanism-of-action": "Interferon alpha binds to type I interferon receptors (IFNAR1 and IFNAR2c) which, upon dimerization, activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription)which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon alpha binds less stably to type I interferon receptors than interferon beta.", 
+          "drugbank-id": "DB00034", 
           "shared_name": "Chilean Carmenere-Merlot blend", 
           "id": "246"
         }
@@ -3968,7 +4104,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Pouligny-Saint-Pierre", 
-          "id": "245", 
+          "id": "BE0002104", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Pouligny-Saint-Pierre"
@@ -3994,7 +4130,7 @@
             "Sancerrois"
           ], 
           "shared_name": "Sancerrois", 
-          "id": "244"
+          "id": "BE0002105"
         }
       }, 
       {
@@ -4011,7 +4147,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Selles-sur-Cher", 
-          "id": "243", 
+          "id": "BE0001170", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Selles-sur-Cher"
@@ -4035,7 +4171,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Valencay", 
-          "id": "242", 
+          "id": "BE0002109", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Valencay"
@@ -4053,7 +4189,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Infliximab", 
+          "name": "California Viognier", 
           "SUID": 241, 
           "selected": false, 
           "canonicalName": "California Viognier", 
@@ -4072,7 +4208,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Follitropin beta", 
+          "name": "Zierfandler", 
           "SUID": 240, 
           "selected": false, 
           "canonicalName": "Zierfandler", 
@@ -4097,7 +4233,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Doddington", 
-          "id": "239", 
+          "id": "BE0001011", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Doddington"
@@ -4123,7 +4259,7 @@
             "Saint Nectaire"
           ], 
           "shared_name": "Saint Nectaire", 
-          "id": "238"
+          "id": "BE0002110"
         }
       }, 
       {
@@ -4140,7 +4276,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Tomme de Savoie", 
-          "id": "237", 
+          "id": "BE0000387", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Tomme de Savoie"
@@ -4158,7 +4294,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Vasopressin", 
+          "name": "German Riesling Auslese", 
           "SUID": 236, 
           "selected": false, 
           "canonicalName": "German Riesling Auslese", 
@@ -4183,7 +4319,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Epoisses de Bourgogne", 
-          "id": "235", 
+          "id": "BE0000134", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Epoisses de Bourgogne"
@@ -4207,7 +4343,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "L'Ami du Chambertin", 
-          "id": "234", 
+          "id": "BE0000711", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "L'Ami du Chambertin"
@@ -4231,7 +4367,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Evora", 
-          "id": "233", 
+          "id": "BE0000467", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Evora"
@@ -4256,7 +4392,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Fiumorbu Brebis", 
-          "id": "232", 
+          "id": "BE0000661", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Fiumorbu Brebis"
@@ -4280,7 +4416,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Stanser Schafkase", 
-          "id": "231", 
+          "id": "BE0000385", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Stanser Schafkase"
@@ -4298,7 +4434,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Interferon beta-1b", 
+          "name": "Alsatian Pinot Gris", 
           "SUID": 230, 
           "selected": false, 
           "canonicalName": "Alsatian Pinot Gris", 
@@ -4323,7 +4459,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Flixer", 
-          "id": "229", 
+          "id": "BE0000293", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Flixer"
@@ -4347,7 +4483,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Ossau-Iraty Brebis", 
-          "id": "228", 
+          "id": "BE0000165", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Ossau-Iraty Brebis"
@@ -4365,7 +4501,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Interferon alfacon-1", 
+          "name": "Sicilian Chardonnay", 
           "SUID": 227, 
           "selected": false, 
           "canonicalName": "Sicilian Chardonnay", 
@@ -4390,7 +4526,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Foin d'Odeur", 
-          "id": "226", 
+          "id": "BE0000773", 
           "Country": "Canada", 
           "cytoscape_alias_list": [
             "Foin d'Odeur"
@@ -4416,7 +4552,7 @@
             "Innerschweizer Schafkase"
           ], 
           "shared_name": "Innerschweizer Schafkase", 
-          "id": "225"
+          "id": "BE0000216"
         }
       }, 
       {
@@ -4427,13 +4563,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Hyaluronidase", 
+          "name": "Desmopressin", 
           "SUID": 223, 
+          "type": "small molecule", 
           "selected": false, 
           "canonicalName": "Salice Salentino", 
           "cytoscape_alias_list": [
             "Salice Salentino"
           ], 
+          "indication": "Oral formulations may be used to manage primary nocturnal enuresis in adults and vasopressin sensitive diabetes insipidus, and for control of temporary polyuria and polydipsia following head trauma or surgery in the pituitary region. Intranasal and parenteral formulations may be used to manage spontaneous or trauma-induced bleeds (e.g. hemarthrosis, intramuscular hematoma, mucosal bleeding) in patients with hemophilia A or von Willebrand's disease Type I. May also be used parenterally to prevent or treat bleeding in patients with uremia.", 
+          "mechanism-of-action": "Desmopressin emulates the actions of endogenous human ADH (refer to Pharmacology section above). Desmpressin is a structural analogue of ADH modified by  deamination of 1-cysteine and substitution of 8-L-arginine by 8-D-arginine. Compared to natural ADH, desmopressin elicits a great antidiuretic response on weight basis.", 
+          "drugbank-id": "DB00035", 
           "shared_name": "Salice Salentino", 
           "id": "223"
         }
@@ -4446,13 +4586,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Insulin, porcine", 
+          "name": "Coagulation factor VIIa", 
           "SUID": 222, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Minervois", 
           "cytoscape_alias_list": [
             "Minervois"
           ], 
+          "indication": "For treatment of hemorrhagic complications in hemophilia A and B", 
+          "mechanism-of-action": "NovoSeven activates the coagulation or clotting cascade by cleaving Factor IX and Factor X, which activates them and then leads to activation of thrombin and fibrin.", 
+          "drugbank-id": "DB00036", 
           "shared_name": "Minervois", 
           "id": "222"
         }
@@ -4465,7 +4609,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Trastuzumab", 
+          "name": "California Pinot Blanc", 
           "SUID": 221, 
           "selected": false, 
           "canonicalName": "California Pinot Blanc", 
@@ -4490,7 +4634,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Fougerus", 
-          "id": "220", 
+          "id": "BE0002128", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Fougerus"
@@ -4514,7 +4658,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Brillat-Savarin", 
-          "id": "219", 
+          "id": "BE0000967", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Brillat-Savarin"
@@ -4538,7 +4682,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Pierre-Robert", 
-          "id": "218", 
+          "id": "BE0000403", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Pierre-Robert"
@@ -4564,7 +4708,7 @@
             "Blu de Moncenisio"
           ], 
           "shared_name": "Blu de Moncenisio", 
-          "id": "217"
+          "id": "BE0000333"
         }
       }, 
       {
@@ -4583,7 +4727,7 @@
             "Edam"
           ], 
           "shared_name": "Edam", 
-          "id": "216"
+          "id": "BE0001178"
         }
       }, 
       {
@@ -4600,7 +4744,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Roomano", 
-          "id": "215", 
+          "id": "BE0000416", 
           "Country": "Holland", 
           "cytoscape_alias_list": [
             "Roomano"
@@ -4624,7 +4768,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Great Hill Blue", 
-          "id": "214", 
+          "id": "BE0000748", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Great Hill Blue"
@@ -4642,13 +4786,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Rituximab", 
+          "name": "Oprelvekin", 
           "SUID": 213, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Cornas", 
           "cytoscape_alias_list": [
             "Cornas"
           ], 
+          "indication": "Increases reduced platelet levels due to chemotherapy", 
+          "mechanism-of-action": "Oprelvekin binds to the interleukin 11 receptor which leads to a cascade of signal transduction events. IL-11 is a thrombopoietic growth factor that directly stimulates the proliferation of hematopoietic stem cells and megakaryocyte progenitor cells and induces megakaryocyte maturation resulting in increased platelet production.", 
+          "drugbank-id": "DB00038", 
           "shared_name": "Cornas", 
           "id": "213"
         }
@@ -4661,13 +4809,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Basiliximab", 
+          "name": "Palifermin", 
           "SUID": 212, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Muscatel", 
           "cytoscape_alias_list": [
             "Muscatel"
           ], 
+          "indication": "For treatment of oral mucositis associated with chemotherapy and radiation therapy.", 
+          "mechanism-of-action": "Kepivance binds to the human keratinocyte growth factor (KGF) receptor found on buccal cell surfaces. The binding activates a Ras-MapK (Map kinase) signaling pathway which leads to the transcriptional activation of many proteins important for cell growth and survival.", 
+          "drugbank-id": "DB00039", 
           "shared_name": "Muscatel", 
           "id": "212"
         }
@@ -4686,7 +4838,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Hoch Ybrig", 
-          "id": "211", 
+          "id": "BE0002129", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Hoch Ybrig"
@@ -4704,13 +4856,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Muromonab", 
+          "name": "Glucagon recombinant", 
           "SUID": 210, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Tuscan Sangiovese", 
           "cytoscape_alias_list": [
             "Tuscan Sangiovese"
           ], 
+          "indication": "For treatment of severe hypoglycemia, also used in gastrointestinal imaging", 
+          "mechanism-of-action": "Glucagon binds the glucagon receptor, a G protein-coupled receptor located in the plasma membrane, which then initiates a dual signaling pathway using both adenylate cyclase activation and increased intracellular calcium. Adenylate cyclase manufactures cAMP (cyclic AMP), which activates protein kinase A (cAMP-dependent protein kinase). This enzyme, in turn, activates phosphorylase kinase, which, in turn, phosphorylates glycogen phosphorylase, converting into the active form called phosphorylase A. Phosphorylase A is the enzyme responsible for the release of glucose-1-phosphate from glycogen polymers. This yields glucose molecules to be released into the blood. Glucagon receptors are found in the liver, kidney, brain and pancreatic islet cells. The glucagon mediated signals lead to an increase in insulin excretion", 
+          "drugbank-id": "DB00040", 
           "shared_name": "Tuscan Sangiovese", 
           "id": "210"
         }
@@ -4729,7 +4885,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Persille de Tignes", 
-          "id": "209", 
+          "id": "BE0002131", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Persille de Tignes"
@@ -4747,13 +4903,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Digoxin Immune Fab (Ovine)", 
+          "name": "Aldesleukin", 
           "SUID": 208, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Cabernet Sauvignon", 
           "cytoscape_alias_list": [
             "Cabernet Sauvignon"
           ], 
+          "indication": "For treatment of adults with metastatic renal cell carcinoma.", 
+          "mechanism-of-action": "Aldesleukin binds to the IL-2 receptor which leads to heterodimerization of the cytoplasmic domains of the IL-2R beta and gamma(c) chains, activation of the tyrosine kinase Jak3, and phosphorylation of tyrosine residues on the IL-2R beta chain. These events led to the creation of an activated receptor complex, to which various cytoplasmic signaling molecules are recruited and become substrates for regulatory enzymes (especially tyrosine kinases) that are associated with the receptor. These events stimulate growth and differentiation of T cells.", 
+          "drugbank-id": "DB00041", 
           "shared_name": "Cabernet Sauvignon", 
           "id": "208"
         }
@@ -4772,7 +4932,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Harvest Moon", 
-          "id": "207", 
+          "id": "BE0001203", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Harvest Moon"
@@ -4790,13 +4950,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Ibritumomab", 
+          "name": "Botulinum Toxin Type B", 
           "SUID": 206, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Negroamaro-Malvasia", 
           "cytoscape_alias_list": [
             "Negroamaro-Malvasia"
           ], 
+          "indication": "For the treatment of patients with cervical dystonia to reduce the severity of abnormal head position and neck pain associated with cervical dystonia.", 
+          "mechanism-of-action": "Botulinum Toxin Type B binds to and cleaves the synaptic Vesicle Associated Membrane Protein (VAMP, also known as synaptobrevin) which is a component of the protein complex responsible for docking and fusion of the synaptic vesicle to the presynaptic membrane, a necessary step to neurotransmitter release.", 
+          "drugbank-id": "DB00042", 
           "shared_name": "Negroamaro-Malvasia", 
           "id": "206"
         }
@@ -4815,7 +4979,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Hilltown Wheel", 
-          "id": "205", 
+          "id": "BE0002133", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Hilltown Wheel"
@@ -4841,7 +5005,7 @@
             "Chevrotin"
           ], 
           "shared_name": "Chevrotin", 
-          "id": "204"
+          "id": "BE0001031"
         }
       }, 
       {
@@ -4860,7 +5024,7 @@
             "Harvest Cheese"
           ], 
           "shared_name": "Harvest Cheese", 
-          "id": "203"
+          "id": "BE0000527"
         }
       }, 
       {
@@ -4879,7 +5043,7 @@
             "Tomalo Tomme"
           ], 
           "shared_name": "Tomalo Tomme", 
-          "id": "202"
+          "id": "BE0002134"
         }
       }, 
       {
@@ -4898,7 +5062,7 @@
             "Tomme de Chevre"
           ], 
           "shared_name": "Tomme de Chevre", 
-          "id": "201"
+          "id": "BE0000857"
         }
       }, 
       {
@@ -4917,7 +5081,7 @@
             "Bundner Alpkase"
           ], 
           "shared_name": "Bundner Alpkase", 
-          "id": "200"
+          "id": "BE0000651"
         }
       }, 
       {
@@ -4936,7 +5100,7 @@
             "Urner Bergkase"
           ], 
           "shared_name": "Urner Bergkase", 
-          "id": "199"
+          "id": "BE0000658"
         }
       }, 
       {
@@ -4953,7 +5117,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Hudson Valley Camembert", 
-          "id": "198", 
+          "id": "BE0002102", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Hudson Valley Camembert"
@@ -4977,7 +5141,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Humboldt Fog", 
-          "id": "197", 
+          "id": "BE0002137", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Humboldt Fog"
@@ -5001,7 +5165,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Wabash Cannonball", 
-          "id": "196", 
+          "id": "BE0002136", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Wabash Cannonball"
@@ -5025,7 +5189,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Ibores", 
-          "id": "195", 
+          "id": "BE0002138", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Ibores"
@@ -5050,7 +5214,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Queso de la Garrotxa", 
-          "id": "194", 
+          "id": "BE0000015", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Queso de la Garrotxa"
@@ -5074,7 +5238,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Jersey Blue", 
-          "id": "193", 
+          "id": "BE0002139", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Jersey Blue"
@@ -5098,7 +5262,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Langres", 
-          "id": "192", 
+          "id": "BE0000134", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Langres"
@@ -5122,7 +5286,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Lavort", 
-          "id": "191", 
+          "id": "BE0001164", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Lavort"
@@ -5146,7 +5310,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Le Cabri Ariegeois", 
-          "id": "190", 
+          "id": "BE0000033", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Le Cabri Ariegeois"
@@ -5170,7 +5334,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Le Chevre Noir", 
-          "id": "189", 
+          "id": "BE0000858", 
           "Country": "Canada", 
           "cytoscape_alias_list": [
             "Le Chevre Noir"
@@ -5188,13 +5352,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Daptomycin", 
+          "name": "Omalizumab", 
           "SUID": 188, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "California Syrah", 
           "cytoscape_alias_list": [
             "California Syrah"
           ], 
+          "indication": "For treatment of asthma caused by allergies", 
+          "mechanism-of-action": "Xolair binds to IgE (a class of antibodies normally secreted in allergic responses), which prevents their binding to mast cells and basophils.", 
+          "drugbank-id": "DB00043", 
           "shared_name": "California Syrah", 
           "id": "188"
         }
@@ -5207,7 +5375,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Tositumomab", 
+          "name": "Malvasia Bianca", 
           "SUID": 187, 
           "selected": false, 
           "canonicalName": "Malvasia Bianca", 
@@ -5232,7 +5400,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Le Moulis cow", 
-          "id": "186", 
+          "id": "BE0000033", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Le Moulis cow"
@@ -5258,7 +5426,7 @@
             "Bethmale"
           ], 
           "shared_name": "Bethmale", 
-          "id": "185"
+          "id": "BE0000858"
         }
       }, 
       {
@@ -5275,7 +5443,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Le Moulis goat", 
-          "id": "184", 
+          "id": "BE0000025", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Le Moulis goat"
@@ -5299,7 +5467,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Le Moulis sheep", 
-          "id": "183", 
+          "id": "BE0002140", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Le Moulis sheep"
@@ -5323,7 +5491,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Mahon", 
-          "id": "182", 
+          "id": "BE0002130", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Mahon"
@@ -5347,7 +5515,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Majorero", 
-          "id": "181", 
+          "id": "BE0002141", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Majorero"
@@ -5372,7 +5540,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Ticklemore", 
-          "id": "180", 
+          "id": "BE0004823", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Ticklemore"
@@ -5390,7 +5558,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Pegvisomant", 
+          "name": "Vinho Verde", 
           "SUID": 179, 
           "selected": false, 
           "canonicalName": "Vinho Verde", 
@@ -5415,7 +5583,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Manchego", 
-          "id": "178", 
+          "id": "BE0000203", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Manchego"
@@ -5441,7 +5609,7 @@
             "Castellano"
           ], 
           "shared_name": "Castellano", 
-          "id": "177"
+          "id": "BE0000134"
         }
       }, 
       {
@@ -5458,7 +5626,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Roncal", 
-          "id": "176", 
+          "id": "BE0000704", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Roncal"
@@ -5482,7 +5650,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Maroilles", 
-          "id": "175", 
+          "id": "BE0000901", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Maroilles"
@@ -5506,7 +5674,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Pave d'Auge", 
-          "id": "174", 
+          "id": "BE0002093", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Pave d'Auge"
@@ -5531,7 +5699,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Matos St. George", 
-          "id": "173", 
+          "id": "BE0002094", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Matos St. George"
@@ -5555,7 +5723,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Mont St. Francis", 
-          "id": "172", 
+          "id": "BE0002095", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Mont St. Francis"
@@ -5579,7 +5747,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Montasio", 
-          "id": "170", 
+          "id": "BE0002096", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Montasio"
@@ -5605,7 +5773,7 @@
             "Asiago"
           ], 
           "shared_name": "Asiago", 
-          "id": "169"
+          "id": "BE0002097"
         }
       }, 
       {
@@ -5622,7 +5790,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Piave", 
-          "id": "168", 
+          "id": "BE0001529", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Piave"
@@ -5640,7 +5808,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Botulinum Toxin Type A", 
+          "name": "Getariako Txakolina", 
           "SUID": 167, 
           "selected": false, 
           "canonicalName": "Getariako Txakolina", 
@@ -5667,7 +5835,7 @@
             "Montsec"
           ], 
           "shared_name": "Montsec", 
-          "id": "166"
+          "id": "BE0000710"
         }
       }, 
       {
@@ -5684,7 +5852,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Monterey Dry Jack", 
-          "id": "165", 
+          "id": "BE0002098", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Monterey Dry Jack"
@@ -5708,7 +5876,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Parmigiano-Reggiano", 
-          "id": "164", 
+          "id": "BE0002099", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Parmigiano-Reggiano"
@@ -5733,7 +5901,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Morbier", 
-          "id": "163", 
+          "id": "BE0002100", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Morbier"
@@ -5759,7 +5927,7 @@
             "St. Nectaire"
           ], 
           "shared_name": "St. Nectaire", 
-          "id": "162"
+          "id": "BE0000075"
         }
       }, 
       {
@@ -5770,13 +5938,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Pancrelipase", 
+          "name": "Lutropin alfa", 
           "SUID": 161, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Priorat", 
           "cytoscape_alias_list": [
             "Priorat"
           ], 
+          "indication": "For treatment of infertility in women with hypothalamic or pituitary insufficiency (hypogonadotropic hypogonadism) and profound LH deficiency (LH <1.2 international units [IU]/L)", 
+          "mechanism-of-action": "Luteinizing hormone binds to a receptor shared with the human chorionic gonadotropin hormone (hCG) on the ovarian theca (and granulosa) cells and testicular Leydig cells. This LH/CG transmembrane receptor is a member of the super-family of G protein-coupled receptors. Adenylate cyclase then activates many other pathways leading to steroid hormone production and other follicle maturation processes.", 
+          "drugbank-id": "DB00044", 
           "shared_name": "Priorat", 
           "id": "161"
         }
@@ -5795,7 +5967,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Mothais-sur-Feuille", 
-          "id": "160", 
+          "id": "BE0000345", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Mothais-sur-Feuille"
@@ -5822,7 +5994,7 @@
             "Bougon"
           ], 
           "shared_name": "Bougon", 
-          "id": "159"
+          "id": "BE0004806"
         }
       }, 
       {
@@ -5839,7 +6011,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Nisa", 
-          "id": "158", 
+          "id": "BE0001155", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Nisa"
@@ -5865,7 +6037,7 @@
             "Queijo Amarelo da Beria Baixa"
           ], 
           "shared_name": "Queijo Amarelo da Beria Baixa", 
-          "id": "157"
+          "id": "BE0000439"
         }
       }, 
       {
@@ -5884,7 +6056,7 @@
             "Queijo Evora"
           ], 
           "shared_name": "Queijo Evora", 
-          "id": "156"
+          "id": "BE0000901"
         }
       }, 
       {
@@ -5895,13 +6067,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Streptokinase", 
+          "name": "OspA lipoprotein", 
           "SUID": 155, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Australian Grenache-Mourvedre-Syrah blend", 
           "cytoscape_alias_list": [
             "Australian Grenache-Mourvedre-Syrah blend"
           ], 
+          "indication": "For prophylactic treatment of Lyme Disease", 
+          "mechanism-of-action": "OspA lipoprotein, an outer surface protein of the bacteria Borrelia burgdorferi sensu stricto ZS7, is used to stimulate the production of specific antibodies against B. burgdorferi. It is used as a vaccination against Lyme Disease, a disease carried by ticks.", 
+          "drugbank-id": "DB00045", 
           "shared_name": "Australian Grenache-Mourvedre-Syrah blend", 
           "id": "155"
         }
@@ -5914,7 +6090,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Alemtuzumab", 
+          "name": "Alsatian Muscat", 
           "SUID": 154, 
           "selected": false, 
           "canonicalName": "Alsatian Muscat", 
@@ -5939,7 +6115,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Orb Weaver Vermont Farmhouse Cheese", 
-          "id": "153", 
+          "id": "BE0002093", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Orb Weaver Vermont Farmhouse Cheese"
@@ -5957,13 +6133,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Alglucerase", 
+          "name": "Insulin Lispro", 
           "SUID": 152, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Bourgueil", 
           "cytoscape_alias_list": [
             "Bourgueil"
           ], 
+          "indication": "For the treatment of Type 1 or 2 diabetes mellitus. To be used in conjunction with an intermediate or long-acting insulin except when used in a continuous insulin infusion pump.", 
+          "mechanism-of-action": "Insulin lispro binds to the insulin receptor (IR), a heterotetrameric protein consisting of two extracellular alpha units and two transmembrane beta units. The binding of insulin to the alpha subunit of IR stimulates the tyrosine kinase activity intrinsic to the beta subunit of the receptor. The bound receptor autophosphorylates and phosphorylates numerous intracellular substrates such as insulin receptor substrates (IRS) proteins, Cbl, APS, Shc and Gab 1. Activation of these proteins leads to the activation of downstream signaling molecules including PI3 kinase and Akt. Akt regulates the activity of glucose transporter 4 (GLUT4) and protein kinase C (PKC), both of which play critical roles in metabolism and catabolism. In humans, insulin is stored in the form of hexamers; however, only insulin monomers are able to interact with IR. Reversal of the proline and lysine residues at positions B28 and B29 of native insulin eliminates hydrophobic interactions and weakens some of the hydrogen bonds that contribute to the stability of the insulin dimers that comprise insulin hexamers. Hexamers of insulin lispro are produced in the presence of zinc and <i>m</i>-cresol. These weakly associated hexamers quickly dissociate upon subcutaneous injection and are absorbed as monomers through vascular endothelial cells. These properties give insulin lispro its fast-acting properties.", 
+          "drugbank-id": "DB00046", 
           "shared_name": "Bourgueil", 
           "id": "152"
         }
@@ -5984,7 +6164,7 @@
             "Istara"
           ], 
           "shared_name": "Istara", 
-          "id": "151"
+          "id": "BE0002094"
         }
       }, 
       {
@@ -6003,7 +6183,7 @@
             "Vallee d'Aspe"
           ], 
           "shared_name": "Vallee d'Aspe", 
-          "id": "150"
+          "id": "BE0002095"
         }
       }, 
       {
@@ -6014,13 +6194,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Capromab", 
+          "name": "Insulin Glargine", 
           "SUID": 149, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Australian Cabernet Sauvignon", 
           "cytoscape_alias_list": [
             "Australian Cabernet Sauvignon"
           ], 
+          "indication": "For the treatment of Type 1 or 2 diabetes mellitus in patients over 17 years old who require a long-acting (basal) insulin for the control of hyperglycemia. May be used in pediatric patients with Type 1 diabetes mellitus who require a long-acting (basal) insulin for glycemic control.", 
+          "mechanism-of-action": "Insulin glargine binds to the insulin receptor (IR), a heterotetrameric protein consisting of two extracellular alpha units and two transmembrane beta units. The binding of insulin to the alpha subunit of IR stimulates the tyrosine kinase activity intrinsic to the beta subunit of the receptor. The bound receptor autophosphorylates and phosphorylates numerous intracellular substrates such as insulin receptor substrates (IRS) proteins, Cbl, APS, Shc and Gab 1. Activation of these proteins leads to the activation of downstream signaling molecules including PI3 kinase and Akt. Akt regulates the activity of glucose transporter 4 (GLUT4) and protein kinase C (PKC), both of which play critical roles in metabolism. Insulin glargine is completely soluble at pH 4, the pH of administered solution, and has low solubility at physiological pH 7.4. Upon subcuteous injection, the solution is neutralized resulting in the formation of microprecipitates. Small amounts of insulin glargine are released from microprecipitates giving the drug a relatively constant concentration over time profile over 24 hours with no pronounced peak. This release mechanism allows the drug to mimic basal insulin levels within the body.", 
+          "drugbank-id": "DB00047", 
           "shared_name": "Australian Cabernet Sauvignon", 
           "id": "149"
         }
@@ -6041,7 +6225,7 @@
             "Grana Padano"
           ], 
           "shared_name": "Grana Padano", 
-          "id": "148"
+          "id": "BE0002096"
         }
       }, 
       {
@@ -6052,7 +6236,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Laronidase", 
+          "name": "Italian Pinot Grigio", 
           "SUID": 147, 
           "selected": false, 
           "canonicalName": "Italian Pinot Grigio", 
@@ -6077,7 +6261,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Pau", 
-          "id": "146", 
+          "id": "BE0002097", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Pau"
@@ -6102,7 +6286,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Pecorino Foglie Noce", 
-          "id": "145", 
+          "id": "BE0001529", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Pecorino Foglie Noce"
@@ -6127,7 +6311,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Penamellera", 
-          "id": "144", 
+          "id": "BE0000710", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Penamellera"
@@ -6145,13 +6329,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Cyclosporine", 
+          "name": "Collagenase clostridium histolyticum", 
           "SUID": 143, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Chilean Cabernet Sauvignon", 
           "cytoscape_alias_list": [
             "Chilean Cabernet Sauvignon"
           ], 
+          "indication": "Used to promote debridement of necrotic tissue in the treatment of severe burns and dermal ulcers including decubitus ulcers.", 
+          "mechanism-of-action": "Collagenase is a protease that is specific to collagen. The triple helical region of interstitial collagens is highly resistant to most cell proteinases. However, during remodeling of the connective tissue in such processes as wound healing and metastasis, collagen becomes susceptible to cleavage by collagenases. Collagenase cleaves all 3 alpha helical chains of native Types I, II and III collagens at a single locus by hydrolyzing the peptide bond following the Gly residue of the sequence: Gly 775-(Ile or Leu) 776-(Ala or Leu) 777 located approximately three-fourths of the chain length from each N-terminus", 
+          "drugbank-id": "DB00048", 
           "shared_name": "Chilean Cabernet Sauvignon", 
           "id": "143"
         }
@@ -6164,13 +6352,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Alefacept", 
+          "name": "Rasburicase", 
           "SUID": 142, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Tempranillo-Garnacha Blend", 
           "cytoscape_alias_list": [
             "Tempranillo-Garnacha Blend"
           ], 
+          "indication": "For treatment of hyperuricemia, reduces elevated plasma uric acid levels (from chemotherapy)", 
+          "mechanism-of-action": "Rasburicase catalyzes enzymatic oxidation of uric acid into an inactive and soluble metabolite (allantoin).", 
+          "drugbank-id": "DB00049", 
           "shared_name": "Tempranillo-Garnacha Blend", 
           "id": "142"
         }
@@ -6183,7 +6375,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Felypressin", 
+          "name": "Spanish Sauvignon Blanc", 
           "SUID": 141, 
           "selected": false, 
           "canonicalName": "Spanish Sauvignon Blanc", 
@@ -6208,7 +6400,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Perail", 
-          "id": "140", 
+          "id": "BE0002098", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Perail"
@@ -6234,7 +6426,7 @@
             "Cabecou de Rocamadour"
           ], 
           "shared_name": "Cabecou de Rocamadour", 
-          "id": "139"
+          "id": "BE0002099"
         }
       }, 
       {
@@ -6253,7 +6445,7 @@
             "Pave d'Affinois"
           ], 
           "shared_name": "Pave d'Affinois", 
-          "id": "138"
+          "id": "BE0002100"
         }
       }, 
       {
@@ -6270,7 +6462,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Saint-Marcellin", 
-          "id": "137", 
+          "id": "BE0001068", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Saint-Marcellin"
@@ -6296,7 +6488,7 @@
             "Persille de la Haute Tarentaise"
           ], 
           "shared_name": "Persille de la Haute Tarentaise", 
-          "id": "136"
+          "id": "BE0000016"
         }
       }, 
       {
@@ -6315,7 +6507,7 @@
             "Persille des Aravis"
           ], 
           "shared_name": "Persille des Aravis", 
-          "id": "135"
+          "id": "BE0000041"
         }
       }, 
       {
@@ -6326,7 +6518,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Urofollitropin", 
+          "name": "Chateau Grillet", 
           "SUID": 134, 
           "selected": false, 
           "canonicalName": "Chateau Grillet", 
@@ -6353,7 +6545,7 @@
             "Gratte-Paille"
           ], 
           "shared_name": "Gratte-Paille", 
-          "id": "133"
+          "id": "BE0000240"
         }
       }, 
       {
@@ -6370,7 +6562,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Pleasant Ridge Reserve", 
-          "id": "132", 
+          "id": "BE0001151", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Pleasant Ridge Reserve"
@@ -6394,7 +6586,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Sainte-Maure de Touraine", 
-          "id": "131", 
+          "id": "BE0000943", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Sainte-Maure de Touraine"
@@ -6412,7 +6604,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Efalizumab", 
+          "name": "Beaujolais blanc", 
           "SUID": 130, 
           "selected": false, 
           "canonicalName": "Beaujolais blanc", 
@@ -6437,7 +6629,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Queijo Amarelo da Beira Baixa", 
-          "id": "129", 
+          "id": "BE0001140", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Queijo Amarelo da Beira Baixa"
@@ -6455,13 +6647,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Serum albumin", 
+          "name": "Cetrorelix", 
           "SUID": 128, 
+          "type": "small molecule", 
           "selected": false, 
           "canonicalName": "Provencal Mourvedre-Cinsault-Grenache blend", 
           "cytoscape_alias_list": [
             "Provencal Mourvedre-Cinsault-Grenache blend"
           ], 
+          "indication": "For the inhibition of premature LH surges in women undergoing controlled ovarian stimulation", 
+          "mechanism-of-action": "Cetrorelix binds to the gonadotropin releasing hormone receptor and acts as a potent inhibitor of gonadotropin secretion. It competes with natural GnRH for binding to membrane receptors on pituitary cells and thus controls the release of LH and FSH in a dose-dependent manner.", 
+          "drugbank-id": "DB00050", 
           "shared_name": "Provencal Mourvedre-Cinsault-Grenache blend", 
           "id": "128"
         }
@@ -6480,7 +6676,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Queijo Terrincho Velho", 
-          "id": "127", 
+          "id": "BE0000048", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Queijo Terrincho Velho"
@@ -6498,7 +6694,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Choriogonadotropin alfa", 
+          "name": "Chilean Sauvignon Blanc", 
           "SUID": 126, 
           "selected": false, 
           "canonicalName": "Chilean Sauvignon Blanc", 
@@ -6523,7 +6719,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Queso de la Peral", 
-          "id": "125", 
+          "id": "BE0001129", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Queso de la Peral"
@@ -6549,7 +6745,7 @@
             "Innerschweizer Weicher"
           ], 
           "shared_name": "Innerschweizer Weicher", 
-          "id": "124"
+          "id": "BE0002112"
         }
       }, 
       {
@@ -6566,7 +6762,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Red Hawk", 
-          "id": "123", 
+          "id": "BE0002142", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Red Hawk"
@@ -6590,7 +6786,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Roaring Forties Blue", 
-          "id": "122", 
+          "id": "BE0000403", 
           "Country": "Australia", 
           "cytoscape_alias_list": [
             "Roaring Forties Blue"
@@ -6636,7 +6832,7 @@
             "Brunet"
           ], 
           "shared_name": "Brunet", 
-          "id": "120"
+          "id": "BE0001161"
         }
       }, 
       {
@@ -6655,7 +6851,7 @@
             "Cimonino"
           ], 
           "shared_name": "Cimonino", 
-          "id": "119"
+          "id": "BE0000674"
         }
       }, 
       {
@@ -6672,7 +6868,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Robiola a Due Latti", 
-          "id": "118", 
+          "id": "BE0000901", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola a Due Latti"
@@ -6696,7 +6892,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Robiola a Tre Latti", 
-          "id": "117", 
+          "id": "BE0002093", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola a Tre Latti"
@@ -6720,7 +6916,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Castagna", 
-          "id": "116", 
+          "id": "BE0002094", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Castagna"
@@ -6744,7 +6940,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola di Roccaverano", 
-          "id": "115", 
+          "id": "BE0002095", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola di Roccaverano"
@@ -6768,7 +6964,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Fia", 
-          "id": "114", 
+          "id": "BE0002096", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Fia"
@@ -6792,7 +6988,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Incavolata", 
-          "id": "113", 
+          "id": "BE0002097", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Incavolata"
@@ -6816,7 +7012,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Pineta", 
-          "id": "112", 
+          "id": "BE0001529", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Pineta"
@@ -6840,7 +7036,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Vite", 
-          "id": "111", 
+          "id": "BE0000710", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Vite"
@@ -6866,7 +7062,7 @@
             "Rochetta"
           ], 
           "shared_name": "Rochetta", 
-          "id": "110"
+          "id": "BE0002098"
         }
       }, 
       {
@@ -6883,7 +7079,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Rogue River Blue", 
-          "id": "109", 
+          "id": "BE0002099", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Rogue River Blue"
@@ -6909,7 +7105,7 @@
             "Bleu des Basques"
           ], 
           "shared_name": "Bleu des Basques", 
-          "id": "108"
+          "id": "BE0002100"
         }
       }, 
       {
@@ -6928,7 +7124,7 @@
             "L'Edel de Cleron"
           ], 
           "shared_name": "L'Edel de Cleron", 
-          "id": "107"
+          "id": "BE0004842"
         }
       }, 
       {
@@ -6939,13 +7135,17 @@
         "selected": false, 
         "data": {
           "NodeType": "RedWine", 
-          "name": "Anti-thymocyte Globulin (Rabbit)", 
+          "name": "Adalimumab", 
           "SUID": 106, 
+          "type": "biotech", 
           "selected": false, 
           "canonicalName": "Garnacha-Cabernet Sauvignon blend", 
           "cytoscape_alias_list": [
             "Garnacha-Cabernet Sauvignon blend"
           ], 
+          "indication": "For treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, and Crohn's disease.", 
+          "mechanism-of-action": "Adalimumab binds to TNF-alpha and blocks its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab also lyses surface TNF expressing cells in vitro in the presence of complement.", 
+          "drugbank-id": "DB00051", 
           "shared_name": "Garnacha-Cabernet Sauvignon blend", 
           "id": "106"
         }
@@ -6964,7 +7164,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Saint-Felicien", 
-          "id": "105", 
+          "id": "BE0000394", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Saint-Felicien"
@@ -6988,7 +7188,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Saint-Nectaire", 
-          "id": "104", 
+          "id": "BE0004798", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Saint-Nectaire"
@@ -7012,7 +7212,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Sbrinz", 
-          "id": "103", 
+          "id": "BE0000661", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Sbrinz"
@@ -7036,7 +7236,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Shropshire Blue", 
-          "id": "102", 
+          "id": "BE0000385", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Shropshire Blue"
@@ -7062,7 +7262,7 @@
             "Colston Bassett Stilton"
           ], 
           "shared_name": "Colston Bassett Stilton", 
-          "id": "101"
+          "id": "BE0004828"
         }
       }, 
       {
@@ -7079,7 +7279,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Stanser Chua Flada", 
-          "id": "100", 
+          "id": "BE0000917", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Stanser Chua Flada"
@@ -7104,7 +7304,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Stanser Roteli", 
-          "id": "99", 
+          "id": "BE0001119", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Stanser Roteli"
@@ -7129,7 +7329,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Stanser Schaf Reblochon", 
-          "id": "98", 
+          "id": "BE0004795", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Stanser Schaf Reblochon"
@@ -7148,7 +7348,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Filgrastim", 
+          "name": "California Gewurztraminer", 
           "SUID": 97, 
           "selected": false, 
           "canonicalName": "California Gewurztraminer", 
@@ -7167,7 +7367,7 @@
         "selected": false, 
         "data": {
           "NodeType": "WhiteWine", 
-          "name": "Coagulation Factor IX", 
+          "name": "Pinot Grigio", 
           "SUID": 96, 
           "selected": false, 
           "canonicalName": "Pinot Grigio", 
@@ -7192,7 +7392,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Tarentaise", 
-          "id": "95", 
+          "id": "BE0000932", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Tarentaise"
@@ -7216,7 +7416,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Taupiniere", 
-          "id": "94", 
+          "id": "BE0001155", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Taupiniere"
@@ -7240,7 +7440,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Tessiner Geisskase", 
-          "id": "93", 
+          "id": "BE0001119", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Tessiner Geisskase"
@@ -7264,7 +7464,7 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Tetoun de Santa Agata", 
-          "id": "92", 
+          "id": "BE0004795", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Tetoun de Santa Agata"
@@ -7290,7 +7490,7 @@
             "Picodon de la Drome"
           ], 
           "shared_name": "Picodon de la Drome", 
-          "id": "91"
+          "id": "BE0000932"
         }
       }, 
       {
@@ -7307,7 +7507,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Truffe de Valensole", 
-          "id": "90", 
+          "id": "BE0000704", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Truffe de Valensole"
@@ -7331,7 +7531,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Thomasville Tomme", 
-          "id": "89", 
+          "id": "BE0000387", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Thomasville Tomme"
@@ -7357,7 +7557,7 @@
             "Orb Weaver"
           ], 
           "shared_name": "Orb Weaver", 
-          "id": "88"
+          "id": "BE0000293"
         }
       }, 
       {
@@ -7374,7 +7574,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Wildmannli", 
-          "id": "87", 
+          "id": "BE0000165", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Wildmannli"
@@ -7421,7 +7621,7 @@
             "Aviateur"
           ], 
           "shared_name": "Aviateur", 
-          "id": "85"
+          "id": "BE0000773"
         }
       }, 
       {
@@ -7440,7 +7640,7 @@
             "Bayard Gourmand"
           ], 
           "shared_name": "Bayard Gourmand", 
-          "id": "84"
+          "id": "BE0000661"
         }
       }, 
       {
@@ -7459,7 +7659,7 @@
             "Brique Fleurie"
           ], 
           "shared_name": "Brique Fleurie", 
-          "id": "83"
+          "id": "BE0000385"
         }
       }, 
       {
@@ -7478,7 +7678,7 @@
             "Fontainbleau"
           ], 
           "shared_name": "Fontainbleau", 
-          "id": "82"
+          "id": "BE0000661"
         }
       }, 
       {
@@ -7497,7 +7697,7 @@
             "Grand Mogol"
           ], 
           "shared_name": "Grand Mogol", 
-          "id": "81"
+          "id": "BE0000385"
         }
       }, 
       {
@@ -7516,7 +7716,7 @@
             "Jean de Brie"
           ], 
           "shared_name": "Jean de Brie", 
-          "id": "80"
+          "id": "BE0004821"
         }
       }, 
       {
@@ -7535,7 +7735,7 @@
             "Jean Grogne"
           ], 
           "shared_name": "Jean Grogne", 
-          "id": "79"
+          "id": "BE0000984"
         }
       }, 
       {
@@ -7554,7 +7754,7 @@
             "Saint-Andre"
           ], 
           "shared_name": "Saint-Andre", 
-          "id": "78"
+          "id": "BE0000033"
         }
       }, 
       {
@@ -7573,7 +7773,7 @@
             "Saint-Clair"
           ], 
           "shared_name": "Saint-Clair", 
-          "id": "77"
+          "id": "BE0000858"
         }
       }, 
       {
@@ -7592,7 +7792,7 @@
             "Vignelait"
           ], 
           "shared_name": "Vignelait", 
-          "id": "76"
+          "id": "BE0001183"
         }
       }, 
       {
@@ -7609,7 +7809,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Tumalo Tomme", 
-          "id": "75", 
+          "id": "BE0002122", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Tumalo Tomme"
@@ -7635,7 +7835,7 @@
             "Capricious"
           ], 
           "shared_name": "Capricious", 
-          "id": "74"
+          "id": "BE0004466"
         }
       }, 
       {
@@ -7654,7 +7854,7 @@
             "Redmondo"
           ], 
           "shared_name": "Redmondo", 
-          "id": "73"
+          "id": "BE0002123"
         }
       }, 
       {
@@ -7671,7 +7871,7 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Urner Alpkase", 
-          "id": "72", 
+          "id": "BE0000941", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Urner Alpkase"
@@ -7697,7 +7897,7 @@
             "Alp Drackloch"
           ], 
           "shared_name": "Alp Drackloch", 
-          "id": "71"
+          "id": "BE0001123"
         }
       }, 
       {
@@ -7714,7 +7914,7 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Vacherin du Haut-Doubs", 
-          "id": "70", 
+          "id": "BE0002124", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Vacherin du Haut-Doubs"
@@ -7741,7 +7941,7 @@
             "Vacherin d'Abondance"
           ], 
           "shared_name": "Vacherin d'Abondance", 
-          "id": "69"
+          "id": "BE0002125"
         }
       }, 
       {
@@ -7760,7 +7960,7 @@
             "Vacherin Haut-Rive"
           ], 
           "shared_name": "Vacherin Haut-Rive", 
-          "id": "68"
+          "id": "BE0001147"
         }
       }, 
       {
@@ -7777,7 +7977,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Val Bagner", 
-          "id": "67", 
+          "id": "BE0000942", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Val Bagner"
@@ -7803,7 +8003,7 @@
             "Raclette Combes"
           ], 
           "shared_name": "Raclette Combes", 
-          "id": "66"
+          "id": "BE0002126"
         }
       }, 
       {
@@ -7822,7 +8022,7 @@
             "Picon"
           ], 
           "shared_name": "Picon", 
-          "id": "65"
+          "id": "BE0002127"
         }
       }, 
       {
@@ -7841,7 +8041,7 @@
             "Picon-Beyes Tresviso"
           ], 
           "shared_name": "Picon-Beyes Tresviso", 
-          "id": "64"
+          "id": "BE0000511"
         }
       }, 
       {
@@ -7858,7 +8058,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Wensleydale", 
-          "id": "63", 
+          "id": "BE0000767", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Wensleydale"
@@ -7882,7 +8082,7 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Winchester Aged Gouda", 
-          "id": "62", 
+          "id": "BE0002093", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Winchester Aged Gouda"
