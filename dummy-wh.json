@@ -8414,7 +8414,7 @@
           "selected": false, 
           "canonicalName": "Aarauer Bierdeckel (cr) Beaujolais", 
           "source": "430", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Aarauer Bierdeckel (cr) Beaujolais", 
           "id": "1760", 
           "name": "Aarauer Bierdeckel (cr) Beaujolais"
@@ -8549,7 +8549,7 @@
           "selected": false, 
           "canonicalName": "Abbaye de Belloc (cr) California Zinfandel", 
           "source": "422", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Abbaye de Belloc (cr) California Zinfandel", 
           "id": "1751", 
           "name": "Abbaye de Belloc (cr) California Zinfandel"
@@ -8564,7 +8564,7 @@
           "selected": false, 
           "canonicalName": "Abbaye de Belloc (cr) Carignan", 
           "source": "422", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Abbaye de Belloc (cr) Carignan", 
           "id": "1750", 
           "name": "Abbaye de Belloc (cr) Carignan"
@@ -8579,7 +8579,7 @@
           "selected": false, 
           "canonicalName": "Abbaye de Belloc (cr) Sancerre Rouge", 
           "source": "422", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Abbaye de Belloc (cr) Sancerre Rouge", 
           "id": "1749", 
           "name": "Abbaye de Belloc (cr) Sancerre Rouge"
@@ -8714,7 +8714,7 @@
           "selected": false, 
           "canonicalName": "Berkswell (cr) Barbaresco", 
           "source": "421", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Berkswell (cr) Barbaresco", 
           "id": "1740", 
           "name": "Berkswell (cr) Barbaresco"
@@ -8730,7 +8730,7 @@
           "canonicalName": "Berkswell (cr) California Syrah-Mourvedre-Grenache Blend", 
           "source": "421", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Berkswell (cr) California Syrah-Mourvedre-Grenache Blend", 
           "id": "1739", 
           "name": "Berkswell (cr) California Syrah-Mourvedre-Grenache Blend"
@@ -8745,7 +8745,7 @@
           "selected": false, 
           "canonicalName": "Berkswell (cr) Chianti Classico", 
           "source": "421", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Berkswell (cr) Chianti Classico", 
           "id": "1738", 
           "name": "Berkswell (cr) Chianti Classico"
@@ -8761,7 +8761,7 @@
           "canonicalName": "Berkswell (cr) Red Burgundy", 
           "source": "421", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Berkswell (cr) Red Burgundy", 
           "id": "1737", 
           "name": "Berkswell (cr) Red Burgundy"
@@ -8777,7 +8777,7 @@
           "canonicalName": "Berkswell (cr) Ribera del Duero", 
           "source": "421", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Berkswell (cr) Ribera del Duero", 
           "id": "1736", 
           "name": "Berkswell (cr) Ribera del Duero"
@@ -8792,7 +8792,7 @@
           "selected": false, 
           "canonicalName": "Berkswell (cr) Syrah", 
           "source": "421", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Berkswell (cr) Syrah", 
           "id": "1735", 
           "name": "Berkswell (cr) Syrah"
@@ -8883,7 +8883,7 @@
           "selected": false, 
           "canonicalName": "Spenwood (cr) Chianti Classico", 
           "source": "419", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Spenwood (cr) Chianti Classico", 
           "id": "1729", 
           "name": "Spenwood (cr) Chianti Classico"
@@ -8899,7 +8899,7 @@
           "canonicalName": "Spenwood (cr) Pinot Noir", 
           "source": "419", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Spenwood (cr) Pinot Noir", 
           "id": "1728", 
           "name": "Spenwood (cr) Pinot Noir"
@@ -8914,7 +8914,7 @@
           "selected": false, 
           "canonicalName": "Spenwood (cr) Red Bordeaux", 
           "source": "419", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Spenwood (cr) Red Bordeaux", 
           "id": "1727", 
           "name": "Spenwood (cr) Red Bordeaux"
@@ -8930,7 +8930,7 @@
           "canonicalName": "Spenwood (cr) Rioja-style Tempranillo", 
           "source": "419", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Spenwood (cr) Rioja-style Tempranillo", 
           "id": "1726", 
           "name": "Spenwood (cr) Rioja-style Tempranillo"
@@ -8946,7 +8946,7 @@
           "canonicalName": "Spenwood (cr) Syrah", 
           "source": "419", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Spenwood (cr) Syrah", 
           "id": "1725", 
           "name": "Spenwood (cr) Syrah"
@@ -9051,7 +9051,7 @@
           "selected": false, 
           "canonicalName": "Vermont Shepherd (cr) Beaujolais cru", 
           "source": "418", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vermont Shepherd (cr) Beaujolais cru", 
           "id": "1718", 
           "name": "Vermont Shepherd (cr) Beaujolais cru"
@@ -9067,7 +9067,7 @@
           "canonicalName": "Vermont Shepherd (cr) California Pinot Noir", 
           "source": "418", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vermont Shepherd (cr) California Pinot Noir", 
           "id": "1717", 
           "name": "Vermont Shepherd (cr) California Pinot Noir"
@@ -9083,7 +9083,7 @@
           "canonicalName": "Vermont Shepherd (cr) California Syrah", 
           "source": "418", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vermont Shepherd (cr) California Syrah", 
           "id": "1716", 
           "name": "Vermont Shepherd (cr) California Syrah"
@@ -9099,7 +9099,7 @@
           "canonicalName": "Vermont Shepherd (cr) California Zinfandel", 
           "source": "418", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vermont Shepherd (cr) California Zinfandel", 
           "id": "1715", 
           "name": "Vermont Shepherd (cr) California Zinfandel"
@@ -9114,7 +9114,7 @@
           "selected": false, 
           "canonicalName": "Vermont Shepherd (cr) Chianti Classico", 
           "source": "418", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vermont Shepherd (cr) Chianti Classico", 
           "id": "1714", 
           "name": "Vermont Shepherd (cr) Chianti Classico"
@@ -9219,7 +9219,7 @@
           "selected": false, 
           "canonicalName": "Zamorano (cr) Beaujolais cru", 
           "source": "417", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Zamorano (cr) Beaujolais cru", 
           "id": "1707", 
           "name": "Zamorano (cr) Beaujolais cru"
@@ -9235,7 +9235,7 @@
           "canonicalName": "Zamorano (cr) California Zinfandel", 
           "source": "417", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Zamorano (cr) California Zinfandel", 
           "id": "1706", 
           "name": "Zamorano (cr) California Zinfandel"
@@ -9250,7 +9250,7 @@
           "selected": false, 
           "canonicalName": "Zamorano (cr) Periquita blend", 
           "source": "417", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Zamorano (cr) Periquita blend", 
           "id": "1705", 
           "name": "Zamorano (cr) Periquita blend"
@@ -9265,7 +9265,7 @@
           "selected": false, 
           "canonicalName": "Zamorano (cr) Pinot Noir", 
           "source": "417", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Zamorano (cr) Pinot Noir", 
           "id": "1704", 
           "name": "Zamorano (cr) Pinot Noir"
@@ -9280,7 +9280,7 @@
           "selected": false, 
           "canonicalName": "Zamorano (cr) Ribera del Duero", 
           "source": "417", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Zamorano (cr) Ribera del Duero", 
           "id": "1703", 
           "name": "Zamorano (cr) Ribera del Duero"
@@ -9295,7 +9295,7 @@
           "selected": false, 
           "canonicalName": "Zamorano (cr) Syrah", 
           "source": "417", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Zamorano (cr) Syrah", 
           "id": "1702", 
           "name": "Zamorano (cr) Syrah"
@@ -9385,7 +9385,7 @@
           "selected": false, 
           "canonicalName": "Abondance (cr) Aglianico del Vulture", 
           "source": "410", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Abondance (cr) Aglianico del Vulture", 
           "id": "1696", 
           "name": "Abondance (cr) Aglianico del Vulture"
@@ -9400,7 +9400,7 @@
           "selected": false, 
           "canonicalName": "Abondance (cr) California Merlot", 
           "source": "410", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Abondance (cr) California Merlot", 
           "id": "1695", 
           "name": "Abondance (cr) California Merlot"
@@ -9415,7 +9415,7 @@
           "selected": false, 
           "canonicalName": "Abondance (cr) Periquita blend", 
           "source": "410", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Abondance (cr) Periquita blend", 
           "id": "1694", 
           "name": "Abondance (cr) Periquita blend"
@@ -9430,7 +9430,7 @@
           "selected": false, 
           "canonicalName": "Abondance (cr) Super Tuscan blend", 
           "source": "410", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Abondance (cr) Super Tuscan blend", 
           "id": "1693", 
           "name": "Abondance (cr) Super Tuscan blend"
@@ -9506,7 +9506,7 @@
           "canonicalName": "Beaufort (cr) California Pinot Noir", 
           "source": "409", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Beaufort (cr) California Pinot Noir", 
           "id": "1688", 
           "name": "Beaufort (cr) California Pinot Noir"
@@ -9521,7 +9521,7 @@
           "selected": false, 
           "canonicalName": "Beaufort (cr) Madiran", 
           "source": "409", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Beaufort (cr) Madiran", 
           "id": "1687", 
           "name": "Beaufort (cr) Madiran"
@@ -9537,7 +9537,7 @@
           "canonicalName": "Beaufort (cr) Syrah", 
           "source": "409", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Beaufort (cr) Syrah", 
           "id": "1686", 
           "name": "Beaufort (cr) Syrah"
@@ -9613,7 +9613,7 @@
           "selected": false, 
           "canonicalName": "Vacherin Fribourgeois (cr) Amarone della Valpolicella", 
           "source": "407", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin Fribourgeois (cr) Amarone della Valpolicella", 
           "id": "1681", 
           "name": "Vacherin Fribourgeois (cr) Amarone della Valpolicella"
@@ -9628,7 +9628,7 @@
           "selected": false, 
           "canonicalName": "Vacherin Fribourgeois (cr) Barbaresco", 
           "source": "407", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin Fribourgeois (cr) Barbaresco", 
           "id": "1680", 
           "name": "Vacherin Fribourgeois (cr) Barbaresco"
@@ -9644,7 +9644,7 @@
           "canonicalName": "Vacherin Fribourgeois (cr) California Merlot", 
           "source": "407", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin Fribourgeois (cr) California Merlot", 
           "id": "1679", 
           "name": "Vacherin Fribourgeois (cr) California Merlot"
@@ -9660,7 +9660,7 @@
           "canonicalName": "Vacherin Fribourgeois (cr) Red Bordeaux", 
           "source": "407", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin Fribourgeois (cr) Red Bordeaux", 
           "id": "1678", 
           "name": "Vacherin Fribourgeois (cr) Red Bordeaux"
@@ -9675,7 +9675,7 @@
           "selected": false, 
           "canonicalName": "Vacherin Fribourgeois (cr) Syrah", 
           "source": "407", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin Fribourgeois (cr) Syrah", 
           "id": "1677", 
           "name": "Vacherin Fribourgeois (cr) Syrah"
@@ -9737,7 +9737,7 @@
           "selected": false, 
           "canonicalName": "Afuega'l Pitu (cr) Barbaresco", 
           "source": "402", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Afuega'l Pitu (cr) Barbaresco", 
           "id": "1673", 
           "name": "Afuega'l Pitu (cr) Barbaresco"
@@ -9752,7 +9752,7 @@
           "selected": false, 
           "canonicalName": "Afuega'l Pitu (cr) Beaujolais cru", 
           "source": "402", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Afuega'l Pitu (cr) Beaujolais cru", 
           "id": "1672", 
           "name": "Afuega'l Pitu (cr) Beaujolais cru"
@@ -9767,7 +9767,7 @@
           "selected": false, 
           "canonicalName": "Afuega'l Pitu (cr) California Merlot", 
           "source": "402", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Afuega'l Pitu (cr) California Merlot", 
           "id": "1671", 
           "name": "Afuega'l Pitu (cr) California Merlot"
@@ -9782,7 +9782,7 @@
           "selected": false, 
           "canonicalName": "Afuega'l Pitu (cr) Cotes-du-Rhone", 
           "source": "402", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Afuega'l Pitu (cr) Cotes-du-Rhone", 
           "id": "1670", 
           "name": "Afuega'l Pitu (cr) Cotes-du-Rhone"
@@ -9797,7 +9797,7 @@
           "selected": false, 
           "canonicalName": "Afuega'l Pitu (cr) Pinot Noir", 
           "source": "402", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Afuega'l Pitu (cr) Pinot Noir", 
           "id": "1669", 
           "name": "Afuega'l Pitu (cr) Pinot Noir"
@@ -9812,7 +9812,7 @@
           "selected": false, 
           "canonicalName": "Afuega'l Pitu (cr) Red Bordeaux", 
           "source": "402", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Afuega'l Pitu (cr) Red Bordeaux", 
           "id": "1668", 
           "name": "Afuega'l Pitu (cr) Red Bordeaux"
@@ -9828,7 +9828,7 @@
           "canonicalName": "Afuega'l Pitu (cr) Ribera del Duero", 
           "source": "402", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Afuega'l Pitu (cr) Ribera del Duero", 
           "id": "1667", 
           "name": "Afuega'l Pitu (cr) Ribera del Duero"
@@ -9873,7 +9873,7 @@
           "selected": false, 
           "canonicalName": "Queso de los Beyos (cr) Barbaresco", 
           "source": "401", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de los Beyos (cr) Barbaresco", 
           "id": "1664", 
           "name": "Queso de los Beyos (cr) Barbaresco"
@@ -9888,7 +9888,7 @@
           "selected": false, 
           "canonicalName": "Queso de los Beyos (cr) Barbera d'Alba", 
           "source": "401", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de los Beyos (cr) Barbera d'Alba", 
           "id": "1663", 
           "name": "Queso de los Beyos (cr) Barbera d'Alba"
@@ -9903,7 +9903,7 @@
           "selected": false, 
           "canonicalName": "Queso de los Beyos (cr) Beaujolais cru", 
           "source": "401", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de los Beyos (cr) Beaujolais cru", 
           "id": "1662", 
           "name": "Queso de los Beyos (cr) Beaujolais cru"
@@ -9918,7 +9918,7 @@
           "selected": false, 
           "canonicalName": "Queso de los Beyos (cr) California Zinfandel", 
           "source": "401", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de los Beyos (cr) California Zinfandel", 
           "id": "1661", 
           "name": "Queso de los Beyos (cr) California Zinfandel"
@@ -10039,7 +10039,7 @@
           "selected": false, 
           "canonicalName": "Aisy Cendre (cr) Barbaresco", 
           "source": "393", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Aisy Cendre (cr) Barbaresco", 
           "id": "1653", 
           "name": "Aisy Cendre (cr) Barbaresco"
@@ -10054,7 +10054,7 @@
           "selected": false, 
           "canonicalName": "Aisy Cendre (cr) California Cabernet Sauvignon", 
           "source": "393", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Aisy Cendre (cr) California Cabernet Sauvignon", 
           "id": "1652", 
           "name": "Aisy Cendre (cr) California Cabernet Sauvignon"
@@ -10069,7 +10069,7 @@
           "selected": false, 
           "canonicalName": "Aisy Cendre (cr) California Merlot", 
           "source": "393", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Aisy Cendre (cr) California Merlot", 
           "id": "1651", 
           "name": "Aisy Cendre (cr) California Merlot"
@@ -10294,7 +10294,7 @@
           "selected": false, 
           "canonicalName": "Appenzeller (cr) Barbera d'Alba", 
           "source": "386", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Appenzeller (cr) Barbera d'Alba", 
           "id": "1636", 
           "name": "Appenzeller (cr) Barbera d'Alba"
@@ -10309,7 +10309,7 @@
           "selected": false, 
           "canonicalName": "Appenzeller (cr) California Cabernet Sauvignon", 
           "source": "386", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Appenzeller (cr) California Cabernet Sauvignon", 
           "id": "1635", 
           "name": "Appenzeller (cr) California Cabernet Sauvignon"
@@ -10324,7 +10324,7 @@
           "selected": false, 
           "canonicalName": "Appenzeller (cr) California Merlot", 
           "source": "386", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Appenzeller (cr) California Merlot", 
           "id": "1634", 
           "name": "Appenzeller (cr) California Merlot"
@@ -10339,7 +10339,7 @@
           "selected": false, 
           "canonicalName": "Appenzeller (cr) Red Bordeaux", 
           "source": "386", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Appenzeller (cr) Red Bordeaux", 
           "id": "1633", 
           "name": "Appenzeller (cr) Red Bordeaux"
@@ -10445,7 +10445,7 @@
           "selected": false, 
           "canonicalName": "Prattigauer (cr) Aglianico del Vulture", 
           "source": "385", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Prattigauer (cr) Aglianico del Vulture", 
           "id": "1626", 
           "name": "Prattigauer (cr) Aglianico del Vulture"
@@ -10460,7 +10460,7 @@
           "selected": false, 
           "canonicalName": "Prattigauer (cr) Madiran", 
           "source": "385", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Prattigauer (cr) Madiran", 
           "id": "1625", 
           "name": "Prattigauer (cr) Madiran"
@@ -10475,7 +10475,7 @@
           "selected": false, 
           "canonicalName": "Prattigauer (cr) Red Bordeaux", 
           "source": "385", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Prattigauer (cr) Red Bordeaux", 
           "id": "1624", 
           "name": "Prattigauer (cr) Red Bordeaux"
@@ -10565,7 +10565,7 @@
           "selected": false, 
           "canonicalName": "Ardrahan (cr) California Cabernet Sauvignon", 
           "source": "379", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ardrahan (cr) California Cabernet Sauvignon", 
           "id": "1618", 
           "name": "Ardrahan (cr) California Cabernet Sauvignon"
@@ -10580,7 +10580,7 @@
           "selected": false, 
           "canonicalName": "Ardrahan (cr) California Pinot Noir", 
           "source": "379", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ardrahan (cr) California Pinot Noir", 
           "id": "1617", 
           "name": "Ardrahan (cr) California Pinot Noir"
@@ -10595,7 +10595,7 @@
           "selected": false, 
           "canonicalName": "Ardrahan (cr) California Zinfandel", 
           "source": "379", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ardrahan (cr) California Zinfandel", 
           "id": "1616", 
           "name": "Ardrahan (cr) California Zinfandel"
@@ -10610,7 +10610,7 @@
           "selected": false, 
           "canonicalName": "Ardrahan (cr) Nebbiolo", 
           "source": "379", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ardrahan (cr) Nebbiolo", 
           "id": "1615", 
           "name": "Ardrahan (cr) Nebbiolo"
@@ -10625,7 +10625,7 @@
           "selected": false, 
           "canonicalName": "Ardrahan (cr) Syrah", 
           "source": "379", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ardrahan (cr) Syrah", 
           "id": "1614", 
           "name": "Ardrahan (cr) Syrah"
@@ -10747,7 +10747,7 @@
           "selected": false, 
           "canonicalName": "Durrus (cr) Barolo", 
           "source": "378", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Durrus (cr) Barolo", 
           "id": "1606", 
           "name": "Durrus (cr) Barolo"
@@ -10762,7 +10762,7 @@
           "selected": false, 
           "canonicalName": "Durrus (cr) Beaujolais cru", 
           "source": "378", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Durrus (cr) Beaujolais cru", 
           "id": "1605", 
           "name": "Durrus (cr) Beaujolais cru"
@@ -10777,7 +10777,7 @@
           "selected": false, 
           "canonicalName": "Durrus (cr) Red Bordeaux", 
           "source": "378", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Durrus (cr) Red Bordeaux", 
           "id": "1604", 
           "name": "Durrus (cr) Red Bordeaux"
@@ -10898,7 +10898,7 @@
           "selected": false, 
           "canonicalName": "Gubbeen (cr) Cornas", 
           "source": "377", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gubbeen (cr) Cornas", 
           "id": "1596", 
           "name": "Gubbeen (cr) Cornas"
@@ -11019,7 +11019,7 @@
           "canonicalName": "Azeitao (cr) Barbera d'Asti", 
           "source": "370", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Azeitao (cr) Barbera d'Asti", 
           "id": "1588", 
           "name": "Azeitao (cr) Barbera d'Asti"
@@ -11034,7 +11034,7 @@
           "selected": false, 
           "canonicalName": "Azeitao (cr) California Pinot Noir", 
           "source": "370", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Azeitao (cr) California Pinot Noir", 
           "id": "1587", 
           "name": "Azeitao (cr) California Pinot Noir"
@@ -11049,7 +11049,7 @@
           "selected": false, 
           "canonicalName": "Azeitao (cr) California Zinfandel", 
           "source": "370", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Azeitao (cr) California Zinfandel", 
           "id": "1586", 
           "name": "Azeitao (cr) California Zinfandel"
@@ -11064,7 +11064,7 @@
           "selected": false, 
           "canonicalName": "Azeitao (cr) Ribera del Duero", 
           "source": "370", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Azeitao (cr) Ribera del Duero", 
           "id": "1585", 
           "name": "Azeitao (cr) Ribera del Duero"
@@ -11079,7 +11079,7 @@
           "selected": false, 
           "canonicalName": "Azeitao (cr) Syrah", 
           "source": "370", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Azeitao (cr) Syrah", 
           "id": "1584", 
           "name": "Azeitao (cr) Syrah"
@@ -11140,7 +11140,7 @@
           "canonicalName": "Queso de la Serena (cr) California Cabernet Sauvignon", 
           "source": "369", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de la Serena (cr) California Cabernet Sauvignon", 
           "id": "1579", 
           "name": "Queso de la Serena (cr) California Cabernet Sauvignon"
@@ -11156,7 +11156,7 @@
           "canonicalName": "Queso de la Serena (cr) Ribera del Duero", 
           "source": "369", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de la Serena (cr) Ribera del Duero", 
           "id": "1578", 
           "name": "Queso de la Serena (cr) Ribera del Duero"
@@ -11277,7 +11277,7 @@
           "selected": false, 
           "canonicalName": "Serpa (cr) Chilean Merlot", 
           "source": "368", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serpa (cr) Chilean Merlot", 
           "id": "1570", 
           "name": "Serpa (cr) Chilean Merlot"
@@ -11293,7 +11293,7 @@
           "canonicalName": "Serpa (cr) Rioja-style Tempranillo", 
           "source": "368", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serpa (cr) Rioja-style Tempranillo", 
           "id": "1569", 
           "name": "Serpa (cr) Rioja-style Tempranillo"
@@ -11308,7 +11308,7 @@
           "selected": false, 
           "canonicalName": "Serpa (cr) Syrah", 
           "source": "368", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serpa (cr) Syrah", 
           "id": "1568", 
           "name": "Serpa (cr) Syrah"
@@ -11399,7 +11399,7 @@
           "selected": false, 
           "canonicalName": "Serra da Estrela (cr) Australian Shiraz", 
           "source": "367", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serra da Estrela (cr) Australian Shiraz", 
           "id": "1562", 
           "name": "Serra da Estrela (cr) Australian Shiraz"
@@ -11414,7 +11414,7 @@
           "selected": false, 
           "canonicalName": "Serra da Estrela (cr) Barbera d'Alba", 
           "source": "367", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serra da Estrela (cr) Barbera d'Alba", 
           "id": "1561", 
           "name": "Serra da Estrela (cr) Barbera d'Alba"
@@ -11429,7 +11429,7 @@
           "selected": false, 
           "canonicalName": "Serra da Estrela (cr) Beaujolais cru", 
           "source": "367", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serra da Estrela (cr) Beaujolais cru", 
           "id": "1560", 
           "name": "Serra da Estrela (cr) Beaujolais cru"
@@ -11444,7 +11444,7 @@
           "selected": false, 
           "canonicalName": "Serra da Estrela (cr) Cabernet Sauvignon", 
           "source": "367", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serra da Estrela (cr) Cabernet Sauvignon", 
           "id": "1559", 
           "name": "Serra da Estrela (cr) Cabernet Sauvignon"
@@ -11459,7 +11459,7 @@
           "selected": false, 
           "canonicalName": "Serra da Estrela (cr) California Pinot Noir", 
           "source": "367", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serra da Estrela (cr) California Pinot Noir", 
           "id": "1558", 
           "name": "Serra da Estrela (cr) California Pinot Noir"
@@ -11474,7 +11474,7 @@
           "selected": false, 
           "canonicalName": "Serra da Estrela (cr) Rioja-style Tempranillo", 
           "source": "367", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Serra da Estrela (cr) Rioja-style Tempranillo", 
           "id": "1557", 
           "name": "Serra da Estrela (cr) Rioja-style Tempranillo"
@@ -11520,7 +11520,7 @@
           "selected": false, 
           "canonicalName": "Torta del Casar (cr) Beaujolais cru", 
           "source": "366", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Torta del Casar (cr) Beaujolais cru", 
           "id": "1554", 
           "name": "Torta del Casar (cr) Beaujolais cru"
@@ -11535,7 +11535,7 @@
           "selected": false, 
           "canonicalName": "Torta del Casar (cr) Cabernet Sauvignon", 
           "source": "366", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Torta del Casar (cr) Cabernet Sauvignon", 
           "id": "1553", 
           "name": "Torta del Casar (cr) Cabernet Sauvignon"
@@ -11550,7 +11550,7 @@
           "selected": false, 
           "canonicalName": "Torta del Casar (cr) California Cabernet Sauvignon", 
           "source": "366", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Torta del Casar (cr) California Cabernet Sauvignon", 
           "id": "1552", 
           "name": "Torta del Casar (cr) California Cabernet Sauvignon"
@@ -11565,7 +11565,7 @@
           "selected": false, 
           "canonicalName": "Torta del Casar (cr) Chianti Classico", 
           "source": "366", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Torta del Casar (cr) Chianti Classico", 
           "id": "1551", 
           "name": "Torta del Casar (cr) Chianti Classico"
@@ -11580,7 +11580,7 @@
           "selected": false, 
           "canonicalName": "Torta del Casar (cr) Red Burgundy", 
           "source": "366", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Torta del Casar (cr) Red Burgundy", 
           "id": "1550", 
           "name": "Torta del Casar (cr) Red Burgundy"
@@ -11596,7 +11596,7 @@
           "canonicalName": "Torta del Casar (cr) Syrah", 
           "source": "366", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Torta del Casar (cr) Syrah", 
           "id": "1549", 
           "name": "Torta del Casar (cr) Syrah"
@@ -11656,7 +11656,7 @@
           "selected": false, 
           "canonicalName": "Banon (cr) Beaujolais cru", 
           "source": "364", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Banon (cr) Beaujolais cru", 
           "id": "1545", 
           "name": "Banon (cr) Beaujolais cru"
@@ -11671,7 +11671,7 @@
           "selected": false, 
           "canonicalName": "Banon (cr) Chianti Classico", 
           "source": "364", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Banon (cr) Chianti Classico", 
           "id": "1544", 
           "name": "Banon (cr) Chianti Classico"
@@ -11747,7 +11747,7 @@
           "selected": false, 
           "canonicalName": "Hoja Santa (cr) Beaujolais", 
           "source": "363", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Hoja Santa (cr) Beaujolais", 
           "id": "1539", 
           "name": "Hoja Santa (cr) Beaujolais"
@@ -11762,7 +11762,7 @@
           "selected": false, 
           "canonicalName": "Hoja Santa (cr) California Zinfandel", 
           "source": "363", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Hoja Santa (cr) California Zinfandel", 
           "id": "1538", 
           "name": "Hoja Santa (cr) California Zinfandel"
@@ -11777,7 +11777,7 @@
           "selected": false, 
           "canonicalName": "Hoja Santa (cr) Madiran", 
           "source": "363", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Hoja Santa (cr) Madiran", 
           "id": "1537", 
           "name": "Hoja Santa (cr) Madiran"
@@ -11852,7 +11852,7 @@
           "selected": false, 
           "canonicalName": "Fontina d'Aosta (cr) Barbera d'Alba", 
           "source": "357", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fontina d'Aosta (cr) Barbera d'Alba", 
           "id": "1532", 
           "name": "Fontina d'Aosta (cr) Barbera d'Alba"
@@ -11867,7 +11867,7 @@
           "selected": false, 
           "canonicalName": "Fontina d'Aosta (cr) California Pinot Noir", 
           "source": "357", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fontina d'Aosta (cr) California Pinot Noir", 
           "id": "1531", 
           "name": "Fontina d'Aosta (cr) California Pinot Noir"
@@ -11882,7 +11882,7 @@
           "selected": false, 
           "canonicalName": "Fontina d'Aosta (cr) Chianti Classico", 
           "source": "357", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fontina d'Aosta (cr) Chianti Classico", 
           "id": "1530", 
           "name": "Fontina d'Aosta (cr) Chianti Classico"
@@ -11897,7 +11897,7 @@
           "selected": false, 
           "canonicalName": "Fontina d'Aosta (cr) Dolcetto d'Alba", 
           "source": "357", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fontina d'Aosta (cr) Dolcetto d'Alba", 
           "id": "1529", 
           "name": "Fontina d'Aosta (cr) Dolcetto d'Alba"
@@ -11912,7 +11912,7 @@
           "selected": false, 
           "canonicalName": "Fontina d'Aosta (cr) Minervois", 
           "source": "357", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fontina d'Aosta (cr) Minervois", 
           "id": "1528", 
           "name": "Fontina d'Aosta (cr) Minervois"
@@ -12017,7 +12017,7 @@
           "selected": false, 
           "canonicalName": "Gruyere (cr) Australian Shiraz", 
           "source": "356", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gruyere (cr) Australian Shiraz", 
           "id": "1521", 
           "name": "Gruyere (cr) Australian Shiraz"
@@ -12032,7 +12032,7 @@
           "selected": false, 
           "canonicalName": "Gruyere (cr) California Zinfandel", 
           "source": "356", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gruyere (cr) California Zinfandel", 
           "id": "1520", 
           "name": "Gruyere (cr) California Zinfandel"
@@ -12047,7 +12047,7 @@
           "selected": false, 
           "canonicalName": "Gruyere (cr) Syrah", 
           "source": "356", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gruyere (cr) Syrah", 
           "id": "1519", 
           "name": "Gruyere (cr) Syrah"
@@ -12062,7 +12062,7 @@
           "selected": false, 
           "canonicalName": "Gruyere (cr) Tuscan Sangiovese", 
           "source": "356", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gruyere (cr) Tuscan Sangiovese", 
           "id": "1518", 
           "name": "Gruyere (cr) Tuscan Sangiovese"
@@ -12123,7 +12123,7 @@
           "canonicalName": "Beenleigh Blue (cr) Beaujolais cru", 
           "source": "353", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Beenleigh Blue (cr) Beaujolais cru", 
           "id": "1514", 
           "name": "Beenleigh Blue (cr) Beaujolais cru"
@@ -12138,7 +12138,7 @@
           "selected": false, 
           "canonicalName": "Beenleigh Blue (cr) California Cabernet Sauvignon", 
           "source": "353", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Beenleigh Blue (cr) California Cabernet Sauvignon", 
           "id": "1513", 
           "name": "Beenleigh Blue (cr) California Cabernet Sauvignon"
@@ -12154,7 +12154,7 @@
           "canonicalName": "Beenleigh Blue (cr) California Zinfandel", 
           "source": "353", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Beenleigh Blue (cr) California Zinfandel", 
           "id": "1512", 
           "name": "Beenleigh Blue (cr) California Zinfandel"
@@ -12229,7 +12229,7 @@
           "selected": false, 
           "canonicalName": "Harbourne Blue (cr) Amarone della Valpolicella", 
           "source": "352", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Harbourne Blue (cr) Amarone della Valpolicella", 
           "id": "1507", 
           "name": "Harbourne Blue (cr) Amarone della Valpolicella"
@@ -12244,7 +12244,7 @@
           "selected": false, 
           "canonicalName": "Harbourne Blue (cr) Cabernet Sauvignon", 
           "source": "352", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Harbourne Blue (cr) Cabernet Sauvignon", 
           "id": "1506", 
           "name": "Harbourne Blue (cr) Cabernet Sauvignon"
@@ -12350,7 +12350,7 @@
           "selected": false, 
           "canonicalName": "Roquefort (cr) California Zinfandel", 
           "source": "351", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roquefort (cr) California Zinfandel", 
           "id": "1499", 
           "name": "Roquefort (cr) California Zinfandel"
@@ -12410,7 +12410,7 @@
           "selected": false, 
           "canonicalName": "Berkshire Blue (cr) Beaujolais cru", 
           "source": "350", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Berkshire Blue (cr) Beaujolais cru", 
           "id": "1495", 
           "name": "Berkshire Blue (cr) Beaujolais cru"
@@ -12425,7 +12425,7 @@
           "selected": false, 
           "canonicalName": "Berkshire Blue (cr) California Cabernet Sauvignon", 
           "source": "350", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Berkshire Blue (cr) California Cabernet Sauvignon", 
           "id": "1494", 
           "name": "Berkshire Blue (cr) California Cabernet Sauvignon"
@@ -12485,7 +12485,7 @@
           "selected": false, 
           "canonicalName": "Cashel Blue (cr) California Pinot Noir", 
           "source": "349", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cashel Blue (cr) California Pinot Noir", 
           "id": "1490", 
           "name": "Cashel Blue (cr) California Pinot Noir"
@@ -12590,7 +12590,7 @@
           "selected": false, 
           "canonicalName": "Fourme d'Ambert (cr) Chianti Classico", 
           "source": "348", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fourme d'Ambert (cr) Chianti Classico", 
           "id": "1483", 
           "name": "Fourme d'Ambert (cr) Chianti Classico"
@@ -12665,7 +12665,7 @@
           "selected": false, 
           "canonicalName": "Pecorino Toscano (cr) Barbera d'Alba", 
           "source": "347", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pecorino Toscano (cr) Barbera d'Alba", 
           "id": "1478", 
           "name": "Pecorino Toscano (cr) Barbera d'Alba"
@@ -12681,7 +12681,7 @@
           "canonicalName": "Pecorino Toscano (cr) California Merlot", 
           "source": "347", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pecorino Toscano (cr) California Merlot", 
           "id": "1476", 
           "name": "Pecorino Toscano (cr) California Merlot"
@@ -12696,7 +12696,7 @@
           "selected": false, 
           "canonicalName": "Pecorino Toscano (cr) Chianti Classico", 
           "source": "347", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pecorino Toscano (cr) Chianti Classico", 
           "id": "1475", 
           "name": "Pecorino Toscano (cr) Chianti Classico"
@@ -12726,7 +12726,7 @@
           "selected": false, 
           "canonicalName": "Trade Lake Cedar (cr) California Syrah", 
           "source": "346", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Trade Lake Cedar (cr) California Syrah", 
           "id": "1473", 
           "name": "Trade Lake Cedar (cr) California Syrah"
@@ -12741,7 +12741,7 @@
           "selected": false, 
           "canonicalName": "Trade Lake Cedar (cr) California Zinfandel", 
           "source": "346", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Trade Lake Cedar (cr) California Zinfandel", 
           "id": "1472", 
           "name": "Trade Lake Cedar (cr) California Zinfandel"
@@ -12756,7 +12756,7 @@
           "selected": false, 
           "canonicalName": "Trade Lake Cedar (cr) Red Burgundy", 
           "source": "346", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Trade Lake Cedar (cr) Red Burgundy", 
           "id": "1471", 
           "name": "Trade Lake Cedar (cr) Red Burgundy"
@@ -12816,7 +12816,7 @@
           "selected": false, 
           "canonicalName": "Big Holmes (cr) California Merlot", 
           "source": "342", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Big Holmes (cr) California Merlot", 
           "id": "1467", 
           "name": "Big Holmes (cr) California Merlot"
@@ -12831,7 +12831,7 @@
           "selected": false, 
           "canonicalName": "Big Holmes (cr) Chianti Classico", 
           "source": "342", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Big Holmes (cr) Chianti Classico", 
           "id": "1466", 
           "name": "Big Holmes (cr) Chianti Classico"
@@ -12921,7 +12921,7 @@
           "selected": false, 
           "canonicalName": "Brin d'Amour (cr) Barolo", 
           "source": "341", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brin d'Amour (cr) Barolo", 
           "id": "1460", 
           "name": "Brin d'Amour (cr) Barolo"
@@ -12936,7 +12936,7 @@
           "selected": false, 
           "canonicalName": "Brin d'Amour (cr) California Cabernet Sauvignon", 
           "source": "341", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brin d'Amour (cr) California Cabernet Sauvignon", 
           "id": "1459", 
           "name": "Brin d'Amour (cr) California Cabernet Sauvignon"
@@ -12951,7 +12951,7 @@
           "selected": false, 
           "canonicalName": "Brin d'Amour (cr) California Pinot Noir", 
           "source": "341", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brin d'Amour (cr) California Pinot Noir", 
           "id": "1458", 
           "name": "Brin d'Amour (cr) California Pinot Noir"
@@ -12966,7 +12966,7 @@
           "selected": false, 
           "canonicalName": "Brin d'Amour (cr) Red Bordeaux", 
           "source": "341", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brin d'Amour (cr) Red Bordeaux", 
           "id": "1457", 
           "name": "Brin d'Amour (cr) Red Bordeaux"
@@ -13133,7 +13133,7 @@
           "selected": false, 
           "canonicalName": "Bleu D'Auvergne (cr) Madiran", 
           "source": "337", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu D'Auvergne (cr) Madiran", 
           "id": "1446", 
           "name": "Bleu D'Auvergne (cr) Madiran"
@@ -13148,7 +13148,7 @@
           "selected": false, 
           "canonicalName": "Bleu D'Auvergne (cr) Rioja-style Tempranillo", 
           "source": "337", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu D'Auvergne (cr) Rioja-style Tempranillo", 
           "id": "1445", 
           "name": "Bleu D'Auvergne (cr) Rioja-style Tempranillo"
@@ -13209,7 +13209,7 @@
           "canonicalName": "Bleu des Causses (cr) Beaujolais", 
           "source": "335", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu des Causses (cr) Beaujolais", 
           "id": "1441", 
           "name": "Bleu des Causses (cr) Beaujolais"
@@ -13224,7 +13224,7 @@
           "selected": false, 
           "canonicalName": "Bleu des Causses (cr) Cahors", 
           "source": "335", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu des Causses (cr) Cahors", 
           "id": "1440", 
           "name": "Bleu des Causses (cr) Cahors"
@@ -13239,7 +13239,7 @@
           "selected": false, 
           "canonicalName": "Bleu des Causses (cr) California Cabernet Sauvignon", 
           "source": "335", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu des Causses (cr) California Cabernet Sauvignon", 
           "id": "1439", 
           "name": "Bleu des Causses (cr) California Cabernet Sauvignon"
@@ -13254,7 +13254,7 @@
           "selected": false, 
           "canonicalName": "Bleu des Causses (cr) Madiran", 
           "source": "335", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu des Causses (cr) Madiran", 
           "id": "1438", 
           "name": "Bleu des Causses (cr) Madiran"
@@ -13299,7 +13299,7 @@
           "selected": false, 
           "canonicalName": "Bleu de Gex (cr) Beaujolais cru", 
           "source": "332", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu de Gex (cr) Beaujolais cru", 
           "id": "1435", 
           "name": "Bleu de Gex (cr) Beaujolais cru"
@@ -13314,7 +13314,7 @@
           "selected": false, 
           "canonicalName": "Bleu de Gex (cr) California Merlot", 
           "source": "332", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu de Gex (cr) California Merlot", 
           "id": "1434", 
           "name": "Bleu de Gex (cr) California Merlot"
@@ -13329,7 +13329,7 @@
           "selected": false, 
           "canonicalName": "Bleu de Gex (cr) Red Bordeaux", 
           "source": "332", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu de Gex (cr) Red Bordeaux", 
           "id": "1433", 
           "name": "Bleu de Gex (cr) Red Bordeaux"
@@ -13449,7 +13449,7 @@
           "selected": false, 
           "canonicalName": "Stilton (cr) Beaujolais cru", 
           "source": "331", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Stilton (cr) Beaujolais cru", 
           "id": "1425", 
           "name": "Stilton (cr) Beaujolais cru"
@@ -13464,7 +13464,7 @@
           "selected": false, 
           "canonicalName": "Stilton (cr) California Zinfandel", 
           "source": "331", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Stilton (cr) California Zinfandel", 
           "id": "1424", 
           "name": "Stilton (cr) California Zinfandel"
@@ -13495,7 +13495,7 @@
           "canonicalName": "Bleu de Termignon (cr) California Zinfandel", 
           "source": "330", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bleu de Termignon (cr) California Zinfandel", 
           "id": "1422", 
           "name": "Bleu de Termignon (cr) California Zinfandel"
@@ -13570,7 +13570,7 @@
           "selected": false, 
           "canonicalName": "Blu del Moncenisio (cr) Beaujolais", 
           "source": "327", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Blu del Moncenisio (cr) Beaujolais", 
           "id": "1417", 
           "name": "Blu del Moncenisio (cr) Beaujolais"
@@ -13585,7 +13585,7 @@
           "selected": false, 
           "canonicalName": "Blu del Moncenisio (cr) California Cabernet Sauvignon", 
           "source": "327", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Blu del Moncenisio (cr) California Cabernet Sauvignon", 
           "id": "1416", 
           "name": "Blu del Moncenisio (cr) California Cabernet Sauvignon"
@@ -13600,7 +13600,7 @@
           "selected": false, 
           "canonicalName": "Blu del Moncenisio (cr) California Zinfandel", 
           "source": "327", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Blu del Moncenisio (cr) California Zinfandel", 
           "id": "1415", 
           "name": "Blu del Moncenisio (cr) California Zinfandel"
@@ -13660,7 +13660,7 @@
           "selected": false, 
           "canonicalName": "Bonde de Gatine (cr) Bandol", 
           "source": "325", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bonde de Gatine (cr) Bandol", 
           "id": "1411", 
           "name": "Bonde de Gatine (cr) Bandol"
@@ -13767,7 +13767,7 @@
           "selected": false, 
           "canonicalName": "Bra (cr) Barbaresco", 
           "source": "321", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bra (cr) Barbaresco", 
           "id": "1404", 
           "name": "Bra (cr) Barbaresco"
@@ -13782,7 +13782,7 @@
           "selected": false, 
           "canonicalName": "Bra (cr) Barolo", 
           "source": "321", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bra (cr) Barolo", 
           "id": "1403", 
           "name": "Bra (cr) Barolo"
@@ -13797,7 +13797,7 @@
           "selected": false, 
           "canonicalName": "Bra (cr) Beaujolais cru", 
           "source": "321", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bra (cr) Beaujolais cru", 
           "id": "1402", 
           "name": "Bra (cr) Beaujolais cru"
@@ -13812,7 +13812,7 @@
           "selected": false, 
           "canonicalName": "Bra (cr) California Cabernet Sauvignon", 
           "source": "321", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bra (cr) California Cabernet Sauvignon", 
           "id": "1401", 
           "name": "Bra (cr) California Cabernet Sauvignon"
@@ -13827,7 +13827,7 @@
           "selected": false, 
           "canonicalName": "Bra (cr) Dolcetto d'Alba", 
           "source": "321", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Bra (cr) Dolcetto d'Alba", 
           "id": "1400", 
           "name": "Bra (cr) Dolcetto d'Alba"
@@ -13872,7 +13872,7 @@
           "selected": false, 
           "canonicalName": "Brescianella Stagionata (cr) Amarone della Valpolicella", 
           "source": "317", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brescianella Stagionata (cr) Amarone della Valpolicella", 
           "id": "1397", 
           "name": "Brescianella Stagionata (cr) Amarone della Valpolicella"
@@ -13887,7 +13887,7 @@
           "selected": false, 
           "canonicalName": "Brescianella Stagionata (cr) Barbaresco", 
           "source": "317", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brescianella Stagionata (cr) Barbaresco", 
           "id": "1396", 
           "name": "Brescianella Stagionata (cr) Barbaresco"
@@ -13902,7 +13902,7 @@
           "selected": false, 
           "canonicalName": "Brescianella Stagionata (cr) Beaujolais cru", 
           "source": "317", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brescianella Stagionata (cr) Beaujolais cru", 
           "id": "1395", 
           "name": "Brescianella Stagionata (cr) Beaujolais cru"
@@ -13917,7 +13917,7 @@
           "selected": false, 
           "canonicalName": "Brescianella Stagionata (cr) California Merlot", 
           "source": "317", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brescianella Stagionata (cr) California Merlot", 
           "id": "1394", 
           "name": "Brescianella Stagionata (cr) California Merlot"
@@ -14023,7 +14023,7 @@
           "canonicalName": "Taleggio (cr) Barbaresco", 
           "source": "315", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Taleggio (cr) Barbaresco", 
           "id": "1387", 
           "name": "Taleggio (cr) Barbaresco"
@@ -14038,7 +14038,7 @@
           "selected": false, 
           "canonicalName": "Taleggio (cr) Barbera d'Alba", 
           "source": "315", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Taleggio (cr) Barbera d'Alba", 
           "id": "1386", 
           "name": "Taleggio (cr) Barbera d'Alba"
@@ -14054,7 +14054,7 @@
           "canonicalName": "Taleggio (cr) Barolo", 
           "source": "315", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Taleggio (cr) Barolo", 
           "id": "1385", 
           "name": "Taleggio (cr) Barolo"
@@ -14174,7 +14174,7 @@
           "selected": false, 
           "canonicalName": "Brie de Melun (cr) Beaujolais cru", 
           "source": "312", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brie de Melun (cr) Beaujolais cru", 
           "id": "1377", 
           "name": "Brie de Melun (cr) Beaujolais cru"
@@ -14189,7 +14189,7 @@
           "selected": false, 
           "canonicalName": "Brie de Melun (cr) Chilean Merlot", 
           "source": "312", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brie de Melun (cr) Chilean Merlot", 
           "id": "1376", 
           "name": "Brie de Melun (cr) Chilean Merlot"
@@ -14204,7 +14204,7 @@
           "selected": false, 
           "canonicalName": "Brie de Melun (cr) Syrah", 
           "source": "312", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Brie de Melun (cr) Syrah", 
           "id": "1375", 
           "name": "Brie de Melun (cr) Syrah"
@@ -14249,7 +14249,7 @@
           "selected": false, 
           "canonicalName": "Coulommiers (cr) Chilean Carmenere-Merlot blend", 
           "source": "309", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Coulommiers (cr) Chilean Carmenere-Merlot blend", 
           "id": "1372", 
           "name": "Coulommiers (cr) Chilean Carmenere-Merlot blend"
@@ -14264,7 +14264,7 @@
           "selected": false, 
           "canonicalName": "Coulommiers (cr) Red Burgundy", 
           "source": "309", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Coulommiers (cr) Red Burgundy", 
           "id": "1371", 
           "name": "Coulommiers (cr) Red Burgundy"
@@ -14399,7 +14399,7 @@
           "selected": false, 
           "canonicalName": "Gamonedo (cr) Beaujolais cru", 
           "source": "305", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gamonedo (cr) Beaujolais cru", 
           "id": "1361", 
           "name": "Gamonedo (cr) Beaujolais cru"
@@ -14414,7 +14414,7 @@
           "selected": false, 
           "canonicalName": "Gamonedo (cr) Periquita blend", 
           "source": "305", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gamonedo (cr) Periquita blend", 
           "id": "1360", 
           "name": "Gamonedo (cr) Periquita blend"
@@ -14429,7 +14429,7 @@
           "selected": false, 
           "canonicalName": "Gamonedo (cr) Ribera del Duero", 
           "source": "305", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gamonedo (cr) Ribera del Duero", 
           "id": "1359", 
           "name": "Gamonedo (cr) Ribera del Duero"
@@ -14520,7 +14520,7 @@
           "canonicalName": "Valdeon (cr) Beaujolais cru", 
           "source": "303", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Valdeon (cr) Beaujolais cru", 
           "id": "1353", 
           "name": "Valdeon (cr) Beaujolais cru"
@@ -14535,7 +14535,7 @@
           "selected": false, 
           "canonicalName": "Valdeon (cr) Periquita blend", 
           "source": "303", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Valdeon (cr) Periquita blend", 
           "id": "1352", 
           "name": "Valdeon (cr) Periquita blend"
@@ -14595,7 +14595,7 @@
           "selected": false, 
           "canonicalName": "Caerphilly (cr) California Pinot Noir", 
           "source": "301", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caerphilly (cr) California Pinot Noir", 
           "id": "1348", 
           "name": "Caerphilly (cr) California Pinot Noir"
@@ -14611,7 +14611,7 @@
           "canonicalName": "Caerphilly (cr) Syrah", 
           "source": "301", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caerphilly (cr) Syrah", 
           "id": "1347", 
           "name": "Caerphilly (cr) Syrah"
@@ -14732,7 +14732,7 @@
           "selected": false, 
           "canonicalName": "Llangloffan (cr) Barbera d'Alba", 
           "source": "300", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Llangloffan (cr) Barbera d'Alba", 
           "id": "1339", 
           "name": "Llangloffan (cr) Barbera d'Alba"
@@ -14747,7 +14747,7 @@
           "selected": false, 
           "canonicalName": "Llangloffan (cr) Cabernet Sauvignon", 
           "source": "300", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Llangloffan (cr) Cabernet Sauvignon", 
           "id": "1338", 
           "name": "Llangloffan (cr) Cabernet Sauvignon"
@@ -14762,7 +14762,7 @@
           "selected": false, 
           "canonicalName": "Llangloffan (cr) Malbec", 
           "source": "300", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Llangloffan (cr) Malbec", 
           "id": "1337", 
           "name": "Llangloffan (cr) Malbec"
@@ -14778,7 +14778,7 @@
           "canonicalName": "Llangloffan (cr) Syrah", 
           "source": "300", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Llangloffan (cr) Syrah", 
           "id": "1336", 
           "name": "Llangloffan (cr) Syrah"
@@ -14853,7 +14853,7 @@
           "selected": false, 
           "canonicalName": "Single Gloucester (cr) California Zinfandel", 
           "source": "299", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Single Gloucester (cr) California Zinfandel", 
           "id": "1331", 
           "name": "Single Gloucester (cr) California Zinfandel"
@@ -14868,7 +14868,7 @@
           "selected": false, 
           "canonicalName": "Single Gloucester (cr) Madiran", 
           "source": "299", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Single Gloucester (cr) Madiran", 
           "id": "1330", 
           "name": "Single Gloucester (cr) Madiran"
@@ -14883,7 +14883,7 @@
           "selected": false, 
           "canonicalName": "Single Gloucester (cr) Pinot Noir", 
           "source": "299", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Single Gloucester (cr) Pinot Noir", 
           "id": "1329", 
           "name": "Single Gloucester (cr) Pinot Noir"
@@ -14973,7 +14973,7 @@
           "selected": false, 
           "canonicalName": "Camembert (cr) Beaujolais cru", 
           "source": "296", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Camembert (cr) Beaujolais cru", 
           "id": "1323", 
           "name": "Camembert (cr) Beaujolais cru"
@@ -14988,7 +14988,7 @@
           "selected": false, 
           "canonicalName": "Camembert (cr) California Cabernet Sauvignon", 
           "source": "296", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Camembert (cr) California Cabernet Sauvignon", 
           "id": "1322", 
           "name": "Camembert (cr) California Cabernet Sauvignon"
@@ -15003,7 +15003,7 @@
           "selected": false, 
           "canonicalName": "Camembert (cr) California Zinfandel", 
           "source": "296", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Camembert (cr) California Zinfandel", 
           "id": "1321", 
           "name": "Camembert (cr) California Zinfandel"
@@ -15018,7 +15018,7 @@
           "selected": false, 
           "canonicalName": "Camembert (cr) Chianti Classico", 
           "source": "296", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Camembert (cr) Chianti Classico", 
           "id": "1320", 
           "name": "Camembert (cr) Chianti Classico"
@@ -15033,7 +15033,7 @@
           "selected": false, 
           "canonicalName": "Camembert (cr) Red Burgundy", 
           "source": "296", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Camembert (cr) Red Burgundy", 
           "id": "1319", 
           "name": "Camembert (cr) Red Burgundy"
@@ -15048,7 +15048,7 @@
           "selected": false, 
           "canonicalName": "Camembert (cr) Rioja-style Tempranillo", 
           "source": "296", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Camembert (cr) Rioja-style Tempranillo", 
           "id": "1318", 
           "name": "Camembert (cr) Rioja-style Tempranillo"
@@ -15123,7 +15123,7 @@
           "selected": false, 
           "canonicalName": "Chaource (cr) Barbaresco", 
           "source": "294", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaource (cr) Barbaresco", 
           "id": "1313", 
           "name": "Chaource (cr) Barbaresco"
@@ -15138,7 +15138,7 @@
           "selected": false, 
           "canonicalName": "Chaource (cr) Beaujolais cru", 
           "source": "294", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaource (cr) Beaujolais cru", 
           "id": "1312", 
           "name": "Chaource (cr) Beaujolais cru"
@@ -15153,7 +15153,7 @@
           "selected": false, 
           "canonicalName": "Chaource (cr) California Merlot", 
           "source": "294", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaource (cr) California Merlot", 
           "id": "1311", 
           "name": "Chaource (cr) California Merlot"
@@ -15168,7 +15168,7 @@
           "selected": false, 
           "canonicalName": "Chaource (cr) Rioja-style Tempranillo", 
           "source": "294", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaource (cr) Rioja-style Tempranillo", 
           "id": "1310", 
           "name": "Chaource (cr) Rioja-style Tempranillo"
@@ -15243,7 +15243,7 @@
           "selected": false, 
           "canonicalName": "Canestrato Pugliese (cr) California Pinot Noir", 
           "source": "292", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Canestrato Pugliese (cr) California Pinot Noir", 
           "id": "1305", 
           "name": "Canestrato Pugliese (cr) California Pinot Noir"
@@ -15318,7 +15318,7 @@
           "selected": false, 
           "canonicalName": "Cantal (cr) Beaujolais cru", 
           "source": "289", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cantal (cr) Beaujolais cru", 
           "id": "1300", 
           "name": "Cantal (cr) Beaujolais cru"
@@ -15333,7 +15333,7 @@
           "selected": false, 
           "canonicalName": "Cantal (cr) California Cabernet Sauvignon", 
           "source": "289", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cantal (cr) California Cabernet Sauvignon", 
           "id": "1299", 
           "name": "Cantal (cr) California Cabernet Sauvignon"
@@ -15348,7 +15348,7 @@
           "selected": false, 
           "canonicalName": "Cantal (cr) California Merlot", 
           "source": "289", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cantal (cr) California Merlot", 
           "id": "1298", 
           "name": "Cantal (cr) California Merlot"
@@ -15363,7 +15363,7 @@
           "selected": false, 
           "canonicalName": "Cantal (cr) California Pinot Noir", 
           "source": "289", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cantal (cr) California Pinot Noir", 
           "id": "1297", 
           "name": "Cantal (cr) California Pinot Noir"
@@ -15423,7 +15423,7 @@
           "selected": false, 
           "canonicalName": "Laguiole (cr) Beaujolais cru", 
           "source": "288", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Laguiole (cr) Beaujolais cru", 
           "id": "1293", 
           "name": "Laguiole (cr) Beaujolais cru"
@@ -15438,7 +15438,7 @@
           "selected": false, 
           "canonicalName": "Laguiole (cr) California Zinfandel", 
           "source": "288", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Laguiole (cr) California Zinfandel", 
           "id": "1292", 
           "name": "Laguiole (cr) California Zinfandel"
@@ -15453,7 +15453,7 @@
           "selected": false, 
           "canonicalName": "Laguiole (cr) Pinot Noir", 
           "source": "288", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Laguiole (cr) Pinot Noir", 
           "id": "1291", 
           "name": "Laguiole (cr) Pinot Noir"
@@ -15468,7 +15468,7 @@
           "selected": false, 
           "canonicalName": "Laguiole (cr) Syrah", 
           "source": "288", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Laguiole (cr) Syrah", 
           "id": "1290", 
           "name": "Laguiole (cr) Syrah"
@@ -15543,7 +15543,7 @@
           "selected": false, 
           "canonicalName": "Lancashire (cr) Barbaresco", 
           "source": "287", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Lancashire (cr) Barbaresco", 
           "id": "1285", 
           "name": "Lancashire (cr) Barbaresco"
@@ -15558,7 +15558,7 @@
           "selected": false, 
           "canonicalName": "Lancashire (cr) Barbera d'Alba", 
           "source": "287", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Lancashire (cr) Barbera d'Alba", 
           "id": "1284", 
           "name": "Lancashire (cr) Barbera d'Alba"
@@ -15573,7 +15573,7 @@
           "selected": false, 
           "canonicalName": "Lancashire (cr) California Cabernet Sauvignon", 
           "source": "287", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Lancashire (cr) California Cabernet Sauvignon", 
           "id": "1283", 
           "name": "Lancashire (cr) California Cabernet Sauvignon"
@@ -15588,7 +15588,7 @@
           "selected": false, 
           "canonicalName": "Lancashire (cr) Pinot Noir", 
           "source": "287", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Lancashire (cr) Pinot Noir", 
           "id": "1282", 
           "name": "Lancashire (cr) Pinot Noir"
@@ -15603,7 +15603,7 @@
           "selected": false, 
           "canonicalName": "Lancashire (cr) Syrah", 
           "source": "287", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Lancashire (cr) Syrah", 
           "id": "1281", 
           "name": "Lancashire (cr) Syrah"
@@ -15694,7 +15694,7 @@
           "selected": false, 
           "canonicalName": "Caprino Noccetto (cr) California Cabernet Sauvignon", 
           "source": "285", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caprino Noccetto (cr) California Cabernet Sauvignon", 
           "id": "1275", 
           "name": "Caprino Noccetto (cr) California Cabernet Sauvignon"
@@ -15784,7 +15784,7 @@
           "selected": false, 
           "canonicalName": "Caprino Noce (cr) Australian Shiraz", 
           "source": "284", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caprino Noce (cr) Australian Shiraz", 
           "id": "1269", 
           "name": "Caprino Noce (cr) Australian Shiraz"
@@ -15799,7 +15799,7 @@
           "selected": false, 
           "canonicalName": "Caprino Noce (cr) Beaujolais cru", 
           "source": "284", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caprino Noce (cr) Beaujolais cru", 
           "id": "1268", 
           "name": "Caprino Noce (cr) Beaujolais cru"
@@ -15814,7 +15814,7 @@
           "selected": false, 
           "canonicalName": "Caprino Noce (cr) Chianti Classico", 
           "source": "284", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caprino Noce (cr) Chianti Classico", 
           "id": "1267", 
           "name": "Caprino Noce (cr) Chianti Classico"
@@ -15829,7 +15829,7 @@
           "selected": false, 
           "canonicalName": "Caprino Noce (cr) Malbec", 
           "source": "284", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caprino Noce (cr) Malbec", 
           "id": "1266", 
           "name": "Caprino Noce (cr) Malbec"
@@ -15844,7 +15844,7 @@
           "selected": false, 
           "canonicalName": "Caprino Noce (cr) Red Burgundy", 
           "source": "284", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caprino Noce (cr) Red Burgundy", 
           "id": "1265", 
           "name": "Caprino Noce (cr) Red Burgundy"
@@ -15859,7 +15859,7 @@
           "selected": false, 
           "canonicalName": "Caprino Noce (cr) Rioja-style Tempranillo", 
           "source": "284", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Caprino Noce (cr) Rioja-style Tempranillo", 
           "id": "1264", 
           "name": "Caprino Noce (cr) Rioja-style Tempranillo"
@@ -15904,7 +15904,7 @@
           "selected": false, 
           "canonicalName": "Cardinal Sin (cr) Beaujolais", 
           "source": "281", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cardinal Sin (cr) Beaujolais", 
           "id": "1261", 
           "name": "Cardinal Sin (cr) Beaujolais"
@@ -15919,7 +15919,7 @@
           "selected": false, 
           "canonicalName": "Cardinal Sin (cr) Carignan", 
           "source": "281", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cardinal Sin (cr) Carignan", 
           "id": "1260", 
           "name": "Cardinal Sin (cr) Carignan"
@@ -15934,7 +15934,7 @@
           "selected": false, 
           "canonicalName": "Cardinal Sin (cr) Oregon Pinot Noir", 
           "source": "281", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cardinal Sin (cr) Oregon Pinot Noir", 
           "id": "1259", 
           "name": "Cardinal Sin (cr) Oregon Pinot Noir"
@@ -15994,7 +15994,7 @@
           "selected": false, 
           "canonicalName": "Munster (cr) Australian Shiraz", 
           "source": "280", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Munster (cr) Australian Shiraz", 
           "id": "1255", 
           "name": "Munster (cr) Australian Shiraz"
@@ -16129,7 +16129,7 @@
           "selected": false, 
           "canonicalName": "Reblochon (cr) California Zinfandel", 
           "source": "279", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Reblochon (cr) California Zinfandel", 
           "id": "1246", 
           "name": "Reblochon (cr) California Zinfandel"
@@ -16144,7 +16144,7 @@
           "selected": false, 
           "canonicalName": "Reblochon (cr) Pinot Noir", 
           "source": "279", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Reblochon (cr) Pinot Noir", 
           "id": "1245", 
           "name": "Reblochon (cr) Pinot Noir"
@@ -16250,7 +16250,7 @@
           "selected": false, 
           "canonicalName": "Gorgonzola (cr) California Cabernet Sauvignon", 
           "source": "277", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gorgonzola (cr) California Cabernet Sauvignon", 
           "id": "1238", 
           "name": "Gorgonzola (cr) California Cabernet Sauvignon"
@@ -16370,7 +16370,7 @@
           "selected": false, 
           "canonicalName": "Livarot (cr) Beaujolais cru", 
           "source": "275", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Livarot (cr) Beaujolais cru", 
           "id": "1230", 
           "name": "Livarot (cr) Beaujolais cru"
@@ -16521,7 +16521,7 @@
           "selected": false, 
           "canonicalName": "Pont l'Eveque (cr) Beaujolais", 
           "source": "274", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pont l'Eveque (cr) Beaujolais", 
           "id": "1220", 
           "name": "Pont l'Eveque (cr) Beaujolais"
@@ -16582,7 +16582,7 @@
           "canonicalName": "Centovalli Ticino (cr) Australian Shiraz", 
           "source": "273", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Centovalli Ticino (cr) Australian Shiraz", 
           "id": "1216", 
           "name": "Centovalli Ticino (cr) Australian Shiraz"
@@ -16597,7 +16597,7 @@
           "selected": false, 
           "canonicalName": "Centovalli Ticino (cr) Barbaresco", 
           "source": "273", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Centovalli Ticino (cr) Barbaresco", 
           "id": "1215", 
           "name": "Centovalli Ticino (cr) Barbaresco"
@@ -16612,7 +16612,7 @@
           "selected": false, 
           "canonicalName": "Centovalli Ticino (cr) Syrah", 
           "source": "273", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Centovalli Ticino (cr) Syrah", 
           "id": "1214", 
           "name": "Centovalli Ticino (cr) Syrah"
@@ -16702,7 +16702,7 @@
           "selected": false, 
           "canonicalName": "Chabichou de Poitou (cr) Chianti Classico", 
           "source": "272", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chabichou de Poitou (cr) Chianti Classico", 
           "id": "1208", 
           "name": "Chabichou de Poitou (cr) Chianti Classico"
@@ -16854,7 +16854,7 @@
           "selected": false, 
           "canonicalName": "Crottin de Chavignol (cr) Cahors", 
           "source": "271", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Crottin de Chavignol (cr) Cahors", 
           "id": "1198", 
           "name": "Crottin de Chavignol (cr) Cahors"
@@ -16869,7 +16869,7 @@
           "selected": false, 
           "canonicalName": "Crottin de Chavignol (cr) Chianti Classico", 
           "source": "271", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Crottin de Chavignol (cr) Chianti Classico", 
           "id": "1197", 
           "name": "Crottin de Chavignol (cr) Chianti Classico"
@@ -16989,7 +16989,7 @@
           "selected": false, 
           "canonicalName": "Roucoulons (cr) Garnacha-Cabernet Sauvignon blend", 
           "source": "268", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roucoulons (cr) Garnacha-Cabernet Sauvignon blend", 
           "id": "1189", 
           "name": "Roucoulons (cr) Garnacha-Cabernet Sauvignon blend"
@@ -17004,7 +17004,7 @@
           "selected": false, 
           "canonicalName": "Roucoulons (cr) Red Bordeaux", 
           "source": "268", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roucoulons (cr) Red Bordeaux", 
           "id": "1188", 
           "name": "Roucoulons (cr) Red Bordeaux"
@@ -17080,7 +17080,7 @@
           "selected": false, 
           "canonicalName": "Chaput Vacherin Mont D'Or (cr) Amarone della Valpolicella", 
           "source": "267", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaput Vacherin Mont D'Or (cr) Amarone della Valpolicella", 
           "id": "1183", 
           "name": "Chaput Vacherin Mont D'Or (cr) Amarone della Valpolicella"
@@ -17095,7 +17095,7 @@
           "selected": false, 
           "canonicalName": "Chaput Vacherin Mont D'Or (cr) Barbera d'Asti", 
           "source": "267", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaput Vacherin Mont D'Or (cr) Barbera d'Asti", 
           "id": "1182", 
           "name": "Chaput Vacherin Mont D'Or (cr) Barbera d'Asti"
@@ -17110,7 +17110,7 @@
           "selected": false, 
           "canonicalName": "Chaput Vacherin Mont D'Or (cr) Beaujolais cru", 
           "source": "267", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaput Vacherin Mont D'Or (cr) Beaujolais cru", 
           "id": "1181", 
           "name": "Chaput Vacherin Mont D'Or (cr) Beaujolais cru"
@@ -17125,7 +17125,7 @@
           "selected": false, 
           "canonicalName": "Chaput Vacherin Mont D'Or (cr) California Merlot", 
           "source": "267", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaput Vacherin Mont D'Or (cr) California Merlot", 
           "id": "1180", 
           "name": "Chaput Vacherin Mont D'Or (cr) California Merlot"
@@ -17140,7 +17140,7 @@
           "selected": false, 
           "canonicalName": "Chaput Vacherin Mont D'Or (cr) Chianti Classico", 
           "source": "267", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaput Vacherin Mont D'Or (cr) Chianti Classico", 
           "id": "1179", 
           "name": "Chaput Vacherin Mont D'Or (cr) Chianti Classico"
@@ -17155,7 +17155,7 @@
           "selected": false, 
           "canonicalName": "Chaput Vacherin Mont D'Or (cr) Syrah", 
           "source": "267", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chaput Vacherin Mont D'Or (cr) Syrah", 
           "id": "1178", 
           "name": "Chaput Vacherin Mont D'Or (cr) Syrah"
@@ -17231,7 +17231,7 @@
           "canonicalName": "Krummenswiler Forsterkase (cr) Amarone della Valpolicella", 
           "source": "266", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Krummenswiler Forsterkase (cr) Amarone della Valpolicella", 
           "id": "1173", 
           "name": "Krummenswiler Forsterkase (cr) Amarone della Valpolicella"
@@ -17246,7 +17246,7 @@
           "selected": false, 
           "canonicalName": "Krummenswiler Forsterkase (cr) Beaujolais cru", 
           "source": "266", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Krummenswiler Forsterkase (cr) Beaujolais cru", 
           "id": "1172", 
           "name": "Krummenswiler Forsterkase (cr) Beaujolais cru"
@@ -17261,7 +17261,7 @@
           "selected": false, 
           "canonicalName": "Krummenswiler Forsterkase (cr) Red Bordeaux", 
           "source": "266", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Krummenswiler Forsterkase (cr) Red Bordeaux", 
           "id": "1171", 
           "name": "Krummenswiler Forsterkase (cr) Red Bordeaux"
@@ -17276,7 +17276,7 @@
           "selected": false, 
           "canonicalName": "Krummenswiler Forsterkase (cr) Red Burgundy", 
           "source": "266", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Krummenswiler Forsterkase (cr) Red Burgundy", 
           "id": "1170", 
           "name": "Krummenswiler Forsterkase (cr) Red Burgundy"
@@ -17291,7 +17291,7 @@
           "selected": false, 
           "canonicalName": "Krummenswiler Forsterkase (cr) Rioja-style Tempranillo", 
           "source": "266", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Krummenswiler Forsterkase (cr) Rioja-style Tempranillo", 
           "id": "1169", 
           "name": "Krummenswiler Forsterkase (cr) Rioja-style Tempranillo"
@@ -17427,7 +17427,7 @@
           "selected": false, 
           "canonicalName": "Cheddar (cr) Barbaresco", 
           "source": "264", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheddar (cr) Barbaresco", 
           "id": "1160", 
           "name": "Cheddar (cr) Barbaresco"
@@ -17442,7 +17442,7 @@
           "selected": false, 
           "canonicalName": "Cheddar (cr) Barolo", 
           "source": "264", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheddar (cr) Barolo", 
           "id": "1159", 
           "name": "Cheddar (cr) Barolo"
@@ -17457,7 +17457,7 @@
           "selected": false, 
           "canonicalName": "Cheddar (cr) California Pinot Noir", 
           "source": "264", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheddar (cr) California Pinot Noir", 
           "id": "1158", 
           "name": "Cheddar (cr) California Pinot Noir"
@@ -17473,7 +17473,7 @@
           "canonicalName": "Cheddar (cr) Red Bordeaux", 
           "source": "264", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheddar (cr) Red Bordeaux", 
           "id": "1157", 
           "name": "Cheddar (cr) Red Bordeaux"
@@ -17488,7 +17488,7 @@
           "selected": false, 
           "canonicalName": "Cheddar (cr) Red Burgundy", 
           "source": "264", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheddar (cr) Red Burgundy", 
           "id": "1156", 
           "name": "Cheddar (cr) Red Burgundy"
@@ -17504,7 +17504,7 @@
           "canonicalName": "Cheddar (cr) Syrah", 
           "source": "264", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheddar (cr) Syrah", 
           "id": "1155", 
           "name": "Cheddar (cr) Syrah"
@@ -17594,7 +17594,7 @@
           "selected": false, 
           "canonicalName": "Cheshire (cr) Beaujolais cru", 
           "source": "256", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheshire (cr) Beaujolais cru", 
           "id": "1149", 
           "name": "Cheshire (cr) Beaujolais cru"
@@ -17609,7 +17609,7 @@
           "selected": false, 
           "canonicalName": "Cheshire (cr) Chianti Classico", 
           "source": "256", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheshire (cr) Chianti Classico", 
           "id": "1148", 
           "name": "Cheshire (cr) Chianti Classico"
@@ -17624,7 +17624,7 @@
           "selected": false, 
           "canonicalName": "Cheshire (cr) Dolcetto d'Alba", 
           "source": "256", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Cheshire (cr) Dolcetto d'Alba", 
           "id": "1147", 
           "name": "Cheshire (cr) Dolcetto d'Alba"
@@ -17700,7 +17700,7 @@
           "selected": false, 
           "canonicalName": "Chevrotin Des Aravis (cr) California Cabernet Sauvignon", 
           "source": "253", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chevrotin Des Aravis (cr) California Cabernet Sauvignon", 
           "id": "1142", 
           "name": "Chevrotin Des Aravis (cr) California Cabernet Sauvignon"
@@ -17715,7 +17715,7 @@
           "selected": false, 
           "canonicalName": "Chevrotin Des Aravis (cr) Syrah", 
           "source": "253", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Chevrotin Des Aravis (cr) Syrah", 
           "id": "1141", 
           "name": "Chevrotin Des Aravis (cr) Syrah"
@@ -17821,7 +17821,7 @@
           "selected": false, 
           "canonicalName": "Classic Blue (cr) Chianti Classico", 
           "source": "252", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Classic Blue (cr) Chianti Classico", 
           "id": "1134", 
           "name": "Classic Blue (cr) Chianti Classico"
@@ -17836,7 +17836,7 @@
           "selected": false, 
           "canonicalName": "Classic Blue (cr) Syrah", 
           "source": "252", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Classic Blue (cr) Syrah", 
           "id": "1133", 
           "name": "Classic Blue (cr) Syrah"
@@ -17881,7 +17881,7 @@
           "selected": false, 
           "canonicalName": "Monte Enebro (cr) Beaujolais cru", 
           "source": "251", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Monte Enebro (cr) Beaujolais cru", 
           "id": "1130", 
           "name": "Monte Enebro (cr) Beaujolais cru"
@@ -17896,7 +17896,7 @@
           "selected": false, 
           "canonicalName": "Monte Enebro (cr) Ribera del Duero", 
           "source": "251", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Monte Enebro (cr) Ribera del Duero", 
           "id": "1129", 
           "name": "Monte Enebro (cr) Ribera del Duero"
@@ -17941,7 +17941,7 @@
           "selected": false, 
           "canonicalName": "Constant Bliss (cr) Barbera d'Asti", 
           "source": "250", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Constant Bliss (cr) Barbera d'Asti", 
           "id": "1126", 
           "name": "Constant Bliss (cr) Barbera d'Asti"
@@ -17956,7 +17956,7 @@
           "selected": false, 
           "canonicalName": "Constant Bliss (cr) Red Bordeaux", 
           "source": "250", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Constant Bliss (cr) Red Bordeaux", 
           "id": "1125", 
           "name": "Constant Bliss (cr) Red Bordeaux"
@@ -17971,7 +17971,7 @@
           "selected": false, 
           "canonicalName": "Constant Bliss (cr) Red Burgundy", 
           "source": "250", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Constant Bliss (cr) Red Burgundy", 
           "id": "1124", 
           "name": "Constant Bliss (cr) Red Burgundy"
@@ -17986,7 +17986,7 @@
           "selected": false, 
           "canonicalName": "Constant Bliss (cr) Super Tuscan blend", 
           "source": "250", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Constant Bliss (cr) Super Tuscan blend", 
           "id": "1123", 
           "name": "Constant Bliss (cr) Super Tuscan blend"
@@ -18061,7 +18061,7 @@
           "selected": false, 
           "canonicalName": "Coolea (cr) Australian Shiraz", 
           "source": "249", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Coolea (cr) Australian Shiraz", 
           "id": "1118", 
           "name": "Coolea (cr) Australian Shiraz"
@@ -18076,7 +18076,7 @@
           "selected": false, 
           "canonicalName": "Coolea (cr) Beaujolais cru", 
           "source": "249", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Coolea (cr) Beaujolais cru", 
           "id": "1117", 
           "name": "Coolea (cr) Beaujolais cru"
@@ -18091,7 +18091,7 @@
           "selected": false, 
           "canonicalName": "Coolea (cr) California Pinot Noir", 
           "source": "249", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Coolea (cr) California Pinot Noir", 
           "id": "1116", 
           "name": "Coolea (cr) California Pinot Noir"
@@ -18107,7 +18107,7 @@
           "canonicalName": "Coolea (cr) California Zinfandel", 
           "source": "249", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Coolea (cr) California Zinfandel", 
           "id": "1115", 
           "name": "Coolea (cr) California Zinfandel"
@@ -18122,7 +18122,7 @@
           "selected": false, 
           "canonicalName": "Coolea (cr) Syrah", 
           "source": "249", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Coolea (cr) Syrah", 
           "id": "1114", 
           "name": "Coolea (cr) Syrah"
@@ -18227,7 +18227,7 @@
           "selected": false, 
           "canonicalName": "Gouda Boerenkaas (cr) Amarone della Valpolicella", 
           "source": "248", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gouda Boerenkaas (cr) Amarone della Valpolicella", 
           "id": "1107", 
           "name": "Gouda Boerenkaas (cr) Amarone della Valpolicella"
@@ -18242,7 +18242,7 @@
           "selected": false, 
           "canonicalName": "Gouda Boerenkaas (cr) California Cabernet Sauvignon", 
           "source": "248", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gouda Boerenkaas (cr) California Cabernet Sauvignon", 
           "id": "1106", 
           "name": "Gouda Boerenkaas (cr) California Cabernet Sauvignon"
@@ -18257,7 +18257,7 @@
           "selected": false, 
           "canonicalName": "Gouda Boerenkaas (cr) California Merlot", 
           "source": "248", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gouda Boerenkaas (cr) California Merlot", 
           "id": "1105", 
           "name": "Gouda Boerenkaas (cr) California Merlot"
@@ -18272,7 +18272,7 @@
           "selected": false, 
           "canonicalName": "Gouda Boerenkaas (cr) Syrah", 
           "source": "248", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Gouda Boerenkaas (cr) Syrah", 
           "id": "1104", 
           "name": "Gouda Boerenkaas (cr) Syrah"
@@ -18347,7 +18347,7 @@
           "selected": false, 
           "canonicalName": "Mimolette (cr) Cahors", 
           "source": "247", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Mimolette (cr) Cahors", 
           "id": "1099", 
           "name": "Mimolette (cr) Cahors"
@@ -18363,7 +18363,7 @@
           "canonicalName": "Mimolette (cr) Carignan", 
           "source": "247", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Mimolette (cr) Carignan", 
           "id": "1098", 
           "name": "Mimolette (cr) Carignan"
@@ -18378,7 +18378,7 @@
           "selected": false, 
           "canonicalName": "Mimolette (cr) Malbec", 
           "source": "247", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Mimolette (cr) Malbec", 
           "id": "1097", 
           "name": "Mimolette (cr) Malbec"
@@ -18528,7 +18528,7 @@
           "selected": false, 
           "canonicalName": "Selles-sur-Cher (cr) Minervois", 
           "source": "243", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Selles-sur-Cher (cr) Minervois", 
           "id": "1087", 
           "name": "Selles-sur-Cher (cr) Minervois"
@@ -18816,7 +18816,7 @@
           "selected": false, 
           "canonicalName": "Doddington (cr) California Cabernet Sauvignon", 
           "source": "239", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Doddington (cr) California Cabernet Sauvignon", 
           "id": "1068", 
           "name": "Doddington (cr) California Cabernet Sauvignon"
@@ -18832,7 +18832,7 @@
           "canonicalName": "Doddington (cr) California Merlot", 
           "source": "239", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Doddington (cr) California Merlot", 
           "id": "1067", 
           "name": "Doddington (cr) California Merlot"
@@ -18847,7 +18847,7 @@
           "selected": false, 
           "canonicalName": "Doddington (cr) Pinot Noir", 
           "source": "239", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Doddington (cr) Pinot Noir", 
           "id": "1066", 
           "name": "Doddington (cr) Pinot Noir"
@@ -18923,7 +18923,7 @@
           "selected": false, 
           "canonicalName": "Tomme de Savoie (cr) Beaujolais", 
           "source": "237", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tomme de Savoie (cr) Beaujolais", 
           "id": "1061", 
           "name": "Tomme de Savoie (cr) Beaujolais"
@@ -18938,7 +18938,7 @@
           "selected": false, 
           "canonicalName": "Tomme de Savoie (cr) California Cabernet Sauvignon", 
           "source": "237", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tomme de Savoie (cr) California Cabernet Sauvignon", 
           "id": "1060", 
           "name": "Tomme de Savoie (cr) California Cabernet Sauvignon"
@@ -18953,7 +18953,7 @@
           "selected": false, 
           "canonicalName": "Tomme de Savoie (cr) Red Burgundy", 
           "source": "237", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tomme de Savoie (cr) Red Burgundy", 
           "id": "1059", 
           "name": "Tomme de Savoie (cr) Red Burgundy"
@@ -18968,7 +18968,7 @@
           "selected": false, 
           "canonicalName": "Tomme de Savoie (cr) Rioja-style Tempranillo", 
           "source": "237", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tomme de Savoie (cr) Rioja-style Tempranillo", 
           "id": "1058", 
           "name": "Tomme de Savoie (cr) Rioja-style Tempranillo"
@@ -19058,7 +19058,7 @@
           "selected": false, 
           "canonicalName": "Epoisses de Bourgogne (cr) California Cabernet Sauvignon", 
           "source": "235", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Epoisses de Bourgogne (cr) California Cabernet Sauvignon", 
           "id": "1052", 
           "name": "Epoisses de Bourgogne (cr) California Cabernet Sauvignon"
@@ -19073,7 +19073,7 @@
           "selected": false, 
           "canonicalName": "Epoisses de Bourgogne (cr) Pinot Noir", 
           "source": "235", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Epoisses de Bourgogne (cr) Pinot Noir", 
           "id": "1051", 
           "name": "Epoisses de Bourgogne (cr) Pinot Noir"
@@ -19088,7 +19088,7 @@
           "selected": false, 
           "canonicalName": "Epoisses de Bourgogne (cr) Ribera del Duero", 
           "source": "235", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Epoisses de Bourgogne (cr) Ribera del Duero", 
           "id": "1050", 
           "name": "Epoisses de Bourgogne (cr) Ribera del Duero"
@@ -19163,7 +19163,7 @@
           "selected": false, 
           "canonicalName": "L'Ami du Chambertin (cr) Barbaresco", 
           "source": "234", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "L'Ami du Chambertin (cr) Barbaresco", 
           "id": "1045", 
           "name": "L'Ami du Chambertin (cr) Barbaresco"
@@ -19178,7 +19178,7 @@
           "selected": false, 
           "canonicalName": "L'Ami du Chambertin (cr) Barolo", 
           "source": "234", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "L'Ami du Chambertin (cr) Barolo", 
           "id": "1044", 
           "name": "L'Ami du Chambertin (cr) Barolo"
@@ -19193,7 +19193,7 @@
           "selected": false, 
           "canonicalName": "L'Ami du Chambertin (cr) Beaujolais cru", 
           "source": "234", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "L'Ami du Chambertin (cr) Beaujolais cru", 
           "id": "1043", 
           "name": "L'Ami du Chambertin (cr) Beaujolais cru"
@@ -19238,7 +19238,7 @@
           "selected": false, 
           "canonicalName": "Evora (cr) Australian Shiraz", 
           "source": "233", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Evora (cr) Australian Shiraz", 
           "id": "1040", 
           "name": "Evora (cr) Australian Shiraz"
@@ -19254,7 +19254,7 @@
           "canonicalName": "Evora (cr) Chianti Classico", 
           "source": "233", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Evora (cr) Chianti Classico", 
           "id": "1039", 
           "name": "Evora (cr) Chianti Classico"
@@ -19269,7 +19269,7 @@
           "selected": false, 
           "canonicalName": "Evora (cr) Malbec", 
           "source": "233", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Evora (cr) Malbec", 
           "id": "1038", 
           "name": "Evora (cr) Malbec"
@@ -19284,7 +19284,7 @@
           "selected": false, 
           "canonicalName": "Evora (cr) Rioja-style Tempranillo", 
           "source": "233", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Evora (cr) Rioja-style Tempranillo", 
           "id": "1037", 
           "name": "Evora (cr) Rioja-style Tempranillo"
@@ -19344,7 +19344,7 @@
           "selected": false, 
           "canonicalName": "Fiumorbu Brebis (cr) Aglianico del Vulture", 
           "source": "232", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fiumorbu Brebis (cr) Aglianico del Vulture", 
           "id": "1033", 
           "name": "Fiumorbu Brebis (cr) Aglianico del Vulture"
@@ -19359,7 +19359,7 @@
           "selected": false, 
           "canonicalName": "Fiumorbu Brebis (cr) Barbera d'Asti", 
           "source": "232", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fiumorbu Brebis (cr) Barbera d'Asti", 
           "id": "1032", 
           "name": "Fiumorbu Brebis (cr) Barbera d'Asti"
@@ -19374,7 +19374,7 @@
           "selected": false, 
           "canonicalName": "Fiumorbu Brebis (cr) Rioja-style Tempranillo", 
           "source": "232", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fiumorbu Brebis (cr) Rioja-style Tempranillo", 
           "id": "1031", 
           "name": "Fiumorbu Brebis (cr) Rioja-style Tempranillo"
@@ -19479,7 +19479,7 @@
           "selected": false, 
           "canonicalName": "Stanser Schafkase (cr) Beaujolais", 
           "source": "231", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Stanser Schafkase (cr) Beaujolais", 
           "id": "1024", 
           "name": "Stanser Schafkase (cr) Beaujolais"
@@ -19749,7 +19749,7 @@
           "selected": false, 
           "canonicalName": "Ossau-Iraty Brebis (cr) Australian Cabernet Sauvignon", 
           "source": "228", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ossau-Iraty Brebis (cr) Australian Cabernet Sauvignon", 
           "id": "1006", 
           "name": "Ossau-Iraty Brebis (cr) Australian Cabernet Sauvignon"
@@ -19764,7 +19764,7 @@
           "selected": false, 
           "canonicalName": "Ossau-Iraty Brebis (cr) Barbera d'Alba", 
           "source": "228", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ossau-Iraty Brebis (cr) Barbera d'Alba", 
           "id": "1005", 
           "name": "Ossau-Iraty Brebis (cr) Barbera d'Alba"
@@ -19779,7 +19779,7 @@
           "selected": false, 
           "canonicalName": "Ossau-Iraty Brebis (cr) Beaujolais", 
           "source": "228", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ossau-Iraty Brebis (cr) Beaujolais", 
           "id": "1004", 
           "name": "Ossau-Iraty Brebis (cr) Beaujolais"
@@ -19794,7 +19794,7 @@
           "selected": false, 
           "canonicalName": "Ossau-Iraty Brebis (cr) Dolcetto d'Alba", 
           "source": "228", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ossau-Iraty Brebis (cr) Dolcetto d'Alba", 
           "id": "1003", 
           "name": "Ossau-Iraty Brebis (cr) Dolcetto d'Alba"
@@ -19885,7 +19885,7 @@
           "selected": false, 
           "canonicalName": "Foin d'Odeur (cr) Salice Salentino", 
           "source": "226", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Foin d'Odeur (cr) Salice Salentino", 
           "id": "995", 
           "name": "Foin d'Odeur (cr) Salice Salentino"
@@ -19975,7 +19975,7 @@
           "selected": false, 
           "canonicalName": "Fougerus (cr) Beaujolais cru", 
           "source": "220", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fougerus (cr) Beaujolais cru", 
           "id": "989", 
           "name": "Fougerus (cr) Beaujolais cru"
@@ -19990,7 +19990,7 @@
           "selected": false, 
           "canonicalName": "Fougerus (cr) California Merlot", 
           "source": "220", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fougerus (cr) California Merlot", 
           "id": "988", 
           "name": "Fougerus (cr) California Merlot"
@@ -20005,7 +20005,7 @@
           "selected": false, 
           "canonicalName": "Fougerus (cr) Chianti Classico", 
           "source": "220", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Fougerus (cr) Chianti Classico", 
           "id": "987", 
           "name": "Fougerus (cr) Chianti Classico"
@@ -20110,7 +20110,7 @@
           "selected": false, 
           "canonicalName": "Roomano (cr) California Merlot", 
           "source": "215", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roomano (cr) California Merlot", 
           "id": "980", 
           "name": "Roomano (cr) California Merlot"
@@ -20125,7 +20125,7 @@
           "selected": false, 
           "canonicalName": "Roomano (cr) California Zinfandel", 
           "source": "215", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roomano (cr) California Zinfandel", 
           "id": "979", 
           "name": "Roomano (cr) California Zinfandel"
@@ -20140,7 +20140,7 @@
           "selected": false, 
           "canonicalName": "Roomano (cr) Carignan", 
           "source": "215", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roomano (cr) Carignan", 
           "id": "978", 
           "name": "Roomano (cr) Carignan"
@@ -20156,7 +20156,7 @@
           "canonicalName": "Roomano (cr) Red Bordeaux", 
           "source": "215", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roomano (cr) Red Bordeaux", 
           "id": "977", 
           "name": "Roomano (cr) Red Bordeaux"
@@ -20171,7 +20171,7 @@
           "selected": false, 
           "canonicalName": "Roomano (cr) Syrah", 
           "source": "215", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roomano (cr) Syrah", 
           "id": "976", 
           "name": "Roomano (cr) Syrah"
@@ -20231,7 +20231,7 @@
           "selected": false, 
           "canonicalName": "Great Hill Blue (cr) California Merlot", 
           "source": "214", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Great Hill Blue (cr) California Merlot", 
           "id": "972", 
           "name": "Great Hill Blue (cr) California Merlot"
@@ -20246,7 +20246,7 @@
           "selected": false, 
           "canonicalName": "Great Hill Blue (cr) Cornas", 
           "source": "214", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Great Hill Blue (cr) Cornas", 
           "id": "971", 
           "name": "Great Hill Blue (cr) Cornas"
@@ -20261,7 +20261,7 @@
           "selected": false, 
           "canonicalName": "Great Hill Blue (cr) Muscatel", 
           "source": "214", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Great Hill Blue (cr) Muscatel", 
           "id": "970", 
           "name": "Great Hill Blue (cr) Muscatel"
@@ -20381,7 +20381,7 @@
           "selected": false, 
           "canonicalName": "Hoch Ybrig (cr) Australian Shiraz", 
           "source": "211", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Hoch Ybrig (cr) Australian Shiraz", 
           "id": "962", 
           "name": "Hoch Ybrig (cr) Australian Shiraz"
@@ -20396,7 +20396,7 @@
           "selected": false, 
           "canonicalName": "Hoch Ybrig (cr) Beaujolais cru", 
           "source": "211", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Hoch Ybrig (cr) Beaujolais cru", 
           "id": "961", 
           "name": "Hoch Ybrig (cr) Beaujolais cru"
@@ -20411,7 +20411,7 @@
           "selected": false, 
           "canonicalName": "Hoch Ybrig (cr) California Merlot", 
           "source": "211", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Hoch Ybrig (cr) California Merlot", 
           "id": "960", 
           "name": "Hoch Ybrig (cr) California Merlot"
@@ -20503,7 +20503,7 @@
           "canonicalName": "Persille de Tignes (cr) Beaujolais cru", 
           "source": "209", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Persille de Tignes (cr) Beaujolais cru", 
           "id": "954", 
           "name": "Persille de Tignes (cr) Beaujolais cru"
@@ -20563,7 +20563,7 @@
           "selected": false, 
           "canonicalName": "Harvest Moon (cr) Aglianico del Vulture", 
           "source": "207", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Harvest Moon (cr) Aglianico del Vulture", 
           "id": "950", 
           "name": "Harvest Moon (cr) Aglianico del Vulture"
@@ -20578,7 +20578,7 @@
           "selected": false, 
           "canonicalName": "Harvest Moon (cr) Negroamaro-Malvasia", 
           "source": "207", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Harvest Moon (cr) Negroamaro-Malvasia", 
           "id": "949", 
           "name": "Harvest Moon (cr) Negroamaro-Malvasia"
@@ -20683,7 +20683,7 @@
           "selected": false, 
           "canonicalName": "Hilltown Wheel (cr) Beaujolais", 
           "source": "205", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Hilltown Wheel (cr) Beaujolais", 
           "id": "942", 
           "name": "Hilltown Wheel (cr) Beaujolais"
@@ -20803,7 +20803,7 @@
           "selected": false, 
           "canonicalName": "Humboldt Fog (cr) Beaujolais cru", 
           "source": "197", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Humboldt Fog (cr) Beaujolais cru", 
           "id": "934", 
           "name": "Humboldt Fog (cr) Beaujolais cru"
@@ -20893,7 +20893,7 @@
           "selected": false, 
           "canonicalName": "Wabash Cannonball (cr) California Zinfandel", 
           "source": "196", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Wabash Cannonball (cr) California Zinfandel", 
           "id": "928", 
           "name": "Wabash Cannonball (cr) California Zinfandel"
@@ -20968,7 +20968,7 @@
           "selected": false, 
           "canonicalName": "Ibores (cr) Barbaresco", 
           "source": "195", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ibores (cr) Barbaresco", 
           "id": "923", 
           "name": "Ibores (cr) Barbaresco"
@@ -20983,7 +20983,7 @@
           "selected": false, 
           "canonicalName": "Ibores (cr) California Merlot", 
           "source": "195", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ibores (cr) California Merlot", 
           "id": "922", 
           "name": "Ibores (cr) California Merlot"
@@ -20998,7 +20998,7 @@
           "selected": false, 
           "canonicalName": "Ibores (cr) Red Burgundy", 
           "source": "195", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ibores (cr) Red Burgundy", 
           "id": "921", 
           "name": "Ibores (cr) Red Burgundy"
@@ -21013,7 +21013,7 @@
           "selected": false, 
           "canonicalName": "Ibores (cr) Syrah", 
           "source": "195", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ibores (cr) Syrah", 
           "id": "920", 
           "name": "Ibores (cr) Syrah"
@@ -21136,7 +21136,7 @@
           "canonicalName": "Queso de la Garrotxa (cr) Ribera del Duero", 
           "source": "194", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de la Garrotxa (cr) Ribera del Duero", 
           "id": "912", 
           "name": "Queso de la Garrotxa (cr) Ribera del Duero"
@@ -21151,7 +21151,7 @@
           "selected": false, 
           "canonicalName": "Queso de la Garrotxa (cr) Super Tuscan blend", 
           "source": "194", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de la Garrotxa (cr) Super Tuscan blend", 
           "id": "911", 
           "name": "Queso de la Garrotxa (cr) Super Tuscan blend"
@@ -21318,7 +21318,7 @@
           "selected": false, 
           "canonicalName": "Langres (cr) California Zinfandel", 
           "source": "192", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Langres (cr) California Zinfandel", 
           "id": "900", 
           "name": "Langres (cr) California Zinfandel"
@@ -21333,7 +21333,7 @@
           "selected": false, 
           "canonicalName": "Langres (cr) Pinot Noir", 
           "source": "192", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Langres (cr) Pinot Noir", 
           "id": "899", 
           "name": "Langres (cr) Pinot Noir"
@@ -21348,7 +21348,7 @@
           "selected": false, 
           "canonicalName": "Langres (cr) Aglianico del Vulture", 
           "source": "192", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Langres (cr) Aglianico del Vulture", 
           "id": "898", 
           "name": "Langres (cr) Aglianico del Vulture"
@@ -21408,7 +21408,7 @@
           "selected": false, 
           "canonicalName": "Lavort (cr) California Merlot", 
           "source": "191", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Lavort (cr) California Merlot", 
           "id": "894", 
           "name": "Lavort (cr) California Merlot"
@@ -21423,7 +21423,7 @@
           "selected": false, 
           "canonicalName": "Lavort (cr) Red Bordeaux", 
           "source": "191", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Lavort (cr) Red Bordeaux", 
           "id": "893", 
           "name": "Lavort (cr) Red Bordeaux"
@@ -21483,7 +21483,7 @@
           "selected": false, 
           "canonicalName": "Le Cabri Ariegeois (cr) California Pinot Noir", 
           "source": "190", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Cabri Ariegeois (cr) California Pinot Noir", 
           "id": "889", 
           "name": "Le Cabri Ariegeois (cr) California Pinot Noir"
@@ -21498,7 +21498,7 @@
           "selected": false, 
           "canonicalName": "Le Chevre Noir (cr) Barbera d'Alba", 
           "source": "189", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Chevre Noir (cr) Barbera d'Alba", 
           "id": "888", 
           "name": "Le Chevre Noir (cr) Barbera d'Alba"
@@ -21513,7 +21513,7 @@
           "selected": false, 
           "canonicalName": "Le Chevre Noir (cr) California Syrah", 
           "source": "189", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Chevre Noir (cr) California Syrah", 
           "id": "887", 
           "name": "Le Chevre Noir (cr) California Syrah"
@@ -21528,7 +21528,7 @@
           "selected": false, 
           "canonicalName": "Le Chevre Noir (cr) California Zinfandel", 
           "source": "189", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Chevre Noir (cr) California Zinfandel", 
           "id": "886", 
           "name": "Le Chevre Noir (cr) California Zinfandel"
@@ -21603,7 +21603,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis cow (cr) Amarone della Valpolicella", 
           "source": "186", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis cow (cr) Amarone della Valpolicella", 
           "id": "881", 
           "name": "Le Moulis cow (cr) Amarone della Valpolicella"
@@ -21618,7 +21618,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis cow (cr) Barbaresco", 
           "source": "186", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis cow (cr) Barbaresco", 
           "id": "880", 
           "name": "Le Moulis cow (cr) Barbaresco"
@@ -21633,7 +21633,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis cow (cr) Beaujolais cru", 
           "source": "186", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis cow (cr) Beaujolais cru", 
           "id": "879", 
           "name": "Le Moulis cow (cr) Beaujolais cru"
@@ -21648,7 +21648,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis cow (cr) Cabernet Sauvignon", 
           "source": "186", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis cow (cr) Cabernet Sauvignon", 
           "id": "878", 
           "name": "Le Moulis cow (cr) Cabernet Sauvignon"
@@ -21663,7 +21663,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis cow (cr) California Merlot", 
           "source": "186", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis cow (cr) California Merlot", 
           "id": "877", 
           "name": "Le Moulis cow (cr) California Merlot"
@@ -21678,7 +21678,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis cow (cr) California Zinfandel", 
           "source": "186", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis cow (cr) California Zinfandel", 
           "id": "876", 
           "name": "Le Moulis cow (cr) California Zinfandel"
@@ -21693,7 +21693,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis cow (cr) Red Burgundy", 
           "source": "186", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis cow (cr) Red Burgundy", 
           "id": "875", 
           "name": "Le Moulis cow (cr) Red Burgundy"
@@ -21708,7 +21708,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis cow (cr) Ribera del Duero", 
           "source": "186", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis cow (cr) Ribera del Duero", 
           "id": "874", 
           "name": "Le Moulis cow (cr) Ribera del Duero"
@@ -21723,7 +21723,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis goat (cr) Barbera d'Asti", 
           "source": "184", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis goat (cr) Barbera d'Asti", 
           "id": "873", 
           "name": "Le Moulis goat (cr) Barbera d'Asti"
@@ -21739,7 +21739,7 @@
           "canonicalName": "Le Moulis goat (cr) Beaujolais cru", 
           "source": "184", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis goat (cr) Beaujolais cru", 
           "id": "872", 
           "name": "Le Moulis goat (cr) Beaujolais cru"
@@ -21799,7 +21799,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis sheep (cr) Australian Shiraz", 
           "source": "183", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis sheep (cr) Australian Shiraz", 
           "id": "868", 
           "name": "Le Moulis sheep (cr) Australian Shiraz"
@@ -21814,7 +21814,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis sheep (cr) Barbera d'Asti", 
           "source": "183", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis sheep (cr) Barbera d'Asti", 
           "id": "867", 
           "name": "Le Moulis sheep (cr) Barbera d'Asti"
@@ -21829,7 +21829,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis sheep (cr) Barolo", 
           "source": "183", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis sheep (cr) Barolo", 
           "id": "866", 
           "name": "Le Moulis sheep (cr) Barolo"
@@ -21844,7 +21844,7 @@
           "selected": false, 
           "canonicalName": "Le Moulis sheep (cr) Super Tuscan blend", 
           "source": "183", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Le Moulis sheep (cr) Super Tuscan blend", 
           "id": "865", 
           "name": "Le Moulis sheep (cr) Super Tuscan blend"
@@ -21904,7 +21904,7 @@
           "selected": false, 
           "canonicalName": "Mahon (cr) Barbera d'Alba", 
           "source": "182", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Mahon (cr) Barbera d'Alba", 
           "id": "861", 
           "name": "Mahon (cr) Barbera d'Alba"
@@ -21919,7 +21919,7 @@
           "selected": false, 
           "canonicalName": "Mahon (cr) Red Bordeaux", 
           "source": "182", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Mahon (cr) Red Bordeaux", 
           "id": "860", 
           "name": "Mahon (cr) Red Bordeaux"
@@ -21934,7 +21934,7 @@
           "selected": false, 
           "canonicalName": "Mahon (cr) Ribera del Duero", 
           "source": "182", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Mahon (cr) Ribera del Duero", 
           "id": "859", 
           "name": "Mahon (cr) Ribera del Duero"
@@ -22009,7 +22009,7 @@
           "selected": false, 
           "canonicalName": "Majorero (cr) Barbaresco", 
           "source": "181", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Majorero (cr) Barbaresco", 
           "id": "854", 
           "name": "Majorero (cr) Barbaresco"
@@ -22024,7 +22024,7 @@
           "selected": false, 
           "canonicalName": "Majorero (cr) California Pinot Noir", 
           "source": "181", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Majorero (cr) California Pinot Noir", 
           "id": "853", 
           "name": "Majorero (cr) California Pinot Noir"
@@ -22114,7 +22114,7 @@
           "selected": false, 
           "canonicalName": "Ticklemore (cr) Amarone della Valpolicella", 
           "source": "180", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ticklemore (cr) Amarone della Valpolicella", 
           "id": "847", 
           "name": "Ticklemore (cr) Amarone della Valpolicella"
@@ -22129,7 +22129,7 @@
           "selected": false, 
           "canonicalName": "Ticklemore (cr) California Cabernet Sauvignon", 
           "source": "180", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Ticklemore (cr) California Cabernet Sauvignon", 
           "id": "846", 
           "name": "Ticklemore (cr) California Cabernet Sauvignon"
@@ -22264,7 +22264,7 @@
           "selected": false, 
           "canonicalName": "Manchego (cr) Barbera d'Alba", 
           "source": "178", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Manchego (cr) Barbera d'Alba", 
           "id": "836", 
           "name": "Manchego (cr) Barbera d'Alba"
@@ -22279,7 +22279,7 @@
           "selected": false, 
           "canonicalName": "Manchego (cr) Beaujolais cru", 
           "source": "178", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Manchego (cr) Beaujolais cru", 
           "id": "835", 
           "name": "Manchego (cr) Beaujolais cru"
@@ -22294,7 +22294,7 @@
           "selected": false, 
           "canonicalName": "Manchego (cr) California Pinot Noir", 
           "source": "178", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Manchego (cr) California Pinot Noir", 
           "id": "834", 
           "name": "Manchego (cr) California Pinot Noir"
@@ -22339,7 +22339,7 @@
           "selected": false, 
           "canonicalName": "Roncal (cr) California Merlot", 
           "source": "176", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roncal (cr) California Merlot", 
           "id": "831", 
           "name": "Roncal (cr) California Merlot"
@@ -22354,7 +22354,7 @@
           "selected": false, 
           "canonicalName": "Roncal (cr) California Zinfandel", 
           "source": "176", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roncal (cr) California Zinfandel", 
           "id": "830", 
           "name": "Roncal (cr) California Zinfandel"
@@ -22369,7 +22369,7 @@
           "selected": false, 
           "canonicalName": "Roncal (cr) Chianti Classico", 
           "source": "176", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roncal (cr) Chianti Classico", 
           "id": "829", 
           "name": "Roncal (cr) Chianti Classico"
@@ -22384,7 +22384,7 @@
           "selected": false, 
           "canonicalName": "Roncal (cr) Rioja-style Tempranillo", 
           "source": "176", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Roncal (cr) Rioja-style Tempranillo", 
           "id": "828", 
           "name": "Roncal (cr) Rioja-style Tempranillo"
@@ -22475,7 +22475,7 @@
           "selected": false, 
           "canonicalName": "Maroilles (cr) California Zinfandel", 
           "source": "175", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Maroilles (cr) California Zinfandel", 
           "id": "822", 
           "name": "Maroilles (cr) California Zinfandel"
@@ -22490,7 +22490,7 @@
           "selected": false, 
           "canonicalName": "Maroilles (cr) Cotes-du-Rhone", 
           "source": "175", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Maroilles (cr) Cotes-du-Rhone", 
           "id": "821", 
           "name": "Maroilles (cr) Cotes-du-Rhone"
@@ -22505,7 +22505,7 @@
           "selected": false, 
           "canonicalName": "Maroilles (cr) Rioja-style Tempranillo", 
           "source": "175", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Maroilles (cr) Rioja-style Tempranillo", 
           "id": "820", 
           "name": "Maroilles (cr) Rioja-style Tempranillo"
@@ -22565,7 +22565,7 @@
           "selected": false, 
           "canonicalName": "Pave d'Auge (cr) Cahors", 
           "source": "174", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pave d'Auge (cr) Cahors", 
           "id": "816", 
           "name": "Pave d'Auge (cr) Cahors"
@@ -22581,7 +22581,7 @@
           "canonicalName": "Pave d'Auge (cr) California Cabernet Sauvignon", 
           "source": "174", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pave d'Auge (cr) California Cabernet Sauvignon", 
           "id": "815", 
           "name": "Pave d'Auge (cr) California Cabernet Sauvignon"
@@ -22596,7 +22596,7 @@
           "selected": false, 
           "canonicalName": "Pave d'Auge (cr) California Merlot", 
           "source": "174", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pave d'Auge (cr) California Merlot", 
           "id": "814", 
           "name": "Pave d'Auge (cr) California Merlot"
@@ -22611,7 +22611,7 @@
           "selected": false, 
           "canonicalName": "Pave d'Auge (cr) Chianti Classico", 
           "source": "174", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pave d'Auge (cr) Chianti Classico", 
           "id": "813", 
           "name": "Pave d'Auge (cr) Chianti Classico"
@@ -22716,7 +22716,7 @@
           "selected": false, 
           "canonicalName": "Matos St. George (cr) Cahors", 
           "source": "173", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Matos St. George (cr) Cahors", 
           "id": "806", 
           "name": "Matos St. George (cr) Cahors"
@@ -22731,7 +22731,7 @@
           "selected": false, 
           "canonicalName": "Matos St. George (cr) Chianti Classico", 
           "source": "173", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Matos St. George (cr) Chianti Classico", 
           "id": "805", 
           "name": "Matos St. George (cr) Chianti Classico"
@@ -22746,7 +22746,7 @@
           "selected": false, 
           "canonicalName": "Matos St. George (cr) Pinot Noir", 
           "source": "173", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Matos St. George (cr) Pinot Noir", 
           "id": "804", 
           "name": "Matos St. George (cr) Pinot Noir"
@@ -22883,7 +22883,7 @@
           "canonicalName": "Montasio (cr) Barbaresco", 
           "source": "170", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Montasio (cr) Barbaresco", 
           "id": "794", 
           "name": "Montasio (cr) Barbaresco"
@@ -22898,7 +22898,7 @@
           "selected": false, 
           "canonicalName": "Montasio (cr) California Merlot", 
           "source": "170", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Montasio (cr) California Merlot", 
           "id": "793", 
           "name": "Montasio (cr) California Merlot"
@@ -22913,7 +22913,7 @@
           "selected": false, 
           "canonicalName": "Montasio (cr) Carignan", 
           "source": "170", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Montasio (cr) Carignan", 
           "id": "792", 
           "name": "Montasio (cr) Carignan"
@@ -22928,7 +22928,7 @@
           "selected": false, 
           "canonicalName": "Montasio (cr) Red Bordeaux", 
           "source": "170", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Montasio (cr) Red Bordeaux", 
           "id": "791", 
           "name": "Montasio (cr) Red Bordeaux"
@@ -23004,7 +23004,7 @@
           "canonicalName": "Piave (cr) Amarone della Valpolicella", 
           "source": "168", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Piave (cr) Amarone della Valpolicella", 
           "id": "786", 
           "name": "Piave (cr) Amarone della Valpolicella"
@@ -23019,7 +23019,7 @@
           "selected": false, 
           "canonicalName": "Piave (cr) California Merlot", 
           "source": "168", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Piave (cr) California Merlot", 
           "id": "785", 
           "name": "Piave (cr) California Merlot"
@@ -23034,7 +23034,7 @@
           "selected": false, 
           "canonicalName": "Piave (cr) California Zinfandel", 
           "source": "168", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Piave (cr) California Zinfandel", 
           "id": "784", 
           "name": "Piave (cr) California Zinfandel"
@@ -23049,7 +23049,7 @@
           "selected": false, 
           "canonicalName": "Piave (cr) Madiran", 
           "source": "168", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Piave (cr) Madiran", 
           "id": "783", 
           "name": "Piave (cr) Madiran"
@@ -23064,7 +23064,7 @@
           "selected": false, 
           "canonicalName": "Piave (cr) Super Tuscan blend", 
           "source": "168", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Piave (cr) Super Tuscan blend", 
           "id": "782", 
           "name": "Piave (cr) Super Tuscan blend"
@@ -23139,7 +23139,7 @@
           "selected": false, 
           "canonicalName": "Monterey Dry Jack (cr) Amarone della Valpolicella", 
           "source": "165", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Monterey Dry Jack (cr) Amarone della Valpolicella", 
           "id": "777", 
           "name": "Monterey Dry Jack (cr) Amarone della Valpolicella"
@@ -23154,7 +23154,7 @@
           "selected": false, 
           "canonicalName": "Monterey Dry Jack (cr) California Merlot", 
           "source": "165", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Monterey Dry Jack (cr) California Merlot", 
           "id": "776", 
           "name": "Monterey Dry Jack (cr) California Merlot"
@@ -23169,7 +23169,7 @@
           "selected": false, 
           "canonicalName": "Monterey Dry Jack (cr) California Zinfandel", 
           "source": "165", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Monterey Dry Jack (cr) California Zinfandel", 
           "id": "775", 
           "name": "Monterey Dry Jack (cr) California Zinfandel"
@@ -23184,7 +23184,7 @@
           "selected": false, 
           "canonicalName": "Monterey Dry Jack (cr) Madiran", 
           "source": "165", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Monterey Dry Jack (cr) Madiran", 
           "id": "774", 
           "name": "Monterey Dry Jack (cr) Madiran"
@@ -23199,7 +23199,7 @@
           "selected": false, 
           "canonicalName": "Monterey Dry Jack (cr) Nebbiolo", 
           "source": "165", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Monterey Dry Jack (cr) Nebbiolo", 
           "id": "773", 
           "name": "Monterey Dry Jack (cr) Nebbiolo"
@@ -23214,7 +23214,7 @@
           "selected": false, 
           "canonicalName": "Monterey Dry Jack (cr) Super Tuscan blend", 
           "source": "165", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Monterey Dry Jack (cr) Super Tuscan blend", 
           "id": "772", 
           "name": "Monterey Dry Jack (cr) Super Tuscan blend"
@@ -23259,7 +23259,7 @@
           "selected": false, 
           "canonicalName": "Parmigiano-Reggiano (cr) Barbaresco", 
           "source": "164", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Parmigiano-Reggiano (cr) Barbaresco", 
           "id": "769", 
           "name": "Parmigiano-Reggiano (cr) Barbaresco"
@@ -23274,7 +23274,7 @@
           "selected": false, 
           "canonicalName": "Parmigiano-Reggiano (cr) Barolo", 
           "source": "164", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Parmigiano-Reggiano (cr) Barolo", 
           "id": "768", 
           "name": "Parmigiano-Reggiano (cr) Barolo"
@@ -23289,7 +23289,7 @@
           "selected": false, 
           "canonicalName": "Parmigiano-Reggiano (cr) California Merlot", 
           "source": "164", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Parmigiano-Reggiano (cr) California Merlot", 
           "id": "767", 
           "name": "Parmigiano-Reggiano (cr) California Merlot"
@@ -23364,7 +23364,7 @@
           "selected": false, 
           "canonicalName": "Morbier (cr) Priorat", 
           "source": "163", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Morbier (cr) Priorat", 
           "id": "762", 
           "name": "Morbier (cr) Priorat"
@@ -23379,7 +23379,7 @@
           "selected": false, 
           "canonicalName": "Morbier (cr) Red Burgundy", 
           "source": "163", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Morbier (cr) Red Burgundy", 
           "id": "761", 
           "name": "Morbier (cr) Red Burgundy"
@@ -23424,7 +23424,7 @@
           "selected": false, 
           "canonicalName": "Mothais-sur-Feuille (cr) Chianti Classico", 
           "source": "160", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Mothais-sur-Feuille (cr) Chianti Classico", 
           "id": "758", 
           "name": "Mothais-sur-Feuille (cr) Chianti Classico"
@@ -23439,7 +23439,7 @@
           "selected": false, 
           "canonicalName": "Mothais-sur-Feuille (cr) Syrah", 
           "source": "160", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Mothais-sur-Feuille (cr) Syrah", 
           "id": "757", 
           "name": "Mothais-sur-Feuille (cr) Syrah"
@@ -23529,7 +23529,7 @@
           "selected": false, 
           "canonicalName": "Nisa (cr) Australian Grenache-Mourvedre-Syrah blend", 
           "source": "158", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Nisa (cr) Australian Grenache-Mourvedre-Syrah blend", 
           "id": "751", 
           "name": "Nisa (cr) Australian Grenache-Mourvedre-Syrah blend"
@@ -23544,7 +23544,7 @@
           "selected": false, 
           "canonicalName": "Nisa (cr) Barbera d'Alba", 
           "source": "158", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Nisa (cr) Barbera d'Alba", 
           "id": "750", 
           "name": "Nisa (cr) Barbera d'Alba"
@@ -23559,7 +23559,7 @@
           "selected": false, 
           "canonicalName": "Nisa (cr) Beaujolais cru", 
           "source": "158", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Nisa (cr) Beaujolais cru", 
           "id": "749", 
           "name": "Nisa (cr) Beaujolais cru"
@@ -23574,7 +23574,7 @@
           "selected": false, 
           "canonicalName": "Nisa (cr) California Pinot Noir", 
           "source": "158", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Nisa (cr) California Pinot Noir", 
           "id": "748", 
           "name": "Nisa (cr) California Pinot Noir"
@@ -23589,7 +23589,7 @@
           "selected": false, 
           "canonicalName": "Nisa (cr) Dolcetto d'Alba", 
           "source": "158", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Nisa (cr) Dolcetto d'Alba", 
           "id": "747", 
           "name": "Nisa (cr) Dolcetto d'Alba"
@@ -23604,7 +23604,7 @@
           "selected": false, 
           "canonicalName": "Nisa (cr) Malbec", 
           "source": "158", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Nisa (cr) Malbec", 
           "id": "746", 
           "name": "Nisa (cr) Malbec"
@@ -23694,7 +23694,7 @@
           "selected": false, 
           "canonicalName": "Orb Weaver Vermont Farmhouse Cheese (cr) Barbera d'Alba", 
           "source": "153", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Orb Weaver Vermont Farmhouse Cheese (cr) Barbera d'Alba", 
           "id": "740", 
           "name": "Orb Weaver Vermont Farmhouse Cheese (cr) Barbera d'Alba"
@@ -23709,7 +23709,7 @@
           "selected": false, 
           "canonicalName": "Orb Weaver Vermont Farmhouse Cheese (cr) Beaujolais", 
           "source": "153", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Orb Weaver Vermont Farmhouse Cheese (cr) Beaujolais", 
           "id": "739", 
           "name": "Orb Weaver Vermont Farmhouse Cheese (cr) Beaujolais"
@@ -23724,7 +23724,7 @@
           "selected": false, 
           "canonicalName": "Orb Weaver Vermont Farmhouse Cheese (cr) Bourgueil", 
           "source": "153", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Orb Weaver Vermont Farmhouse Cheese (cr) Bourgueil", 
           "id": "738", 
           "name": "Orb Weaver Vermont Farmhouse Cheese (cr) Bourgueil"
@@ -23739,7 +23739,7 @@
           "selected": false, 
           "canonicalName": "Orb Weaver Vermont Farmhouse Cheese (cr) Syrah", 
           "source": "153", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Orb Weaver Vermont Farmhouse Cheese (cr) Syrah", 
           "id": "737", 
           "name": "Orb Weaver Vermont Farmhouse Cheese (cr) Syrah"
@@ -23814,7 +23814,7 @@
           "selected": false, 
           "canonicalName": "Pau (cr) Barbera d'Asti", 
           "source": "146", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pau (cr) Barbera d'Asti", 
           "id": "732", 
           "name": "Pau (cr) Barbera d'Asti"
@@ -23829,7 +23829,7 @@
           "selected": false, 
           "canonicalName": "Pau (cr) California Merlot", 
           "source": "146", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pau (cr) California Merlot", 
           "id": "731", 
           "name": "Pau (cr) California Merlot"
@@ -23844,7 +23844,7 @@
           "selected": false, 
           "canonicalName": "Pau (cr) California Zinfandel", 
           "source": "146", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pau (cr) California Zinfandel", 
           "id": "730", 
           "name": "Pau (cr) California Zinfandel"
@@ -23859,7 +23859,7 @@
           "selected": false, 
           "canonicalName": "Pau (cr) Super Tuscan blend", 
           "source": "146", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pau (cr) Super Tuscan blend", 
           "id": "729", 
           "name": "Pau (cr) Super Tuscan blend"
@@ -23919,7 +23919,7 @@
           "selected": false, 
           "canonicalName": "Pecorino Foglie Noce (cr) Periquita blend", 
           "source": "145", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pecorino Foglie Noce (cr) Periquita blend", 
           "id": "724", 
           "name": "Pecorino Foglie Noce (cr) Periquita blend"
@@ -23979,7 +23979,7 @@
           "selected": false, 
           "canonicalName": "Penamellera (cr) California Zinfandel", 
           "source": "144", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Penamellera (cr) California Zinfandel", 
           "id": "720", 
           "name": "Penamellera (cr) California Zinfandel"
@@ -23994,7 +23994,7 @@
           "selected": false, 
           "canonicalName": "Penamellera (cr) Chilean Cabernet Sauvignon", 
           "source": "144", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Penamellera (cr) Chilean Cabernet Sauvignon", 
           "id": "719", 
           "name": "Penamellera (cr) Chilean Cabernet Sauvignon"
@@ -24009,7 +24009,7 @@
           "selected": false, 
           "canonicalName": "Penamellera (cr) Syrah", 
           "source": "144", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Penamellera (cr) Syrah", 
           "id": "718", 
           "name": "Penamellera (cr) Syrah"
@@ -24024,7 +24024,7 @@
           "selected": false, 
           "canonicalName": "Penamellera (cr) Tempranillo-Garnacha Blend", 
           "source": "144", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Penamellera (cr) Tempranillo-Garnacha Blend", 
           "id": "717", 
           "name": "Penamellera (cr) Tempranillo-Garnacha Blend"
@@ -24130,7 +24130,7 @@
           "canonicalName": "Perail (cr) Beaujolais cru", 
           "source": "140", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Perail (cr) Beaujolais cru", 
           "id": "710", 
           "name": "Perail (cr) Beaujolais cru"
@@ -24146,7 +24146,7 @@
           "canonicalName": "Perail (cr) Cabernet Sauvignon", 
           "source": "140", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Perail (cr) Cabernet Sauvignon", 
           "id": "709", 
           "name": "Perail (cr) Cabernet Sauvignon"
@@ -24161,7 +24161,7 @@
           "selected": false, 
           "canonicalName": "Perail (cr) Carignan", 
           "source": "140", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Perail (cr) Carignan", 
           "id": "708", 
           "name": "Perail (cr) Carignan"
@@ -24176,7 +24176,7 @@
           "selected": false, 
           "canonicalName": "Perail (cr) Chilean Carmenere-Merlot blend", 
           "source": "140", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Perail (cr) Chilean Carmenere-Merlot blend", 
           "id": "707", 
           "name": "Perail (cr) Chilean Carmenere-Merlot blend"
@@ -24192,7 +24192,7 @@
           "canonicalName": "Perail (cr) Syrah", 
           "source": "140", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Perail (cr) Syrah", 
           "id": "706", 
           "name": "Perail (cr) Syrah"
@@ -24252,7 +24252,7 @@
           "selected": false, 
           "canonicalName": "Saint-Marcellin (cr) Bandol", 
           "source": "137", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Marcellin (cr) Bandol", 
           "id": "702", 
           "name": "Saint-Marcellin (cr) Bandol"
@@ -24267,7 +24267,7 @@
           "selected": false, 
           "canonicalName": "Saint-Marcellin (cr) Minervois", 
           "source": "137", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Marcellin (cr) Minervois", 
           "id": "701", 
           "name": "Saint-Marcellin (cr) Minervois"
@@ -24282,7 +24282,7 @@
           "selected": false, 
           "canonicalName": "Saint-Marcellin (cr) Red Burgundy", 
           "source": "137", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Marcellin (cr) Red Burgundy", 
           "id": "700", 
           "name": "Saint-Marcellin (cr) Red Burgundy"
@@ -24297,7 +24297,7 @@
           "selected": false, 
           "canonicalName": "Saint-Marcellin (cr) Syrah", 
           "source": "137", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Marcellin (cr) Syrah", 
           "id": "699", 
           "name": "Saint-Marcellin (cr) Syrah"
@@ -24402,7 +24402,7 @@
           "selected": false, 
           "canonicalName": "Pleasant Ridge Reserve (cr) Beaujolais cru", 
           "source": "132", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pleasant Ridge Reserve (cr) Beaujolais cru", 
           "id": "692", 
           "name": "Pleasant Ridge Reserve (cr) Beaujolais cru"
@@ -24417,7 +24417,7 @@
           "selected": false, 
           "canonicalName": "Pleasant Ridge Reserve (cr) California Merlot", 
           "source": "132", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Pleasant Ridge Reserve (cr) California Merlot", 
           "id": "691", 
           "name": "Pleasant Ridge Reserve (cr) California Merlot"
@@ -24629,7 +24629,7 @@
           "selected": false, 
           "canonicalName": "Queijo Amarelo da Beira Baixa (cr) California Pinot Noir", 
           "source": "129", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queijo Amarelo da Beira Baixa (cr) California Pinot Noir", 
           "id": "677", 
           "name": "Queijo Amarelo da Beira Baixa (cr) California Pinot Noir"
@@ -24644,7 +24644,7 @@
           "selected": false, 
           "canonicalName": "Queijo Amarelo da Beira Baixa (cr) Malbec", 
           "source": "129", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queijo Amarelo da Beira Baixa (cr) Malbec", 
           "id": "676", 
           "name": "Queijo Amarelo da Beira Baixa (cr) Malbec"
@@ -24659,7 +24659,7 @@
           "selected": false, 
           "canonicalName": "Queijo Amarelo da Beira Baixa (cr) Periquita blend", 
           "source": "129", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queijo Amarelo da Beira Baixa (cr) Periquita blend", 
           "id": "675", 
           "name": "Queijo Amarelo da Beira Baixa (cr) Periquita blend"
@@ -24674,7 +24674,7 @@
           "selected": false, 
           "canonicalName": "Queijo Amarelo da Beira Baixa (cr) Provencal Mourvedre-Cinsault-Grenache blend", 
           "source": "129", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queijo Amarelo da Beira Baixa (cr) Provencal Mourvedre-Cinsault-Grenache blend", 
           "id": "674", 
           "name": "Queijo Amarelo da Beira Baixa (cr) Provencal Mourvedre-Cinsault-Grenache blend"
@@ -24689,7 +24689,7 @@
           "selected": false, 
           "canonicalName": "Queijo Amarelo da Beira Baixa (cr) Red Burgundy", 
           "source": "129", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queijo Amarelo da Beira Baixa (cr) Red Burgundy", 
           "id": "673", 
           "name": "Queijo Amarelo da Beira Baixa (cr) Red Burgundy"
@@ -24734,7 +24734,7 @@
           "selected": false, 
           "canonicalName": "Queijo Terrincho Velho (cr) Beaujolais", 
           "source": "127", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queijo Terrincho Velho (cr) Beaujolais", 
           "id": "670", 
           "name": "Queijo Terrincho Velho (cr) Beaujolais"
@@ -24749,7 +24749,7 @@
           "selected": false, 
           "canonicalName": "Queijo Terrincho Velho (cr) California Cabernet Sauvignon", 
           "source": "127", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queijo Terrincho Velho (cr) California Cabernet Sauvignon", 
           "id": "669", 
           "name": "Queijo Terrincho Velho (cr) California Cabernet Sauvignon"
@@ -24794,7 +24794,7 @@
           "selected": false, 
           "canonicalName": "Queso de la Peral (cr) California Cabernet Sauvignon", 
           "source": "125", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de la Peral (cr) California Cabernet Sauvignon", 
           "id": "666", 
           "name": "Queso de la Peral (cr) California Cabernet Sauvignon"
@@ -24809,7 +24809,7 @@
           "selected": false, 
           "canonicalName": "Queso de la Peral (cr) Madiran", 
           "source": "125", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de la Peral (cr) Madiran", 
           "id": "665", 
           "name": "Queso de la Peral (cr) Madiran"
@@ -24824,7 +24824,7 @@
           "selected": false, 
           "canonicalName": "Queso de la Peral (cr) Ribera del Duero", 
           "source": "125", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Queso de la Peral (cr) Ribera del Duero", 
           "id": "664", 
           "name": "Queso de la Peral (cr) Ribera del Duero"
@@ -24899,7 +24899,7 @@
           "selected": false, 
           "canonicalName": "Red Hawk (cr) Aglianico del Vulture", 
           "source": "123", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Red Hawk (cr) Aglianico del Vulture", 
           "id": "659", 
           "name": "Red Hawk (cr) Aglianico del Vulture"
@@ -24914,7 +24914,7 @@
           "selected": false, 
           "canonicalName": "Red Hawk (cr) Barbera d'Asti", 
           "source": "123", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Red Hawk (cr) Barbera d'Asti", 
           "id": "658", 
           "name": "Red Hawk (cr) Barbera d'Asti"
@@ -24929,7 +24929,7 @@
           "selected": false, 
           "canonicalName": "Red Hawk (cr) Madiran", 
           "source": "123", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Red Hawk (cr) Madiran", 
           "id": "657", 
           "name": "Red Hawk (cr) Madiran"
@@ -24945,7 +24945,7 @@
           "canonicalName": "Red Hawk (cr) Syrah", 
           "source": "123", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Red Hawk (cr) Syrah", 
           "id": "656", 
           "name": "Red Hawk (cr) Syrah"
@@ -25215,7 +25215,7 @@
           "selected": false, 
           "canonicalName": "Robiola a Due Latti (cr) Bandol", 
           "source": "118", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola a Due Latti (cr) Bandol", 
           "id": "638", 
           "name": "Robiola a Due Latti (cr) Bandol"
@@ -25230,7 +25230,7 @@
           "selected": false, 
           "canonicalName": "Robiola a Due Latti (cr) California Merlot", 
           "source": "118", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola a Due Latti (cr) California Merlot", 
           "id": "637", 
           "name": "Robiola a Due Latti (cr) California Merlot"
@@ -25245,7 +25245,7 @@
           "selected": false, 
           "canonicalName": "Robiola a Due Latti (cr) Red Bordeaux", 
           "source": "118", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola a Due Latti (cr) Red Bordeaux", 
           "id": "636", 
           "name": "Robiola a Due Latti (cr) Red Bordeaux"
@@ -25260,7 +25260,7 @@
           "selected": false, 
           "canonicalName": "Robiola a Due Latti (cr) Rioja-style Tempranillo", 
           "source": "118", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola a Due Latti (cr) Rioja-style Tempranillo", 
           "id": "635", 
           "name": "Robiola a Due Latti (cr) Rioja-style Tempranillo"
@@ -25306,7 +25306,7 @@
           "canonicalName": "Robiola a Tre Latti (cr) Amarone della Valpolicella", 
           "source": "117", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola a Tre Latti (cr) Amarone della Valpolicella", 
           "id": "632", 
           "name": "Robiola a Tre Latti (cr) Amarone della Valpolicella"
@@ -25322,7 +25322,7 @@
           "canonicalName": "Robiola a Tre Latti (cr) Periquita blend", 
           "source": "117", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola a Tre Latti (cr) Periquita blend", 
           "id": "631", 
           "name": "Robiola a Tre Latti (cr) Periquita blend"
@@ -25352,7 +25352,7 @@
           "selected": false, 
           "canonicalName": "Robiola Castagna (cr) Barbera d'Asti", 
           "source": "116", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola Castagna (cr) Barbera d'Asti", 
           "id": "629", 
           "name": "Robiola Castagna (cr) Barbera d'Asti"
@@ -25367,7 +25367,7 @@
           "selected": false, 
           "canonicalName": "Robiola Castagna (cr) California Pinot Noir", 
           "source": "116", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola Castagna (cr) California Pinot Noir", 
           "id": "628", 
           "name": "Robiola Castagna (cr) California Pinot Noir"
@@ -25382,7 +25382,7 @@
           "selected": false, 
           "canonicalName": "Robiola Castagna (cr) Periquita blend", 
           "source": "116", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola Castagna (cr) Periquita blend", 
           "id": "627", 
           "name": "Robiola Castagna (cr) Periquita blend"
@@ -25457,7 +25457,7 @@
           "selected": false, 
           "canonicalName": "Robiola Fia (cr) Chianti Classico", 
           "source": "114", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola Fia (cr) Chianti Classico", 
           "id": "621", 
           "name": "Robiola Fia (cr) Chianti Classico"
@@ -25472,7 +25472,7 @@
           "selected": false, 
           "canonicalName": "Robiola Fia (cr) Sancerre Rouge", 
           "source": "114", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola Fia (cr) Sancerre Rouge", 
           "id": "620", 
           "name": "Robiola Fia (cr) Sancerre Rouge"
@@ -25532,7 +25532,7 @@
           "selected": false, 
           "canonicalName": "Robiola Pineta (cr) Amarone della Valpolicella", 
           "source": "112", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola Pineta (cr) Amarone della Valpolicella", 
           "id": "616", 
           "name": "Robiola Pineta (cr) Amarone della Valpolicella"
@@ -25547,7 +25547,7 @@
           "selected": false, 
           "canonicalName": "Robiola Pineta (cr) California Merlot", 
           "source": "112", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola Pineta (cr) California Merlot", 
           "id": "614", 
           "name": "Robiola Pineta (cr) California Merlot"
@@ -25562,7 +25562,7 @@
           "selected": false, 
           "canonicalName": "Robiola Pineta (cr) Chianti Classico", 
           "source": "112", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Robiola Pineta (cr) Chianti Classico", 
           "id": "613", 
           "name": "Robiola Pineta (cr) Chianti Classico"
@@ -25622,7 +25622,7 @@
           "selected": false, 
           "canonicalName": "Rogue River Blue (cr) Beaujolais", 
           "source": "109", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Rogue River Blue (cr) Beaujolais", 
           "id": "609", 
           "name": "Rogue River Blue (cr) Beaujolais"
@@ -25637,7 +25637,7 @@
           "selected": false, 
           "canonicalName": "Rogue River Blue (cr) California Cabernet Sauvignon", 
           "source": "109", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Rogue River Blue (cr) California Cabernet Sauvignon", 
           "id": "608", 
           "name": "Rogue River Blue (cr) California Cabernet Sauvignon"
@@ -25652,7 +25652,7 @@
           "selected": false, 
           "canonicalName": "Rogue River Blue (cr) California Zinfandel", 
           "source": "109", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Rogue River Blue (cr) California Zinfandel", 
           "id": "607", 
           "name": "Rogue River Blue (cr) California Zinfandel"
@@ -25682,7 +25682,7 @@
           "selected": false, 
           "canonicalName": "Saint-Felicien (cr) Amarone della Valpolicella", 
           "source": "105", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Felicien (cr) Amarone della Valpolicella", 
           "id": "605", 
           "name": "Saint-Felicien (cr) Amarone della Valpolicella"
@@ -25697,7 +25697,7 @@
           "selected": false, 
           "canonicalName": "Saint-Felicien (cr) California Merlot", 
           "source": "105", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Felicien (cr) California Merlot", 
           "id": "604", 
           "name": "Saint-Felicien (cr) California Merlot"
@@ -25712,7 +25712,7 @@
           "selected": false, 
           "canonicalName": "Saint-Felicien (cr) Chilean Cabernet Sauvignon", 
           "source": "105", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Felicien (cr) Chilean Cabernet Sauvignon", 
           "id": "603", 
           "name": "Saint-Felicien (cr) Chilean Cabernet Sauvignon"
@@ -25727,7 +25727,7 @@
           "selected": false, 
           "canonicalName": "Saint-Felicien (cr) Red Burgundy", 
           "source": "105", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Felicien (cr) Red Burgundy", 
           "id": "602", 
           "name": "Saint-Felicien (cr) Red Burgundy"
@@ -25834,7 +25834,7 @@
           "selected": false, 
           "canonicalName": "Saint-Nectaire (cr) Beaujolais cru", 
           "source": "104", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Nectaire (cr) Beaujolais cru", 
           "id": "595", 
           "name": "Saint-Nectaire (cr) Beaujolais cru"
@@ -25849,7 +25849,7 @@
           "selected": false, 
           "canonicalName": "Saint-Nectaire (cr) California Pinot Noir", 
           "source": "104", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Nectaire (cr) California Pinot Noir", 
           "id": "594", 
           "name": "Saint-Nectaire (cr) California Pinot Noir"
@@ -25864,7 +25864,7 @@
           "selected": false, 
           "canonicalName": "Saint-Nectaire (cr) Red Burgundy", 
           "source": "104", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Saint-Nectaire (cr) Red Burgundy", 
           "id": "593", 
           "name": "Saint-Nectaire (cr) Red Burgundy"
@@ -25924,7 +25924,7 @@
           "selected": false, 
           "canonicalName": "Sbrinz (cr) Barbaresco", 
           "source": "103", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Sbrinz (cr) Barbaresco", 
           "id": "589", 
           "name": "Sbrinz (cr) Barbaresco"
@@ -25940,7 +25940,7 @@
           "canonicalName": "Sbrinz (cr) Barbera d'Alba", 
           "source": "103", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Sbrinz (cr) Barbera d'Alba", 
           "id": "588", 
           "name": "Sbrinz (cr) Barbera d'Alba"
@@ -25955,7 +25955,7 @@
           "selected": false, 
           "canonicalName": "Sbrinz (cr) Barolo", 
           "source": "103", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Sbrinz (cr) Barolo", 
           "id": "587", 
           "name": "Sbrinz (cr) Barolo"
@@ -25970,7 +25970,7 @@
           "selected": false, 
           "canonicalName": "Sbrinz (cr) Cabernet Sauvignon", 
           "source": "103", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Sbrinz (cr) Cabernet Sauvignon", 
           "id": "586", 
           "name": "Sbrinz (cr) Cabernet Sauvignon"
@@ -26060,7 +26060,7 @@
           "selected": false, 
           "canonicalName": "Shropshire Blue (cr) California Cabernet Sauvignon", 
           "source": "102", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Shropshire Blue (cr) California Cabernet Sauvignon", 
           "id": "580", 
           "name": "Shropshire Blue (cr) California Cabernet Sauvignon"
@@ -26135,7 +26135,7 @@
           "selected": false, 
           "canonicalName": "Stanser Chua Flada (cr) California Zinfandel", 
           "source": "100", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Stanser Chua Flada (cr) California Zinfandel", 
           "id": "575", 
           "name": "Stanser Chua Flada (cr) California Zinfandel"
@@ -26150,7 +26150,7 @@
           "selected": false, 
           "canonicalName": "Stanser Chua Flada (cr) Priorat", 
           "source": "100", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Stanser Chua Flada (cr) Priorat", 
           "id": "574", 
           "name": "Stanser Chua Flada (cr) Priorat"
@@ -26330,7 +26330,7 @@
           "selected": false, 
           "canonicalName": "Stanser Roteli (cr) Amarone della Valpolicella", 
           "source": "99", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Stanser Roteli (cr) Amarone della Valpolicella", 
           "id": "562", 
           "name": "Stanser Roteli (cr) Amarone della Valpolicella"
@@ -26345,7 +26345,7 @@
           "selected": false, 
           "canonicalName": "Stanser Roteli (cr) Barbaresco", 
           "source": "99", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Stanser Roteli (cr) Barbaresco", 
           "id": "561", 
           "name": "Stanser Roteli (cr) Barbaresco"
@@ -26360,7 +26360,7 @@
           "selected": false, 
           "canonicalName": "Stanser Roteli (cr) California Merlot", 
           "source": "99", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Stanser Roteli (cr) California Merlot", 
           "id": "560", 
           "name": "Stanser Roteli (cr) California Merlot"
@@ -26541,7 +26541,7 @@
           "selected": false, 
           "canonicalName": "Tarentaise (cr) Aglianico del Vulture", 
           "source": "95", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tarentaise (cr) Aglianico del Vulture", 
           "id": "548", 
           "name": "Tarentaise (cr) Aglianico del Vulture"
@@ -26556,7 +26556,7 @@
           "selected": false, 
           "canonicalName": "Tarentaise (cr) Australian Shiraz", 
           "source": "95", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tarentaise (cr) Australian Shiraz", 
           "id": "547", 
           "name": "Tarentaise (cr) Australian Shiraz"
@@ -26571,7 +26571,7 @@
           "selected": false, 
           "canonicalName": "Tarentaise (cr) California Merlot", 
           "source": "95", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tarentaise (cr) California Merlot", 
           "id": "546", 
           "name": "Tarentaise (cr) California Merlot"
@@ -26586,7 +26586,7 @@
           "selected": false, 
           "canonicalName": "Tarentaise (cr) Madiran", 
           "source": "95", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tarentaise (cr) Madiran", 
           "id": "545", 
           "name": "Tarentaise (cr) Madiran"
@@ -26601,7 +26601,7 @@
           "selected": false, 
           "canonicalName": "Tarentaise (cr) Periquita blend", 
           "source": "95", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tarentaise (cr) Periquita blend", 
           "id": "544", 
           "name": "Tarentaise (cr) Periquita blend"
@@ -26616,7 +26616,7 @@
           "selected": false, 
           "canonicalName": "Tarentaise (cr) Pinot Noir", 
           "source": "95", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tarentaise (cr) Pinot Noir", 
           "id": "543", 
           "name": "Tarentaise (cr) Pinot Noir"
@@ -26631,7 +26631,7 @@
           "selected": false, 
           "canonicalName": "Tarentaise (cr) Super Tuscan blend", 
           "source": "95", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tarentaise (cr) Super Tuscan blend", 
           "id": "542", 
           "name": "Tarentaise (cr) Super Tuscan blend"
@@ -26646,7 +26646,7 @@
           "selected": false, 
           "canonicalName": "Tarentaise (cr) Syrah", 
           "source": "95", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tarentaise (cr) Syrah", 
           "id": "541", 
           "name": "Tarentaise (cr) Syrah"
@@ -26691,7 +26691,7 @@
           "selected": false, 
           "canonicalName": "Taupiniere (cr) Periquita blend", 
           "source": "94", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Taupiniere (cr) Periquita blend", 
           "id": "538", 
           "name": "Taupiniere (cr) Periquita blend"
@@ -26706,7 +26706,7 @@
           "selected": false, 
           "canonicalName": "Taupiniere (cr) Red Burgundy", 
           "source": "94", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Taupiniere (cr) Red Burgundy", 
           "id": "537", 
           "name": "Taupiniere (cr) Red Burgundy"
@@ -26902,7 +26902,7 @@
           "selected": false, 
           "canonicalName": "Tetoun de Santa Agata (cr) Barbera d'Asti", 
           "source": "92", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tetoun de Santa Agata (cr) Barbera d'Asti", 
           "id": "524", 
           "name": "Tetoun de Santa Agata (cr) Barbera d'Asti"
@@ -26962,7 +26962,7 @@
           "selected": false, 
           "canonicalName": "Truffe de Valensole (cr) Beaujolais", 
           "source": "90", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Truffe de Valensole (cr) Beaujolais", 
           "id": "520", 
           "name": "Truffe de Valensole (cr) Beaujolais"
@@ -26977,7 +26977,7 @@
           "selected": false, 
           "canonicalName": "Truffe de Valensole (cr) Periquita blend", 
           "source": "90", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Truffe de Valensole (cr) Periquita blend", 
           "id": "519", 
           "name": "Truffe de Valensole (cr) Periquita blend"
@@ -27022,7 +27022,7 @@
           "selected": false, 
           "canonicalName": "Thomasville Tomme (cr) Red Bordeaux", 
           "source": "89", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Thomasville Tomme (cr) Red Bordeaux", 
           "id": "516", 
           "name": "Thomasville Tomme (cr) Red Bordeaux"
@@ -27037,7 +27037,7 @@
           "selected": false, 
           "canonicalName": "Thomasville Tomme (cr) Red Burgundy", 
           "source": "89", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Thomasville Tomme (cr) Red Burgundy", 
           "id": "515", 
           "name": "Thomasville Tomme (cr) Red Burgundy"
@@ -27082,7 +27082,7 @@
           "selected": false, 
           "canonicalName": "Wildmannli (cr) Beaujolais cru", 
           "source": "87", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Wildmannli (cr) Beaujolais cru", 
           "id": "512", 
           "name": "Wildmannli (cr) Beaujolais cru"
@@ -27097,7 +27097,7 @@
           "selected": false, 
           "canonicalName": "Wildmannli (cr) California Pinot Noir", 
           "source": "87", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Wildmannli (cr) California Pinot Noir", 
           "id": "511", 
           "name": "Wildmannli (cr) California Pinot Noir"
@@ -27112,7 +27112,7 @@
           "selected": false, 
           "canonicalName": "Wildmannli (cr) Madiran", 
           "source": "87", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Wildmannli (cr) Madiran", 
           "id": "510", 
           "name": "Wildmannli (cr) Madiran"
@@ -27127,7 +27127,7 @@
           "selected": false, 
           "canonicalName": "Wildmannli (cr) Rioja-style Tempranillo", 
           "source": "87", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Wildmannli (cr) Rioja-style Tempranillo", 
           "id": "509", 
           "name": "Wildmannli (cr) Rioja-style Tempranillo"
@@ -27413,7 +27413,7 @@
           "selected": false, 
           "canonicalName": "Triple Creme (cr) Beaujolais cru", 
           "source": "86", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Triple Creme (cr) Beaujolais cru", 
           "id": "490", 
           "name": "Triple Creme (cr) Beaujolais cru"
@@ -27429,7 +27429,7 @@
           "canonicalName": "Triple Creme (cr) Red Bordeaux", 
           "source": "86", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Triple Creme (cr) Red Bordeaux", 
           "id": "489", 
           "name": "Triple Creme (cr) Red Bordeaux"
@@ -27594,7 +27594,7 @@
           "selected": false, 
           "canonicalName": "Tumalo Tomme (cr) Beaujolais", 
           "source": "75", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tumalo Tomme (cr) Beaujolais", 
           "id": "478", 
           "name": "Tumalo Tomme (cr) Beaujolais"
@@ -27609,7 +27609,7 @@
           "selected": false, 
           "canonicalName": "Tumalo Tomme (cr) California Merlot", 
           "source": "75", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tumalo Tomme (cr) California Merlot", 
           "id": "477", 
           "name": "Tumalo Tomme (cr) California Merlot"
@@ -27624,7 +27624,7 @@
           "selected": false, 
           "canonicalName": "Tumalo Tomme (cr) California Zinfandel", 
           "source": "75", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Tumalo Tomme (cr) California Zinfandel", 
           "id": "476", 
           "name": "Tumalo Tomme (cr) California Zinfandel"
@@ -27715,7 +27715,7 @@
           "selected": false, 
           "canonicalName": "Urner Alpkase (cr) Chianti Classico", 
           "source": "72", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Urner Alpkase (cr) Chianti Classico", 
           "id": "470", 
           "name": "Urner Alpkase (cr) Chianti Classico"
@@ -27730,7 +27730,7 @@
           "selected": false, 
           "canonicalName": "Urner Alpkase (cr) Red Burgundy", 
           "source": "72", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Urner Alpkase (cr) Red Burgundy", 
           "id": "469", 
           "name": "Urner Alpkase (cr) Red Burgundy"
@@ -27835,7 +27835,7 @@
           "selected": false, 
           "canonicalName": "Vacherin du Haut-Doubs (cr) California Merlot", 
           "source": "70", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin du Haut-Doubs (cr) California Merlot", 
           "id": "462", 
           "name": "Vacherin du Haut-Doubs (cr) California Merlot"
@@ -27850,7 +27850,7 @@
           "selected": false, 
           "canonicalName": "Vacherin du Haut-Doubs (cr) Chianti Classico", 
           "source": "70", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin du Haut-Doubs (cr) Chianti Classico", 
           "id": "461", 
           "name": "Vacherin du Haut-Doubs (cr) Chianti Classico"
@@ -27865,7 +27865,7 @@
           "selected": false, 
           "canonicalName": "Vacherin du Haut-Doubs (cr) Red Bordeaux", 
           "source": "70", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin du Haut-Doubs (cr) Red Bordeaux", 
           "id": "460", 
           "name": "Vacherin du Haut-Doubs (cr) Red Bordeaux"
@@ -27880,7 +27880,7 @@
           "selected": false, 
           "canonicalName": "Vacherin du Haut-Doubs (cr) Super Tuscan blend", 
           "source": "70", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin du Haut-Doubs (cr) Super Tuscan blend", 
           "id": "459", 
           "name": "Vacherin du Haut-Doubs (cr) Super Tuscan blend"
@@ -27896,7 +27896,7 @@
           "canonicalName": "Vacherin du Haut-Doubs (cr) Syrah", 
           "source": "70", 
           "Special_Pairing": "1.0", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Vacherin du Haut-Doubs (cr) Syrah", 
           "id": "458", 
           "name": "Vacherin du Haut-Doubs (cr) Syrah"
@@ -27986,7 +27986,7 @@
           "selected": false, 
           "canonicalName": "Val Bagner (cr) Bandol", 
           "source": "67", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Val Bagner (cr) Bandol", 
           "id": "452", 
           "name": "Val Bagner (cr) Bandol"
@@ -28001,7 +28001,7 @@
           "selected": false, 
           "canonicalName": "Val Bagner (cr) Barbaresco", 
           "source": "67", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Val Bagner (cr) Barbaresco", 
           "id": "451", 
           "name": "Val Bagner (cr) Barbaresco"
@@ -28016,7 +28016,7 @@
           "selected": false, 
           "canonicalName": "Val Bagner (cr) Red Burgundy", 
           "source": "67", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Val Bagner (cr) Red Burgundy", 
           "id": "450", 
           "name": "Val Bagner (cr) Red Burgundy"
@@ -28092,7 +28092,7 @@
           "selected": false, 
           "canonicalName": "Wensleydale (cr) Pinot Noir", 
           "source": "63", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Wensleydale (cr) Pinot Noir", 
           "id": "445", 
           "name": "Wensleydale (cr) Pinot Noir"
@@ -28107,7 +28107,7 @@
           "selected": false, 
           "canonicalName": "Wensleydale (cr) Syrah", 
           "source": "63", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Wensleydale (cr) Syrah", 
           "id": "444", 
           "name": "Wensleydale (cr) Syrah"
@@ -28257,7 +28257,7 @@
           "selected": false, 
           "canonicalName": "Winchester Aged Gouda (cr) Amarone della Valpolicella", 
           "source": "62", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Winchester Aged Gouda (cr) Amarone della Valpolicella", 
           "id": "434", 
           "name": "Winchester Aged Gouda (cr) Amarone della Valpolicella"
@@ -28272,7 +28272,7 @@
           "selected": false, 
           "canonicalName": "Winchester Aged Gouda (cr) Australian Shiraz", 
           "source": "62", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Winchester Aged Gouda (cr) Australian Shiraz", 
           "id": "433", 
           "name": "Winchester Aged Gouda (cr) Australian Shiraz"
@@ -28287,7 +28287,7 @@
           "selected": false, 
           "canonicalName": "Winchester Aged Gouda (cr) California Zinfandel", 
           "source": "62", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Winchester Aged Gouda (cr) California Zinfandel", 
           "id": "432", 
           "name": "Winchester Aged Gouda (cr) California Zinfandel"
@@ -28302,7 +28302,7 @@
           "selected": false, 
           "canonicalName": "Winchester Aged Gouda (cr) Syrah", 
           "source": "62", 
-          "shared_interaction": "cr", 
+          "shared_interaction": "cw", 
           "shared_name": "Winchester Aged Gouda (cr) Syrah", 
           "id": "431", 
           "name": "Winchester Aged Gouda (cr) Syrah"
