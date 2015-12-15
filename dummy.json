@@ -15,12 +15,13 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Aarauer Bierdeckel", 
-          "id": "BE0000048", 
+          "id": "430", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Aarauer Bierdeckel"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0000048", 
           "shared_name": "Aarauer Bierdeckel", 
           "Quality": 90, 
           "Milk": "Raw cow's milk"
@@ -41,8 +42,9 @@
           "cytoscape_alias_list": [
             "Bergues"
           ], 
+          "drugbank-id": "BE0000767", 
           "shared_name": "Bergues", 
-          "id": "BE0000767"
+          "id": "429"
         }
       }, 
       {
@@ -60,8 +62,9 @@
           "cytoscape_alias_list": [
             "Chimay"
           ], 
+          "drugbank-id": "BE0000901", 
           "shared_name": "Chimay", 
-          "id": "BE0000901"
+          "id": "428"
         }
       }, 
       {
@@ -79,8 +82,9 @@
           "cytoscape_alias_list": [
             "Fiumorbu"
           ], 
+          "drugbank-id": "BE0002093", 
           "shared_name": "Fiumorbu", 
-          "id": "BE0002093"
+          "id": "427"
         }
       }, 
       {
@@ -177,11 +181,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Abbaye de Belloc", 
-          "id": "BE0002094", 
+          "id": "422", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Abbaye de Belloc"
           ], 
+          "drugbank-id": "BE0002094", 
           "shared_name": "Abbaye de Belloc", 
           "Quality": 79, 
           "Milk": "Pasteurized sheep's milk"
@@ -201,11 +206,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Berkswell", 
-          "id": "BE0002095", 
+          "id": "421", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Berkswell"
           ], 
+          "drugbank-id": "BE0002095", 
           "shared_name": "Berkswell", 
           "Quality": 94, 
           "Milk": "Raw sheep's milk"
@@ -226,8 +232,9 @@
           "cytoscape_alias_list": [
             "Le Moulis"
           ], 
+          "drugbank-id": "BE0002096", 
           "shared_name": "Le Moulis", 
-          "id": "BE0002096"
+          "id": "420"
         }
       }, 
       {
@@ -244,11 +251,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Spenwood", 
-          "id": "BE0002097", 
+          "id": "419", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Spenwood"
           ], 
+          "drugbank-id": "BE0002097", 
           "shared_name": "Spenwood", 
           "Quality": 99, 
           "Milk": "Raw sheep's milk"
@@ -268,11 +276,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Vermont Shepherd", 
-          "id": "BE0001529", 
+          "id": "418", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Vermont Shepherd"
           ], 
+          "drugbank-id": "BE0001529", 
           "shared_name": "Vermont Shepherd", 
           "Quality": 98, 
           "Milk": "Raw ewe's milk"
@@ -292,11 +301,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Zamorano", 
-          "id": "BE0000710", 
+          "id": "417", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Zamorano"
           ], 
+          "drugbank-id": "BE0000710", 
           "shared_name": "Zamorano", 
           "Quality": 90, 
           "Milk": "Raw sheep's milk"
@@ -442,11 +452,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Abondance", 
-          "id": "BE0002098", 
+          "id": "410", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Abondance"
           ], 
+          "drugbank-id": "BE0002098", 
           "shared_name": "Abondance", 
           "Quality": 90, 
           "Milk": "Raw cow's milk"
@@ -466,11 +477,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Beaufort", 
-          "id": "BE0002099", 
+          "id": "409", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Beaufort"
           ], 
+          "drugbank-id": "BE0002099", 
           "shared_name": "Beaufort", 
           "Quality": 93, 
           "Milk": "Raw cow's milk"
@@ -491,8 +503,9 @@
           "cytoscape_alias_list": [
             "Comte"
           ], 
+          "drugbank-id": "BE0002100", 
           "shared_name": "Comte", 
-          "id": "BE0002100"
+          "id": "408"
         }
       }, 
       {
@@ -509,11 +522,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Vacherin Fribourgeois", 
-          "id": "BE0004796", 
+          "id": "407", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Vacherin Fribourgeois"
           ], 
+          "drugbank-id": "BE0004796", 
           "shared_name": "Vacherin Fribourgeois", 
           "Quality": 95, 
           "Milk": "Cow's milk"
@@ -625,11 +639,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Afuega'l Pitu", 
-          "id": "BE0000658", 
+          "id": "402", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Afuega'l Pitu"
           ], 
+          "drugbank-id": "BE0000658", 
           "shared_name": "Afuega'l Pitu", 
           "Quality": 79, 
           "Milk": "Raw cow's milk"
@@ -649,11 +664,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Queso de los Beyos", 
-          "id": "BE0000651", 
+          "id": "401", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Queso de los Beyos"
           ], 
+          "drugbank-id": "BE0000651", 
           "shared_name": "Queso de los Beyos", 
           "Quality": 84, 
           "Milk": "Pasteurized cow's milk"
@@ -826,11 +842,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Aisy Cendre", 
-          "id": "BE0002102", 
+          "id": "393", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Aisy Cendre"
           ], 
+          "drugbank-id": "BE0002102", 
           "shared_name": "Aisy Cendre", 
           "Quality": 78, 
           "Milk": "Cow's milk"
@@ -851,8 +868,9 @@
           "cytoscape_alias_list": [
             "Affidelice"
           ], 
+          "drugbank-id": "BE0000704", 
           "shared_name": "Affidelice", 
-          "id": "BE0000704"
+          "id": "392"
         }
       }, 
       {
@@ -870,8 +888,9 @@
           "cytoscape_alias_list": [
             "Epoisses"
           ], 
+          "drugbank-id": "BE0000949", 
           "shared_name": "Epoisses", 
-          "id": "BE0000949"
+          "id": "391"
         }
       }, 
       {
@@ -888,11 +907,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Soumaintrain", 
-          "id": "BE0000710", 
+          "id": "390", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Soumaintrain"
           ], 
+          "drugbank-id": "BE0000710", 
           "shared_name": "Soumaintrain", 
           "Quality": 80, 
           "Milk": "Cow's milk"
@@ -973,11 +993,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Appenzeller", 
-          "id": "BE0002097", 
+          "id": "386", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Appenzeller"
           ], 
+          "drugbank-id": "BE0002097", 
           "shared_name": "Appenzeller", 
           "Quality": 97, 
           "Milk": "Cow's milk"
@@ -997,11 +1018,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Prattigauer", 
-          "id": "BE0002098", 
+          "id": "385", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Prattigauer"
           ], 
+          "drugbank-id": "BE0002098", 
           "shared_name": "Prattigauer", 
           "Quality": 97, 
           "Milk": "Raw cow's milk"
@@ -1022,8 +1044,9 @@
           "cytoscape_alias_list": [
             "Torgenburger"
           ], 
+          "drugbank-id": "BE0002099", 
           "shared_name": "Torgenburger", 
-          "id": "BE0002099"
+          "id": "384"
         }
       }, 
       {
@@ -1120,11 +1143,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Ardrahan", 
-          "id": "BE0002100", 
+          "id": "379", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Ardrahan"
           ], 
+          "drugbank-id": "BE0002100", 
           "shared_name": "Ardrahan", 
           "Quality": 91, 
           "Milk": "Pasteurized cow's milk"
@@ -1144,11 +1168,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Durrus", 
-          "id": "BE0001087", 
+          "id": "378", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Durrus"
           ], 
+          "drugbank-id": "BE0001087", 
           "shared_name": "Durrus", 
           "Quality": 91, 
           "Milk": "Raw cow's milk"
@@ -1168,11 +1193,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Gubbeen", 
-          "id": "BE0000901", 
+          "id": "377", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Gubbeen"
           ], 
+          "drugbank-id": "BE0000901", 
           "shared_name": "Gubbeen", 
           "Quality": 83, 
           "Milk": "Pasteurized cow's milk"
@@ -1193,8 +1219,9 @@
           "cytoscape_alias_list": [
             "Milleens"
           ], 
+          "drugbank-id": "BE0001529", 
           "shared_name": "Milleens", 
-          "id": "BE0001529"
+          "id": "376"
         }
       }, 
       {
@@ -1318,11 +1345,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Azeitao", 
-          "id": "BE0002093", 
+          "id": "370", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Azeitao"
           ], 
+          "drugbank-id": "BE0002093", 
           "shared_name": "Azeitao", 
           "Quality": 92, 
           "Milk": "Raw sheep's milk"
@@ -1342,11 +1370,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Queso de la Serena", 
-          "id": "BE0002094", 
+          "id": "369", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Queso de la Serena"
           ], 
+          "drugbank-id": "BE0002094", 
           "shared_name": "Queso de la Serena", 
           "Quality": 91, 
           "Milk": "Sheep's milk"
@@ -1366,11 +1395,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Serpa", 
-          "id": "BE0002095", 
+          "id": "368", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Serpa"
           ], 
+          "drugbank-id": "BE0002095", 
           "shared_name": "Serpa", 
           "Quality": 93, 
           "Milk": "Raw sheep's milk"
@@ -1390,11 +1420,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Serra da Estrela", 
-          "id": "BE0002096", 
+          "id": "367", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Serra da Estrela"
           ], 
+          "drugbank-id": "BE0002096", 
           "shared_name": "Serra da Estrela", 
           "Quality": 93, 
           "Milk": "Raw sheep's milk"
@@ -1414,11 +1445,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Torta del Casar", 
-          "id": "BE0000048", 
+          "id": "366", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Torta del Casar"
           ], 
+          "drugbank-id": "BE0000048", 
           "shared_name": "Torta del Casar", 
           "Quality": 93, 
           "Milk": "Raw sheep's milk"
@@ -1461,11 +1493,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Banon", 
-          "id": "BE0000203", 
+          "id": "364", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Banon"
           ], 
+          "drugbank-id": "BE0000203", 
           "shared_name": "Banon", 
           "Quality": 81, 
           "Milk": "Goat's milk"
@@ -1485,11 +1518,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Hoja Santa", 
-          "id": "BE0000385", 
+          "id": "363", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Hoja Santa"
           ], 
+          "drugbank-id": "BE0000385", 
           "shared_name": "Hoja Santa", 
           "Quality": 74, 
           "Milk": "Goat's milk"
@@ -1590,8 +1624,9 @@
           "cytoscape_alias_list": [
             "Emmental"
           ], 
+          "drugbank-id": "BE0000661", 
           "shared_name": "Emmental", 
-          "id": "BE0000661"
+          "id": "358"
         }
       }, 
       {
@@ -1608,11 +1643,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Fontina d'Aosta", 
-          "id": "BE0000211", 
+          "id": "357", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Fontina d'Aosta"
           ], 
+          "drugbank-id": "BE0000211", 
           "shared_name": "Fontina d'Aosta", 
           "Quality": 86, 
           "Milk": "Raw cow's milk"
@@ -1632,11 +1668,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Gruyere", 
-          "id": "BE0000538", 
+          "id": "356", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Gruyere"
           ], 
+          "drugbank-id": "BE0000538", 
           "shared_name": "Gruyere", 
           "Quality": 97, 
           "Milk": "Raw cow's milk"
@@ -1698,11 +1735,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Beenleigh Blue", 
-          "id": "BE0000717", 
+          "id": "353", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Beenleigh Blue"
           ], 
+          "drugbank-id": "BE0000717", 
           "shared_name": "Beenleigh Blue", 
           "Quality": 92, 
           "Milk": "Sheep's milk blue"
@@ -1722,11 +1760,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Harbourne Blue", 
-          "id": "BE0000240", 
+          "id": "352", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Harbourne Blue"
           ], 
+          "drugbank-id": "BE0000240", 
           "shared_name": "Harbourne Blue", 
           "Quality": 90, 
           "Milk": "Pasteurized goat's milk blue"
@@ -1746,11 +1785,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Roquefort", 
-          "id": "BE0000625", 
+          "id": "351", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Roquefort"
           ], 
+          "drugbank-id": "BE0000625", 
           "shared_name": "Roquefort", 
           "Quality": 98, 
           "Milk": "Raw sheep's milk"
@@ -1770,11 +1810,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Berkshire Blue", 
-          "id": "BE0000385", 
+          "id": "350", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Berkshire Blue"
           ], 
+          "drugbank-id": "BE0000385", 
           "shared_name": "Berkshire Blue", 
           "Quality": 91, 
           "Milk": "Raw cow's milk"
@@ -1794,11 +1835,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Cashel Blue", 
-          "id": "BE0000661", 
+          "id": "349", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Cashel Blue"
           ], 
+          "drugbank-id": "BE0000661", 
           "shared_name": "Cashel Blue", 
           "Quality": 84, 
           "Milk": "Cow's milk blue"
@@ -1818,11 +1860,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Fourme d'Ambert", 
-          "id": "BE0000654", 
+          "id": "348", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Fourme d'Ambert"
           ], 
+          "drugbank-id": "BE0000654", 
           "shared_name": "Fourme d'Ambert", 
           "Quality": 84, 
           "Milk": "Raw cow's milk blue"
@@ -1842,11 +1885,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Pecorino Toscano", 
-          "id": "BE0000211", 
+          "id": "347", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Pecorino Toscano"
           ], 
+          "drugbank-id": "BE0000211", 
           "shared_name": "Pecorino Toscano", 
           "Quality": 81, 
           "Milk": "Sheep's milk"
@@ -1866,11 +1910,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Trade Lake Cedar", 
-          "id": "BE0000717", 
+          "id": "346", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Trade Lake Cedar"
           ], 
+          "drugbank-id": "BE0000717", 
           "shared_name": "Trade Lake Cedar", 
           "Quality": 80, 
           "Milk": "Raw sheep's milk"
@@ -1955,11 +2000,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Big Holmes", 
-          "id": "BE0000895", 
+          "id": "342", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Big Holmes"
           ], 
+          "drugbank-id": "BE0000895", 
           "shared_name": "Big Holmes", 
           "Quality": 79, 
           "Milk": "Sheep's milk"
@@ -1979,12 +2025,13 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Brin d'Amour", 
-          "id": "BE0001088", 
+          "id": "341", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Brin d'Amour"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0001088", 
           "shared_name": "Brin d'Amour", 
           "Quality": 80, 
           "Milk": "Sheep's milk"
@@ -2005,8 +2052,9 @@
           "cytoscape_alias_list": [
             "Fleur du Maquis"
           ], 
+          "drugbank-id": "BE0000240", 
           "shared_name": "Fleur du Maquis", 
-          "id": "BE0000240"
+          "id": "340"
         }
       }, 
       {
@@ -2061,11 +2109,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bleu D'Auvergne", 
-          "id": "BE0000969", 
+          "id": "337", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bleu D'Auvergne"
           ], 
+          "drugbank-id": "BE0000969", 
           "shared_name": "Bleu D'Auvergne", 
           "Quality": 77, 
           "Milk": "Raw cow's milk blue"
@@ -2086,8 +2135,9 @@
           "cytoscape_alias_list": [
             "Bleu de Laqueuille"
           ], 
+          "drugbank-id": "BE0002112", 
           "shared_name": "Bleu de Laqueuille", 
-          "id": "BE0002112"
+          "id": "336"
         }
       }, 
       {
@@ -2104,11 +2154,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bleu des Causses", 
-          "id": "BE0000942", 
+          "id": "335", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bleu des Causses"
           ], 
+          "drugbank-id": "BE0000942", 
           "shared_name": "Bleu des Causses", 
           "Quality": 85, 
           "Milk": "Cow's milk"
@@ -2129,8 +2180,9 @@
           "cytoscape_alias_list": [
             "Fourme de Montbrison"
           ], 
+          "drugbank-id": "BE0001656", 
           "shared_name": "Fourme de Montbrison", 
-          "id": "BE0001656"
+          "id": "334"
         }
       }, 
       {
@@ -2170,11 +2222,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bleu de Gex", 
-          "id": "BE0002113", 
+          "id": "332", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bleu de Gex"
           ], 
+          "drugbank-id": "BE0002113", 
           "shared_name": "Bleu de Gex", 
           "Quality": 79, 
           "Milk": "Raw cow's milk blue"
@@ -2194,11 +2247,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Stilton", 
-          "id": "BE0000134", 
+          "id": "331", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Stilton"
           ], 
+          "drugbank-id": "BE0000134", 
           "shared_name": "Stilton", 
           "Quality": 95, 
           "Milk": "Pasteurized cow's milk blue"
@@ -2218,11 +2272,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bleu de Termignon", 
-          "id": "BE0000203", 
+          "id": "330", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bleu de Termignon"
           ], 
+          "drugbank-id": "BE0000203", 
           "shared_name": "Bleu de Termignon", 
           "Quality": 89, 
           "Milk": "Raw cow's milk"
@@ -2243,8 +2298,9 @@
           "cytoscape_alias_list": [
             "Castelmagno"
           ], 
+          "drugbank-id": "BE0000211", 
           "shared_name": "Castelmagno", 
-          "id": "BE0000211"
+          "id": "329"
         }
       }, 
       {
@@ -2284,11 +2340,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Blu del Moncenisio", 
-          "id": "BE0000538", 
+          "id": "327", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Blu del Moncenisio"
           ], 
+          "drugbank-id": "BE0000538", 
           "shared_name": "Blu del Moncenisio", 
           "Quality": 82, 
           "Milk": "Raw cow's milk"
@@ -2309,8 +2366,9 @@
           "cytoscape_alias_list": [
             "Murianengo"
           ], 
+          "drugbank-id": "BE0000717", 
           "shared_name": "Murianengo", 
-          "id": "BE0000717"
+          "id": "326"
         }
       }, 
       {
@@ -2327,11 +2385,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Bonde de Gatine", 
-          "id": "BE0000240", 
+          "id": "325", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Bonde de Gatine"
           ], 
+          "drugbank-id": "BE0000240", 
           "shared_name": "Bonde de Gatine", 
           "Quality": 89, 
           "Milk": "Raw goat's milk"
@@ -2352,8 +2411,9 @@
           "cytoscape_alias_list": [
             "Chabichou du Poitou"
           ], 
+          "drugbank-id": "BE0000654", 
           "shared_name": "Chabichou du Poitou", 
-          "id": "BE0000654"
+          "id": "324"
         }
       }, 
       {
@@ -2371,8 +2431,9 @@
           "cytoscape_alias_list": [
             "Clacbitou"
           ], 
+          "drugbank-id": "BE0000431", 
           "shared_name": "Clacbitou", 
-          "id": "BE0000431"
+          "id": "323"
         }
       }, 
       {
@@ -2412,11 +2473,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Bra", 
-          "id": "BE0000661", 
+          "id": "321", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Bra"
           ], 
+          "drugbank-id": "BE0000661", 
           "shared_name": "Bra", 
           "Quality": 80, 
           "Milk": "Cow's milk"
@@ -2437,8 +2499,9 @@
           "cytoscape_alias_list": [
             "Raschera"
           ], 
+          "drugbank-id": "BE0000385", 
           "shared_name": "Raschera", 
-          "id": "BE0000385"
+          "id": "320"
         }
       }, 
       {
@@ -2501,11 +2564,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Brescianella Stagionata", 
-          "id": "BE0000793", 
+          "id": "317", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Brescianella Stagionata"
           ], 
+          "drugbank-id": "BE0000793", 
           "shared_name": "Brescianella Stagionata", 
           "Quality": 71, 
           "Milk": "Cow's milk"
@@ -2526,8 +2590,9 @@
           "cytoscape_alias_list": [
             "Quercino"
           ], 
+          "drugbank-id": "BE0000394", 
           "shared_name": "Quercino", 
-          "id": "BE0000394"
+          "id": "316"
         }
       }, 
       {
@@ -2544,11 +2609,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Taleggio", 
-          "id": "BE0000628", 
+          "id": "315", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Taleggio"
           ], 
+          "drugbank-id": "BE0000628", 
           "shared_name": "Taleggio", 
           "Quality": 83, 
           "Milk": "Cow's milk washed rind"
@@ -2610,11 +2676,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Brie de Melun", 
-          "id": "BE0001036", 
+          "id": "312", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Brie de Melun"
           ], 
+          "drugbank-id": "BE0001036", 
           "shared_name": "Brie de Melun", 
           "Quality": 87, 
           "Milk": "Raw cow's milk"
@@ -2635,8 +2702,9 @@
           "cytoscape_alias_list": [
             "Brie de Meaux"
           ], 
+          "drugbank-id": "BE0002115", 
           "shared_name": "Brie de Meaux", 
-          "id": "BE0002115"
+          "id": "311"
         }
       }, 
       {
@@ -2654,8 +2722,9 @@
           "cytoscape_alias_list": [
             "Brie de Nangis"
           ], 
+          "drugbank-id": "BE0002116", 
           "shared_name": "Brie de Nangis", 
-          "id": "BE0002116"
+          "id": "310"
         }
       }, 
       {
@@ -2672,11 +2741,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Coulommiers", 
-          "id": "BE0002114", 
+          "id": "309", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Coulommiers"
           ], 
+          "drugbank-id": "BE0002114", 
           "shared_name": "Coulommiers", 
           "Quality": 76, 
           "Milk": "Cow's milk"
@@ -2738,11 +2808,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Cabrales", 
-          "id": "BE0000318", 
+          "id": "306", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Cabrales"
           ], 
+          "drugbank-id": "BE0000318", 
           "shared_name": "Cabrales", 
           "Quality": 92, 
           "Milk": "Raw cow's milk blue"
@@ -2762,11 +2833,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Gamonedo", 
-          "id": "BE0000661", 
+          "id": "305", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Gamonedo"
           ], 
+          "drugbank-id": "BE0000661", 
           "shared_name": "Gamonedo", 
           "Quality": 86, 
           "Milk": "Raw cow's milk blue"
@@ -2787,8 +2859,9 @@
           "cytoscape_alias_list": [
             "Picon Beyes"
           ], 
+          "drugbank-id": "BE0000385", 
           "shared_name": "Picon Beyes", 
-          "id": "BE0000385"
+          "id": "304"
         }
       }, 
       {
@@ -2805,11 +2878,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Valdeon", 
-          "id": "BE0004798", 
+          "id": "303", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Valdeon"
           ], 
+          "drugbank-id": "BE0004798", 
           "shared_name": "Valdeon", 
           "Quality": 92, 
           "Milk": "Pasteurized cow's milk blue"
@@ -2829,11 +2903,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Caerphilly", 
-          "id": "BE0000490", 
+          "id": "301", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Caerphilly"
           ], 
+          "drugbank-id": "BE0000490", 
           "shared_name": "Caerphilly", 
           "Quality": 93, 
           "Milk": "Cow's milk"
@@ -2853,11 +2928,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Llangloffan", 
-          "id": "BE0000216", 
+          "id": "300", 
           "Country": "Wales", 
           "cytoscape_alias_list": [
             "Llangloffan"
           ], 
+          "drugbank-id": "BE0000216", 
           "shared_name": "Llangloffan", 
           "Quality": 82, 
           "Milk": "Raw cow's milk"
@@ -2877,11 +2953,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Single Gloucester", 
-          "id": "BE0000364", 
+          "id": "299", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Single Gloucester"
           ], 
+          "drugbank-id": "BE0000364", 
           "shared_name": "Single Gloucester", 
           "Quality": 89, 
           "Milk": "Cow's milk"
@@ -2939,11 +3016,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Camembert", 
-          "id": "BE0001043", 
+          "id": "296", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Camembert"
           ], 
+          "drugbank-id": "BE0001043", 
           "shared_name": "Camembert", 
           "Quality": 86, 
           "Milk": "Cow's milk"
@@ -2982,11 +3060,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Chaource", 
-          "id": "BE0002117", 
+          "id": "294", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Chaource"
           ], 
+          "drugbank-id": "BE0002117", 
           "shared_name": "Chaource", 
           "Quality": 74, 
           "Milk": "Cow's milk"
@@ -3025,11 +3104,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Canestrato Pugliese", 
-          "id": "BE0002118", 
+          "id": "292", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Canestrato Pugliese"
           ], 
+          "drugbank-id": "BE0002118", 
           "shared_name": "Canestrato Pugliese", 
           "Quality": 91, 
           "Milk": "Sheep's milk"
@@ -3050,8 +3130,9 @@
           "cytoscape_alias_list": [
             "Canestrato Abbruzzese"
           ], 
+          "drugbank-id": "BE0001098", 
           "shared_name": "Canestrato Abbruzzese", 
-          "id": "BE0001098"
+          "id": "291"
         }
       }, 
       {
@@ -3069,8 +3150,9 @@
           "cytoscape_alias_list": [
             "Pecorino Romano"
           ], 
+          "drugbank-id": "BE0002109", 
           "shared_name": "Pecorino Romano", 
-          "id": "BE0002109"
+          "id": "290"
         }
       }, 
       {
@@ -3087,11 +3169,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Cantal", 
-          "id": "BE0001011", 
+          "id": "289", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Cantal"
           ], 
+          "drugbank-id": "BE0001011", 
           "shared_name": "Cantal", 
           "Quality": 89, 
           "Milk": "Cow's milk"
@@ -3111,11 +3194,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Laguiole", 
-          "id": "BE0002119", 
+          "id": "288", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Laguiole"
           ], 
+          "drugbank-id": "BE0002119", 
           "shared_name": "Laguiole", 
           "Quality": 91, 
           "Milk": "Raw cow's milk"
@@ -3135,11 +3219,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Lancashire", 
-          "id": "BE0002110", 
+          "id": "287", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Lancashire"
           ], 
+          "drugbank-id": "BE0002110", 
           "shared_name": "Lancashire", 
           "Quality": 92, 
           "Milk": "Raw cow's milk"
@@ -3160,8 +3245,9 @@
           "cytoscape_alias_list": [
             "Salers"
           ], 
+          "drugbank-id": "BE0002120", 
           "shared_name": "Salers", 
-          "id": "BE0002120"
+          "id": "286"
         }
       }, 
       {
@@ -3179,8 +3265,9 @@
           "cytoscape_alias_list": [
             "Caprino Noccetto"
           ], 
+          "drugbank-id": "BE0000565", 
           "shared_name": "Caprino Noccetto", 
-          "id": "BE0000565"
+          "id": "285"
         }
       }, 
       {
@@ -3197,11 +3284,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Caprino Noce", 
-          "id": "BE0000710", 
+          "id": "284", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Caprino Noce"
           ], 
+          "drugbank-id": "BE0000710", 
           "shared_name": "Caprino Noce", 
           "Quality": 87, 
           "Milk": "Mixed milk"
@@ -3267,11 +3355,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Cardinal Sin", 
-          "id": "BE0004684", 
+          "id": "281", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Cardinal Sin"
           ], 
+          "drugbank-id": "BE0004684", 
           "shared_name": "Cardinal Sin", 
           "Quality": 72, 
           "Milk": "Cow's milk"
@@ -3291,11 +3380,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Munster", 
-          "id": "BE0002098", 
+          "id": "280", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Munster"
           ], 
+          "drugbank-id": "BE0002098", 
           "shared_name": "Munster", 
           "Quality": 79, 
           "Milk": "Cow's milk"
@@ -3315,11 +3405,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Reblochon", 
-          "id": "BE0002099", 
+          "id": "279", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Reblochon"
           ], 
+          "drugbank-id": "BE0002099", 
           "shared_name": "Reblochon", 
           "Quality": 84, 
           "Milk": "Cow's milk"
@@ -3362,11 +3453,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Gorgonzola", 
-          "id": "BE0002100", 
+          "id": "277", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Gorgonzola"
           ], 
+          "drugbank-id": "BE0002100", 
           "shared_name": "Gorgonzola", 
           "Quality": 85, 
           "Milk": "Cow's milk"
@@ -3386,11 +3478,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Catahoula", 
-          "id": "BE0002097", 
+          "id": "276", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Catahoula"
           ], 
+          "drugbank-id": "BE0002097", 
           "shared_name": "Catahoula", 
           "Quality": 71, 
           "Milk": "Raw cow's milk"
@@ -3410,11 +3503,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Livarot", 
-          "id": "BE0000901", 
+          "id": "275", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Livarot"
           ], 
+          "drugbank-id": "BE0000901", 
           "shared_name": "Livarot", 
           "Quality": 75, 
           "Milk": "Cow's milk"
@@ -3434,11 +3528,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Pont l'Eveque", 
-          "id": "BE0003455", 
+          "id": "274", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Pont l'Eveque"
           ], 
+          "drugbank-id": "BE0003455", 
           "shared_name": "Pont l'Eveque", 
           "Quality": 86, 
           "Milk": "Cow's milk"
@@ -3458,11 +3553,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Centovalli Ticino", 
-          "id": "BE0004685", 
+          "id": "273", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Centovalli Ticino"
           ], 
+          "drugbank-id": "BE0004685", 
           "shared_name": "Centovalli Ticino", 
           "Quality": 91, 
           "Milk": "Raw cow's milk"
@@ -3482,11 +3578,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Chabichou de Poitou", 
-          "id": "BE0004686", 
+          "id": "272", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Chabichou de Poitou"
           ], 
+          "drugbank-id": "BE0004686", 
           "shared_name": "Chabichou de Poitou", 
           "Quality": 88, 
           "Milk": "Goat's milk"
@@ -3506,11 +3603,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Crottin de Chavignol", 
-          "id": "BE0000855", 
+          "id": "271", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Crottin de Chavignol"
           ], 
+          "drugbank-id": "BE0000855", 
           "shared_name": "Crottin de Chavignol", 
           "Quality": 78, 
           "Milk": "Goat's milk"
@@ -3549,11 +3647,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Explorateur", 
-          "id": "BE0000211", 
+          "id": "269", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Explorateur"
           ], 
+          "drugbank-id": "BE0000211", 
           "shared_name": "Explorateur", 
           "Quality": 72, 
           "Milk": "Cow's milk"
@@ -3573,11 +3672,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Roucoulons", 
-          "id": "BE0000538", 
+          "id": "268", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Roucoulons"
           ], 
+          "drugbank-id": "BE0000538", 
           "shared_name": "Roucoulons", 
           "Quality": 72, 
           "Milk": "Pasteurized cow's milk"
@@ -3597,11 +3697,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Chaput Vacherin Mont D'Or", 
-          "id": "BE0000717", 
+          "id": "267", 
           "Country": "Canada", 
           "cytoscape_alias_list": [
             "Chaput Vacherin Mont D'Or"
           ], 
+          "drugbank-id": "BE0000717", 
           "shared_name": "Chaput Vacherin Mont D'Or", 
           "Quality": 76, 
           "Milk": "Raw cow's milk"
@@ -3621,11 +3722,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Krummenswiler Forsterkase", 
-          "id": "BE0000240", 
+          "id": "266", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Krummenswiler Forsterkase"
           ], 
+          "drugbank-id": "BE0000240", 
           "shared_name": "Krummenswiler Forsterkase", 
           "Quality": 92, 
           "Milk": "Raw cow's milk"
@@ -3646,8 +3748,9 @@
           "cytoscape_alias_list": [
             "Vacherin Mont d'Or"
           ], 
+          "drugbank-id": "BE0000033", 
           "shared_name": "Vacherin Mont d'Or", 
-          "id": "BE0000033"
+          "id": "265"
         }
       }, 
       {
@@ -3683,11 +3786,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Fiscalini Bandage Cheddar", 
-          "id": "BE0000858", 
+          "id": "263", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Fiscalini Bandage Cheddar"
           ], 
+          "drugbank-id": "BE0000858", 
           "shared_name": "Fiscalini Bandage Cheddar", 
           "Quality": 88, 
           "Milk": "Raw cow's milk"
@@ -3707,11 +3811,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Grafton Cheddar", 
-          "id": "BE0002123", 
+          "id": "262", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Grafton Cheddar"
           ], 
+          "drugbank-id": "BE0002123", 
           "shared_name": "Grafton Cheddar", 
           "Quality": 89, 
           "Milk": "Raw cow's milk"
@@ -3731,11 +3836,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Keen's Cheddar", 
-          "id": "BE0000941", 
+          "id": "261", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Keen's Cheddar"
           ], 
+          "drugbank-id": "BE0000941", 
           "shared_name": "Keen's Cheddar", 
           "Quality": 97, 
           "Milk": "Raw cow's milk"
@@ -3755,11 +3861,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Lincolnshire Poacher", 
-          "id": "BE0001183", 
+          "id": "260", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Lincolnshire Poacher"
           ], 
+          "drugbank-id": "BE0001183", 
           "shared_name": "Lincolnshire Poacher", 
           "Quality": 93, 
           "Milk": "Raw cow's milk"
@@ -3779,11 +3886,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Montgomery's Cheddar", 
-          "id": "BE0002124", 
+          "id": "259", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Montgomery's Cheddar"
           ], 
+          "drugbank-id": "BE0002124", 
           "shared_name": "Montgomery's Cheddar", 
           "Quality": 98, 
           "Milk": "Raw cow's milk"
@@ -3803,11 +3911,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Reade's Cheddar", 
-          "id": "BE0001123", 
+          "id": "258", 
           "Country": "Scotland", 
           "cytoscape_alias_list": [
             "Reade's Cheddar"
           ], 
+          "drugbank-id": "BE0001123", 
           "shared_name": "Reade's Cheddar", 
           "Quality": 92, 
           "Milk": "Raw cow's milk"
@@ -3827,11 +3936,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Westcombe Cheddar", 
-          "id": "BE0002125", 
+          "id": "257", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Westcombe Cheddar"
           ], 
+          "drugbank-id": "BE0002125", 
           "shared_name": "Westcombe Cheddar", 
           "Quality": 91, 
           "Milk": "Raw cow's milk"
@@ -3851,11 +3961,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Cheshire", 
-          "id": "BE0001147", 
+          "id": "256", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Cheshire"
           ], 
+          "drugbank-id": "BE0001147", 
           "shared_name": "Cheshire", 
           "Quality": 84, 
           "Milk": "Raw cow's milk"
@@ -3876,8 +3987,9 @@
           "cytoscape_alias_list": [
             "Double Gloucester"
           ], 
+          "drugbank-id": "BE0000942", 
           "shared_name": "Double Gloucester", 
-          "id": "BE0000942"
+          "id": "255"
         }
       }, 
       {
@@ -3913,11 +4025,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Chevrotin Des Aravis", 
-          "id": "BE0002126", 
+          "id": "253", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Chevrotin Des Aravis"
           ], 
+          "drugbank-id": "BE0002126", 
           "shared_name": "Chevrotin Des Aravis", 
           "Quality": 82, 
           "Milk": "Raw goat's milk"
@@ -3937,11 +4050,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Classic Blue", 
-          "id": "BE0002127", 
+          "id": "252", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Classic Blue"
           ], 
+          "drugbank-id": "BE0002127", 
           "shared_name": "Classic Blue", 
           "Quality": 73, 
           "Milk": "Pasteurized goat's milk"
@@ -3961,11 +4075,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Monte Enebro", 
-          "id": "BE0000211", 
+          "id": "251", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Monte Enebro"
           ], 
+          "drugbank-id": "BE0000211", 
           "shared_name": "Monte Enebro", 
           "Quality": 95, 
           "Milk": "Pasteurized goat's milk"
@@ -3985,11 +4100,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Constant Bliss", 
-          "id": "BE0000538", 
+          "id": "250", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Constant Bliss"
           ], 
+          "drugbank-id": "BE0000538", 
           "shared_name": "Constant Bliss", 
           "Quality": 74, 
           "Milk": "Raw cow's milk"
@@ -4009,11 +4125,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Coolea", 
-          "id": "BE0000717", 
+          "id": "249", 
           "Country": "Ireland", 
           "cytoscape_alias_list": [
             "Coolea"
           ], 
+          "drugbank-id": "BE0000717", 
           "shared_name": "Coolea", 
           "Quality": 88, 
           "Milk": "Cow's milk"
@@ -4033,11 +4150,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Gouda Boerenkaas", 
-          "id": "BE0000240", 
+          "id": "248", 
           "Country": "Holland", 
           "cytoscape_alias_list": [
             "Gouda Boerenkaas"
           ], 
+          "drugbank-id": "BE0000240", 
           "shared_name": "Gouda Boerenkaas", 
           "Quality": 96, 
           "Milk": "Cow's milk"
@@ -4057,11 +4175,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Mimolette", 
-          "id": "BE0000969", 
+          "id": "247", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Mimolette"
           ], 
+          "drugbank-id": "BE0000969", 
           "shared_name": "Mimolette", 
           "Quality": 77, 
           "Milk": "Pasteurized cow's milk"
@@ -4104,11 +4223,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Pouligny-Saint-Pierre", 
-          "id": "BE0002104", 
+          "id": "245", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Pouligny-Saint-Pierre"
           ], 
+          "drugbank-id": "BE0002104", 
           "shared_name": "Pouligny-Saint-Pierre", 
           "Quality": 90, 
           "Milk": "Goat's milk"
@@ -4129,8 +4249,9 @@
           "cytoscape_alias_list": [
             "Sancerrois"
           ], 
+          "drugbank-id": "BE0002105", 
           "shared_name": "Sancerrois", 
-          "id": "BE0002105"
+          "id": "244"
         }
       }, 
       {
@@ -4147,11 +4268,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Selles-sur-Cher", 
-          "id": "BE0001170", 
+          "id": "243", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Selles-sur-Cher"
           ], 
+          "drugbank-id": "BE0001170", 
           "shared_name": "Selles-sur-Cher", 
           "Quality": 89, 
           "Milk": "Goat's milk"
@@ -4171,11 +4293,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Valencay", 
-          "id": "BE0002109", 
+          "id": "242", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Valencay"
           ], 
+          "drugbank-id": "BE0002109", 
           "shared_name": "Valencay", 
           "Quality": 91, 
           "Milk": "Goat's milk"
@@ -4233,11 +4356,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Doddington", 
-          "id": "BE0001011", 
+          "id": "239", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Doddington"
           ], 
+          "drugbank-id": "BE0001011", 
           "shared_name": "Doddington", 
           "Quality": 92, 
           "Milk": "Raw cow's milk"
@@ -4258,8 +4382,9 @@
           "cytoscape_alias_list": [
             "Saint Nectaire"
           ], 
+          "drugbank-id": "BE0002110", 
           "shared_name": "Saint Nectaire", 
-          "id": "BE0002110"
+          "id": "238"
         }
       }, 
       {
@@ -4276,11 +4401,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Tomme de Savoie", 
-          "id": "BE0000387", 
+          "id": "237", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Tomme de Savoie"
           ], 
+          "drugbank-id": "BE0000387", 
           "shared_name": "Tomme de Savoie", 
           "Quality": 82, 
           "Milk": "Raw cow's milk"
@@ -4319,11 +4445,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Epoisses de Bourgogne", 
-          "id": "BE0000134", 
+          "id": "235", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Epoisses de Bourgogne"
           ], 
+          "drugbank-id": "BE0000134", 
           "shared_name": "Epoisses de Bourgogne", 
           "Quality": 90, 
           "Milk": "Cow's milk"
@@ -4343,11 +4470,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "L'Ami du Chambertin", 
-          "id": "BE0000711", 
+          "id": "234", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "L'Ami du Chambertin"
           ], 
+          "drugbank-id": "BE0000711", 
           "shared_name": "L'Ami du Chambertin", 
           "Quality": 89, 
           "Milk": "Raw cow's milk"
@@ -4367,12 +4495,13 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Evora", 
-          "id": "BE0000467", 
+          "id": "233", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Evora"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0000467", 
           "shared_name": "Evora", 
           "Quality": 84, 
           "Milk": "Raw sheep's milk"
@@ -4392,11 +4521,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Fiumorbu Brebis", 
-          "id": "BE0000661", 
+          "id": "232", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Fiumorbu Brebis"
           ], 
+          "drugbank-id": "BE0000661", 
           "shared_name": "Fiumorbu Brebis", 
           "Quality": 84, 
           "Milk": "Raw sheep's milk"
@@ -4416,11 +4546,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Stanser Schafkase", 
-          "id": "BE0000385", 
+          "id": "231", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Stanser Schafkase"
           ], 
+          "drugbank-id": "BE0000385", 
           "shared_name": "Stanser Schafkase", 
           "Quality": 93, 
           "Milk": "Raw sheep's milk"
@@ -4459,11 +4590,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Flixer", 
-          "id": "BE0000293", 
+          "id": "229", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Flixer"
           ], 
+          "drugbank-id": "BE0000293", 
           "shared_name": "Flixer", 
           "Quality": 91, 
           "Milk": "Raw sheep's milk"
@@ -4483,11 +4615,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Ossau-Iraty Brebis", 
-          "id": "BE0000165", 
+          "id": "228", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Ossau-Iraty Brebis"
           ], 
+          "drugbank-id": "BE0000165", 
           "shared_name": "Ossau-Iraty Brebis", 
           "Quality": 87, 
           "Milk": "Sheep's milk"
@@ -4526,11 +4659,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Foin d'Odeur", 
-          "id": "BE0000773", 
+          "id": "226", 
           "Country": "Canada", 
           "cytoscape_alias_list": [
             "Foin d'Odeur"
           ], 
+          "drugbank-id": "BE0000773", 
           "shared_name": "Foin d'Odeur", 
           "Quality": 72, 
           "Milk": "Pasteurized sheep's milk"
@@ -4551,8 +4685,9 @@
           "cytoscape_alias_list": [
             "Innerschweizer Schafkase"
           ], 
+          "drugbank-id": "BE0000216", 
           "shared_name": "Innerschweizer Schafkase", 
-          "id": "BE0000216"
+          "id": "225"
         }
       }, 
       {
@@ -4634,11 +4769,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Fougerus", 
-          "id": "BE0002128", 
+          "id": "220", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Fougerus"
           ], 
+          "drugbank-id": "BE0002128", 
           "shared_name": "Fougerus", 
           "Quality": 76, 
           "Milk": "Cow's milk"
@@ -4658,11 +4794,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Brillat-Savarin", 
-          "id": "BE0000967", 
+          "id": "219", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Brillat-Savarin"
           ], 
+          "drugbank-id": "BE0000967", 
           "shared_name": "Brillat-Savarin", 
           "Quality": 81, 
           "Milk": "Cow's milk"
@@ -4682,11 +4819,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Pierre-Robert", 
-          "id": "BE0000403", 
+          "id": "218", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Pierre-Robert"
           ], 
+          "drugbank-id": "BE0000403", 
           "shared_name": "Pierre-Robert", 
           "Quality": 79, 
           "Milk": "Cow's milk"
@@ -4707,8 +4845,9 @@
           "cytoscape_alias_list": [
             "Blu de Moncenisio"
           ], 
+          "drugbank-id": "BE0000333", 
           "shared_name": "Blu de Moncenisio", 
-          "id": "BE0000333"
+          "id": "217"
         }
       }, 
       {
@@ -4726,8 +4865,9 @@
           "cytoscape_alias_list": [
             "Edam"
           ], 
+          "drugbank-id": "BE0001178", 
           "shared_name": "Edam", 
-          "id": "BE0001178"
+          "id": "216"
         }
       }, 
       {
@@ -4744,11 +4884,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Roomano", 
-          "id": "BE0000416", 
+          "id": "215", 
           "Country": "Holland", 
           "cytoscape_alias_list": [
             "Roomano"
           ], 
+          "drugbank-id": "BE0000416", 
           "shared_name": "Roomano", 
           "Quality": 96, 
           "Milk": "Cow's milk"
@@ -4768,11 +4909,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Great Hill Blue", 
-          "id": "BE0000748", 
+          "id": "214", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Great Hill Blue"
           ], 
+          "drugbank-id": "BE0000748", 
           "shared_name": "Great Hill Blue", 
           "Quality": 79, 
           "Milk": "Raw cow's milk blue"
@@ -4838,11 +4980,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Hoch Ybrig", 
-          "id": "BE0002129", 
+          "id": "211", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Hoch Ybrig"
           ], 
+          "drugbank-id": "BE0002129", 
           "shared_name": "Hoch Ybrig", 
           "Quality": 97, 
           "Milk": "Raw cow's milk"
@@ -4885,11 +5028,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Persille de Tignes", 
-          "id": "BE0002131", 
+          "id": "209", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Persille de Tignes"
           ], 
+          "drugbank-id": "BE0002131", 
           "shared_name": "Persille de Tignes", 
           "Quality": 72, 
           "Milk": "Goat's milk"
@@ -4932,11 +5076,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Harvest Moon", 
-          "id": "BE0001203", 
+          "id": "207", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Harvest Moon"
           ], 
+          "drugbank-id": "BE0001203", 
           "shared_name": "Harvest Moon", 
           "Quality": 72, 
           "Milk": "Pasteurized cow's milk"
@@ -4979,11 +5124,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Hilltown Wheel", 
-          "id": "BE0002133", 
+          "id": "205", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Hilltown Wheel"
           ], 
+          "drugbank-id": "BE0002133", 
           "shared_name": "Hilltown Wheel", 
           "Quality": 84, 
           "Milk": "Raw goat's milk"
@@ -5004,8 +5150,9 @@
           "cytoscape_alias_list": [
             "Chevrotin"
           ], 
+          "drugbank-id": "BE0001031", 
           "shared_name": "Chevrotin", 
-          "id": "BE0001031"
+          "id": "204"
         }
       }, 
       {
@@ -5023,8 +5170,9 @@
           "cytoscape_alias_list": [
             "Harvest Cheese"
           ], 
+          "drugbank-id": "BE0000527", 
           "shared_name": "Harvest Cheese", 
-          "id": "BE0000527"
+          "id": "203"
         }
       }, 
       {
@@ -5042,8 +5190,9 @@
           "cytoscape_alias_list": [
             "Tomalo Tomme"
           ], 
+          "drugbank-id": "BE0002134", 
           "shared_name": "Tomalo Tomme", 
-          "id": "BE0002134"
+          "id": "202"
         }
       }, 
       {
@@ -5061,8 +5210,9 @@
           "cytoscape_alias_list": [
             "Tomme de Chevre"
           ], 
+          "drugbank-id": "BE0000857", 
           "shared_name": "Tomme de Chevre", 
-          "id": "BE0000857"
+          "id": "201"
         }
       }, 
       {
@@ -5080,8 +5230,9 @@
           "cytoscape_alias_list": [
             "Bundner Alpkase"
           ], 
+          "drugbank-id": "BE0000651", 
           "shared_name": "Bundner Alpkase", 
-          "id": "BE0000651"
+          "id": "200"
         }
       }, 
       {
@@ -5099,8 +5250,9 @@
           "cytoscape_alias_list": [
             "Urner Bergkase"
           ], 
+          "drugbank-id": "BE0000658", 
           "shared_name": "Urner Bergkase", 
-          "id": "BE0000658"
+          "id": "199"
         }
       }, 
       {
@@ -5117,11 +5269,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Hudson Valley Camembert", 
-          "id": "BE0002102", 
+          "id": "198", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Hudson Valley Camembert"
           ], 
+          "drugbank-id": "BE0002102", 
           "shared_name": "Hudson Valley Camembert", 
           "Quality": 76, 
           "Milk": "Sheep's and Cow's milk"
@@ -5141,11 +5294,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Humboldt Fog", 
-          "id": "BE0002137", 
+          "id": "197", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Humboldt Fog"
           ], 
+          "drugbank-id": "BE0002137", 
           "shared_name": "Humboldt Fog", 
           "Quality": 75, 
           "Milk": "Goat's milk"
@@ -5165,11 +5319,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Wabash Cannonball", 
-          "id": "BE0002136", 
+          "id": "196", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Wabash Cannonball"
           ], 
+          "drugbank-id": "BE0002136", 
           "shared_name": "Wabash Cannonball", 
           "Quality": 76, 
           "Milk": "Pasteurized goat's milk"
@@ -5189,12 +5344,13 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Ibores", 
-          "id": "BE0002138", 
+          "id": "195", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Ibores"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0002138", 
           "shared_name": "Ibores", 
           "Quality": 89, 
           "Milk": "Raw goat's milk"
@@ -5214,11 +5370,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Queso de la Garrotxa", 
-          "id": "BE0000015", 
+          "id": "194", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Queso de la Garrotxa"
           ], 
+          "drugbank-id": "BE0000015", 
           "shared_name": "Queso de la Garrotxa", 
           "Quality": 85, 
           "Milk": "Pasteurized goat's milk"
@@ -5238,11 +5395,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Jersey Blue", 
-          "id": "BE0002139", 
+          "id": "193", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Jersey Blue"
           ], 
+          "drugbank-id": "BE0002139", 
           "shared_name": "Jersey Blue", 
           "Quality": 74, 
           "Milk": "Raw cow's milk"
@@ -5262,11 +5420,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Langres", 
-          "id": "BE0000134", 
+          "id": "192", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Langres"
           ], 
+          "drugbank-id": "BE0000134", 
           "shared_name": "Langres", 
           "Quality": 88, 
           "Milk": "Cow's milk"
@@ -5286,11 +5445,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Lavort", 
-          "id": "BE0001164", 
+          "id": "191", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Lavort"
           ], 
+          "drugbank-id": "BE0001164", 
           "shared_name": "Lavort", 
           "Quality": 71, 
           "Milk": "Raw sheep's milk"
@@ -5310,11 +5470,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Le Cabri Ariegeois", 
-          "id": "BE0000033", 
+          "id": "190", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Le Cabri Ariegeois"
           ], 
+          "drugbank-id": "BE0000033", 
           "shared_name": "Le Cabri Ariegeois", 
           "Quality": 92, 
           "Milk": "Goat's milk"
@@ -5334,11 +5495,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Le Chevre Noir", 
-          "id": "BE0000858", 
+          "id": "189", 
           "Country": "Canada", 
           "cytoscape_alias_list": [
             "Le Chevre Noir"
           ], 
+          "drugbank-id": "BE0000858", 
           "shared_name": "Le Chevre Noir", 
           "Quality": 74, 
           "Milk": "Goat's milk"
@@ -5400,11 +5562,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Le Moulis cow", 
-          "id": "BE0000033", 
+          "id": "186", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Le Moulis cow"
           ], 
+          "drugbank-id": "BE0000033", 
           "shared_name": "Le Moulis cow", 
           "Quality": 95, 
           "Milk": "Raw cow's milk"
@@ -5425,8 +5588,9 @@
           "cytoscape_alias_list": [
             "Bethmale"
           ], 
+          "drugbank-id": "BE0000858", 
           "shared_name": "Bethmale", 
-          "id": "BE0000858"
+          "id": "185"
         }
       }, 
       {
@@ -5443,11 +5607,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Le Moulis goat", 
-          "id": "BE0000025", 
+          "id": "184", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Le Moulis goat"
           ], 
+          "drugbank-id": "BE0000025", 
           "shared_name": "Le Moulis goat", 
           "Quality": 89, 
           "Milk": "Raw goat's milk"
@@ -5467,11 +5632,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Le Moulis sheep", 
-          "id": "BE0002140", 
+          "id": "183", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Le Moulis sheep"
           ], 
+          "drugbank-id": "BE0002140", 
           "shared_name": "Le Moulis sheep", 
           "Quality": 89, 
           "Milk": "Raw sheep's milk"
@@ -5491,11 +5657,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Mahon", 
-          "id": "BE0002130", 
+          "id": "182", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Mahon"
           ], 
+          "drugbank-id": "BE0002130", 
           "shared_name": "Mahon", 
           "Quality": 87, 
           "Milk": "Cow's milk"
@@ -5515,12 +5682,13 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Majorero", 
-          "id": "BE0002141", 
+          "id": "181", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Majorero"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0002141", 
           "shared_name": "Majorero", 
           "Quality": 90, 
           "Milk": "Goat's milk"
@@ -5540,11 +5708,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Ticklemore", 
-          "id": "BE0004823", 
+          "id": "180", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Ticklemore"
           ], 
+          "drugbank-id": "BE0004823", 
           "shared_name": "Ticklemore", 
           "Quality": 77, 
           "Milk": "Pasteurized goat's milk"
@@ -5583,11 +5752,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Manchego", 
-          "id": "BE0000203", 
+          "id": "178", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Manchego"
           ], 
+          "drugbank-id": "BE0000203", 
           "shared_name": "Manchego", 
           "Quality": 82, 
           "Milk": "Sheep's milk"
@@ -5608,8 +5778,9 @@
           "cytoscape_alias_list": [
             "Castellano"
           ], 
+          "drugbank-id": "BE0000134", 
           "shared_name": "Castellano", 
-          "id": "BE0000134"
+          "id": "177"
         }
       }, 
       {
@@ -5626,11 +5797,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Roncal", 
-          "id": "BE0000704", 
+          "id": "176", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Roncal"
           ], 
+          "drugbank-id": "BE0000704", 
           "shared_name": "Roncal", 
           "Quality": 90, 
           "Milk": "Raw sheep's milk"
@@ -5650,11 +5822,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Maroilles", 
-          "id": "BE0000901", 
+          "id": "175", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Maroilles"
           ], 
+          "drugbank-id": "BE0000901", 
           "shared_name": "Maroilles", 
           "Quality": 77, 
           "Milk": "Cow's milk"
@@ -5674,12 +5847,13 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Pave d'Auge", 
-          "id": "BE0002093", 
+          "id": "174", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Pave d'Auge"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0002093", 
           "shared_name": "Pave d'Auge", 
           "Quality": 88, 
           "Milk": "Cow's milk"
@@ -5699,11 +5873,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Matos St. George", 
-          "id": "BE0002094", 
+          "id": "173", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Matos St. George"
           ], 
+          "drugbank-id": "BE0002094", 
           "shared_name": "Matos St. George", 
           "Quality": 75, 
           "Milk": "Raw cow's milk"
@@ -5723,11 +5898,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Mont St. Francis", 
-          "id": "BE0002095", 
+          "id": "172", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Mont St. Francis"
           ], 
+          "drugbank-id": "BE0002095", 
           "shared_name": "Mont St. Francis", 
           "Quality": 84, 
           "Milk": "Raw goat's milk"
@@ -5747,11 +5923,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Montasio", 
-          "id": "BE0002096", 
+          "id": "170", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Montasio"
           ], 
+          "drugbank-id": "BE0002096", 
           "shared_name": "Montasio", 
           "Quality": 88, 
           "Milk": "Cow's milk"
@@ -5772,8 +5949,9 @@
           "cytoscape_alias_list": [
             "Asiago"
           ], 
+          "drugbank-id": "BE0002097", 
           "shared_name": "Asiago", 
-          "id": "BE0002097"
+          "id": "169"
         }
       }, 
       {
@@ -5790,11 +5968,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Piave", 
-          "id": "BE0001529", 
+          "id": "168", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Piave"
           ], 
+          "drugbank-id": "BE0001529", 
           "shared_name": "Piave", 
           "Quality": 89, 
           "Milk": "Pasteurized cow's milk"
@@ -5834,8 +6013,9 @@
           "cytoscape_alias_list": [
             "Montsec"
           ], 
+          "drugbank-id": "BE0000710", 
           "shared_name": "Montsec", 
-          "id": "BE0000710"
+          "id": "166"
         }
       }, 
       {
@@ -5852,11 +6032,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Monterey Dry Jack", 
-          "id": "BE0002098", 
+          "id": "165", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Monterey Dry Jack"
           ], 
+          "drugbank-id": "BE0002098", 
           "shared_name": "Monterey Dry Jack", 
           "Quality": 78, 
           "Milk": "Cow's milk"
@@ -5876,12 +6057,13 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Parmigiano-Reggiano", 
-          "id": "BE0002099", 
+          "id": "164", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Parmigiano-Reggiano"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0002099", 
           "shared_name": "Parmigiano-Reggiano", 
           "Quality": 97, 
           "Milk": "Raw cow's milk"
@@ -5901,11 +6083,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Morbier", 
-          "id": "BE0002100", 
+          "id": "163", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Morbier"
           ], 
+          "drugbank-id": "BE0002100", 
           "shared_name": "Morbier", 
           "Quality": 75, 
           "Milk": "Raw cow's milk"
@@ -5926,8 +6109,9 @@
           "cytoscape_alias_list": [
             "St. Nectaire"
           ], 
+          "drugbank-id": "BE0000075", 
           "shared_name": "St. Nectaire", 
-          "id": "BE0000075"
+          "id": "162"
         }
       }, 
       {
@@ -5967,12 +6151,13 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Mothais-sur-Feuille", 
-          "id": "BE0000345", 
+          "id": "160", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Mothais-sur-Feuille"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0000345", 
           "shared_name": "Mothais-sur-Feuille", 
           "Quality": 81, 
           "Milk": "Raw goat's milk"
@@ -5993,8 +6178,9 @@
           "cytoscape_alias_list": [
             "Bougon"
           ], 
+          "drugbank-id": "BE0004806", 
           "shared_name": "Bougon", 
-          "id": "BE0004806"
+          "id": "159"
         }
       }, 
       {
@@ -6011,11 +6197,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Nisa", 
-          "id": "BE0001155", 
+          "id": "158", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Nisa"
           ], 
+          "drugbank-id": "BE0001155", 
           "shared_name": "Nisa", 
           "Quality": 82, 
           "Milk": "Raw sheep's milk"
@@ -6036,8 +6223,9 @@
           "cytoscape_alias_list": [
             "Queijo Amarelo da Beria Baixa"
           ], 
+          "drugbank-id": "BE0000439", 
           "shared_name": "Queijo Amarelo da Beria Baixa", 
-          "id": "BE0000439"
+          "id": "157"
         }
       }, 
       {
@@ -6055,8 +6243,9 @@
           "cytoscape_alias_list": [
             "Queijo Evora"
           ], 
+          "drugbank-id": "BE0000901", 
           "shared_name": "Queijo Evora", 
-          "id": "BE0000901"
+          "id": "156"
         }
       }, 
       {
@@ -6115,11 +6304,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Orb Weaver Vermont Farmhouse Cheese", 
-          "id": "BE0002093", 
+          "id": "153", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Orb Weaver Vermont Farmhouse Cheese"
           ], 
+          "drugbank-id": "BE0002093", 
           "shared_name": "Orb Weaver Vermont Farmhouse Cheese", 
           "Quality": 76, 
           "Milk": "Raw cow's milk"
@@ -6163,8 +6353,9 @@
           "cytoscape_alias_list": [
             "Istara"
           ], 
+          "drugbank-id": "BE0002094", 
           "shared_name": "Istara", 
-          "id": "BE0002094"
+          "id": "151"
         }
       }, 
       {
@@ -6182,8 +6373,9 @@
           "cytoscape_alias_list": [
             "Vallee d'Aspe"
           ], 
+          "drugbank-id": "BE0002095", 
           "shared_name": "Vallee d'Aspe", 
-          "id": "BE0002095"
+          "id": "150"
         }
       }, 
       {
@@ -6224,8 +6416,9 @@
           "cytoscape_alias_list": [
             "Grana Padano"
           ], 
+          "drugbank-id": "BE0002096", 
           "shared_name": "Grana Padano", 
-          "id": "BE0002096"
+          "id": "148"
         }
       }, 
       {
@@ -6261,12 +6454,13 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Pau", 
-          "id": "BE0002097", 
+          "id": "146", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Pau"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0002097", 
           "shared_name": "Pau", 
           "Quality": 72, 
           "Milk": "Pasteurized goat's milk"
@@ -6286,12 +6480,13 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Pecorino Foglie Noce", 
-          "id": "BE0001529", 
+          "id": "145", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Pecorino Foglie Noce"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0001529", 
           "shared_name": "Pecorino Foglie Noce", 
           "Quality": 81, 
           "Milk": "Raw sheep's milk"
@@ -6311,11 +6506,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Penamellera", 
-          "id": "BE0000710", 
+          "id": "144", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Penamellera"
           ], 
+          "drugbank-id": "BE0000710", 
           "shared_name": "Penamellera", 
           "Quality": 75, 
           "Milk": "Cow's milk"
@@ -6400,11 +6596,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Perail", 
-          "id": "BE0002098", 
+          "id": "140", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Perail"
           ], 
+          "drugbank-id": "BE0002098", 
           "shared_name": "Perail", 
           "Quality": 77, 
           "Milk": "Raw sheep's milk"
@@ -6425,8 +6622,9 @@
           "cytoscape_alias_list": [
             "Cabecou de Rocamadour"
           ], 
+          "drugbank-id": "BE0002099", 
           "shared_name": "Cabecou de Rocamadour", 
-          "id": "BE0002099"
+          "id": "139"
         }
       }, 
       {
@@ -6444,8 +6642,9 @@
           "cytoscape_alias_list": [
             "Pave d'Affinois"
           ], 
+          "drugbank-id": "BE0002100", 
           "shared_name": "Pave d'Affinois", 
-          "id": "BE0002100"
+          "id": "138"
         }
       }, 
       {
@@ -6462,11 +6661,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Saint-Marcellin", 
-          "id": "BE0001068", 
+          "id": "137", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Saint-Marcellin"
           ], 
+          "drugbank-id": "BE0001068", 
           "shared_name": "Saint-Marcellin", 
           "Quality": 88, 
           "Milk": "Cow's milk"
@@ -6487,8 +6687,9 @@
           "cytoscape_alias_list": [
             "Persille de la Haute Tarentaise"
           ], 
+          "drugbank-id": "BE0000016", 
           "shared_name": "Persille de la Haute Tarentaise", 
-          "id": "BE0000016"
+          "id": "136"
         }
       }, 
       {
@@ -6506,8 +6707,9 @@
           "cytoscape_alias_list": [
             "Persille des Aravis"
           ], 
+          "drugbank-id": "BE0000041", 
           "shared_name": "Persille des Aravis", 
-          "id": "BE0000041"
+          "id": "135"
         }
       }, 
       {
@@ -6544,8 +6746,9 @@
           "cytoscape_alias_list": [
             "Gratte-Paille"
           ], 
+          "drugbank-id": "BE0000240", 
           "shared_name": "Gratte-Paille", 
-          "id": "BE0000240"
+          "id": "133"
         }
       }, 
       {
@@ -6562,11 +6765,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Pleasant Ridge Reserve", 
-          "id": "BE0001151", 
+          "id": "132", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Pleasant Ridge Reserve"
           ], 
+          "drugbank-id": "BE0001151", 
           "shared_name": "Pleasant Ridge Reserve", 
           "Quality": 89, 
           "Milk": "Raw cow's milk"
@@ -6586,11 +6790,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Sainte-Maure de Touraine", 
-          "id": "BE0000943", 
+          "id": "131", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Sainte-Maure de Touraine"
           ], 
+          "drugbank-id": "BE0000943", 
           "shared_name": "Sainte-Maure de Touraine", 
           "Quality": 88, 
           "Milk": "Goat's milk"
@@ -6629,11 +6834,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Queijo Amarelo da Beira Baixa", 
-          "id": "BE0001140", 
+          "id": "129", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Queijo Amarelo da Beira Baixa"
           ], 
+          "drugbank-id": "BE0001140", 
           "shared_name": "Queijo Amarelo da Beira Baixa", 
           "Quality": 86, 
           "Milk": "Raw goat and sheep's milk"
@@ -6676,11 +6882,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Queijo Terrincho Velho", 
-          "id": "BE0000048", 
+          "id": "127", 
           "Country": "Portugal", 
           "cytoscape_alias_list": [
             "Queijo Terrincho Velho"
           ], 
+          "drugbank-id": "BE0000048", 
           "shared_name": "Queijo Terrincho Velho", 
           "Quality": 78, 
           "Milk": "Raw sheep's milk"
@@ -6719,11 +6926,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Queso de la Peral", 
-          "id": "BE0001129", 
+          "id": "125", 
           "Country": "Spain", 
           "cytoscape_alias_list": [
             "Queso de la Peral"
           ], 
+          "drugbank-id": "BE0001129", 
           "shared_name": "Queso de la Peral", 
           "Quality": 89, 
           "Milk": "Pasteurized cow's milk"
@@ -6744,8 +6952,9 @@
           "cytoscape_alias_list": [
             "Innerschweizer Weicher"
           ], 
+          "drugbank-id": "BE0002112", 
           "shared_name": "Innerschweizer Weicher", 
-          "id": "BE0002112"
+          "id": "124"
         }
       }, 
       {
@@ -6762,11 +6971,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Red Hawk", 
-          "id": "BE0002142", 
+          "id": "123", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Red Hawk"
           ], 
+          "drugbank-id": "BE0002142", 
           "shared_name": "Red Hawk", 
           "Quality": 89, 
           "Milk": "Cow's milk"
@@ -6786,11 +6996,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Roaring Forties Blue", 
-          "id": "BE0000403", 
+          "id": "122", 
           "Country": "Australia", 
           "cytoscape_alias_list": [
             "Roaring Forties Blue"
           ], 
+          "drugbank-id": "BE0000403", 
           "shared_name": "Roaring Forties Blue", 
           "Quality": 74, 
           "Milk": "Cow's milk"
@@ -6831,8 +7042,9 @@
           "cytoscape_alias_list": [
             "Brunet"
           ], 
+          "drugbank-id": "BE0001161", 
           "shared_name": "Brunet", 
-          "id": "BE0001161"
+          "id": "120"
         }
       }, 
       {
@@ -6850,8 +7062,9 @@
           "cytoscape_alias_list": [
             "Cimonino"
           ], 
+          "drugbank-id": "BE0000674", 
           "shared_name": "Cimonino", 
-          "id": "BE0000674"
+          "id": "119"
         }
       }, 
       {
@@ -6868,11 +7081,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Robiola a Due Latti", 
-          "id": "BE0000901", 
+          "id": "118", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola a Due Latti"
           ], 
+          "drugbank-id": "BE0000901", 
           "shared_name": "Robiola a Due Latti", 
           "Quality": 86, 
           "Milk": "Sheep's and Cow's milk"
@@ -6892,11 +7106,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Robiola a Tre Latti", 
-          "id": "BE0002093", 
+          "id": "117", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola a Tre Latti"
           ], 
+          "drugbank-id": "BE0002093", 
           "shared_name": "Robiola a Tre Latti", 
           "Quality": 90, 
           "Milk": "Cow's, Sheep's and Goat's Milk"
@@ -6916,11 +7131,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Castagna", 
-          "id": "BE0002094", 
+          "id": "116", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Castagna"
           ], 
+          "drugbank-id": "BE0002094", 
           "shared_name": "Robiola Castagna", 
           "Quality": 88, 
           "Milk": "Cow's, Sheep's and Goat's Milk"
@@ -6940,11 +7156,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola di Roccaverano", 
-          "id": "BE0002095", 
+          "id": "115", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola di Roccaverano"
           ], 
+          "drugbank-id": "BE0002095", 
           "shared_name": "Robiola di Roccaverano", 
           "Quality": 91, 
           "Milk": "Cow's, Sheep's and Goat's Milk"
@@ -6964,11 +7181,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Fia", 
-          "id": "BE0002096", 
+          "id": "114", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Fia"
           ], 
+          "drugbank-id": "BE0002096", 
           "shared_name": "Robiola Fia", 
           "Quality": 84, 
           "Milk": "Cow's, Sheep's and Goat's Milk"
@@ -6988,11 +7206,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Incavolata", 
-          "id": "BE0002097", 
+          "id": "113", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Incavolata"
           ], 
+          "drugbank-id": "BE0002097", 
           "shared_name": "Robiola Incavolata", 
           "Quality": 86, 
           "Milk": "Cow's, Sheep's and Goat's Milk"
@@ -7012,11 +7231,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Pineta", 
-          "id": "BE0001529", 
+          "id": "112", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Pineta"
           ], 
+          "drugbank-id": "BE0001529", 
           "shared_name": "Robiola Pineta", 
           "Quality": 74, 
           "Milk": "Cow's milk"
@@ -7036,11 +7256,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Robiola Vite", 
-          "id": "BE0000710", 
+          "id": "111", 
           "Country": "Italy", 
           "cytoscape_alias_list": [
             "Robiola Vite"
           ], 
+          "drugbank-id": "BE0000710", 
           "shared_name": "Robiola Vite", 
           "Quality": 82, 
           "Milk": "Cow's, Sheep's and Goat's Milk"
@@ -7061,8 +7282,9 @@
           "cytoscape_alias_list": [
             "Rochetta"
           ], 
+          "drugbank-id": "BE0002098", 
           "shared_name": "Rochetta", 
-          "id": "BE0002098"
+          "id": "110"
         }
       }, 
       {
@@ -7079,11 +7301,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Rogue River Blue", 
-          "id": "BE0002099", 
+          "id": "109", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Rogue River Blue"
           ], 
+          "drugbank-id": "BE0002099", 
           "shared_name": "Rogue River Blue", 
           "Quality": 93, 
           "Milk": "Raw cow's milk"
@@ -7104,8 +7327,9 @@
           "cytoscape_alias_list": [
             "Bleu des Basques"
           ], 
+          "drugbank-id": "BE0002100", 
           "shared_name": "Bleu des Basques", 
-          "id": "BE0002100"
+          "id": "108"
         }
       }, 
       {
@@ -7123,8 +7347,9 @@
           "cytoscape_alias_list": [
             "L'Edel de Cleron"
           ], 
+          "drugbank-id": "BE0004842", 
           "shared_name": "L'Edel de Cleron", 
-          "id": "BE0004842"
+          "id": "107"
         }
       }, 
       {
@@ -7164,11 +7389,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Saint-Felicien", 
-          "id": "BE0000394", 
+          "id": "105", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Saint-Felicien"
           ], 
+          "drugbank-id": "BE0000394", 
           "shared_name": "Saint-Felicien", 
           "Quality": 90, 
           "Milk": "Cow's milk"
@@ -7188,11 +7414,12 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Saint-Nectaire", 
-          "id": "BE0004798", 
+          "id": "104", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Saint-Nectaire"
           ], 
+          "drugbank-id": "BE0004798", 
           "shared_name": "Saint-Nectaire", 
           "Quality": 84, 
           "Milk": "Cow's milk"
@@ -7212,11 +7439,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Sbrinz", 
-          "id": "BE0000661", 
+          "id": "103", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Sbrinz"
           ], 
+          "drugbank-id": "BE0000661", 
           "shared_name": "Sbrinz", 
           "Quality": 99, 
           "Milk": "Raw cow's milk"
@@ -7236,11 +7464,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Shropshire Blue", 
-          "id": "BE0000385", 
+          "id": "102", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Shropshire Blue"
           ], 
+          "drugbank-id": "BE0000385", 
           "shared_name": "Shropshire Blue", 
           "Quality": 88, 
           "Milk": "Pasteurized cow's milk blue"
@@ -7261,8 +7490,9 @@
           "cytoscape_alias_list": [
             "Colston Bassett Stilton"
           ], 
+          "drugbank-id": "BE0004828", 
           "shared_name": "Colston Bassett Stilton", 
-          "id": "BE0004828"
+          "id": "101"
         }
       }, 
       {
@@ -7279,12 +7509,13 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Stanser Chua Flada", 
-          "id": "BE0000917", 
+          "id": "100", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Stanser Chua Flada"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0000917", 
           "shared_name": "Stanser Chua Flada", 
           "Quality": 92, 
           "Milk": "Raw cow's milk"
@@ -7304,12 +7535,13 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Stanser Roteli", 
-          "id": "BE0001119", 
+          "id": "99", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Stanser Roteli"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0001119", 
           "shared_name": "Stanser Roteli", 
           "Quality": 93, 
           "Milk": "Raw cow's milk"
@@ -7329,12 +7561,13 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Stanser Schaf Reblochon", 
-          "id": "BE0004795", 
+          "id": "98", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Stanser Schaf Reblochon"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0004795", 
           "shared_name": "Stanser Schaf Reblochon", 
           "Quality": 90, 
           "Milk": "Raw sheep's milk"
@@ -7392,11 +7625,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Tarentaise", 
-          "id": "BE0000932", 
+          "id": "95", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Tarentaise"
           ], 
+          "drugbank-id": "BE0000932", 
           "shared_name": "Tarentaise", 
           "Quality": 88, 
           "Milk": "Raw cow's milk"
@@ -7416,11 +7650,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Taupiniere", 
-          "id": "BE0001155", 
+          "id": "94", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Taupiniere"
           ], 
+          "drugbank-id": "BE0001155", 
           "shared_name": "Taupiniere", 
           "Quality": 85, 
           "Milk": "Goat's milk"
@@ -7440,11 +7675,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Tessiner Geisskase", 
-          "id": "BE0001119", 
+          "id": "93", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Tessiner Geisskase"
           ], 
+          "drugbank-id": "BE0001119", 
           "shared_name": "Tessiner Geisskase", 
           "Quality": 81, 
           "Milk": "Raw goat's milk"
@@ -7464,11 +7700,12 @@
           "Type": "Semi-soft", 
           "selected": false, 
           "canonicalName": "Tetoun de Santa Agata", 
-          "id": "BE0004795", 
+          "id": "92", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Tetoun de Santa Agata"
           ], 
+          "drugbank-id": "BE0004795", 
           "shared_name": "Tetoun de Santa Agata", 
           "Quality": 81, 
           "Milk": "Raw goat's milk"
@@ -7489,8 +7726,9 @@
           "cytoscape_alias_list": [
             "Picodon de la Drome"
           ], 
+          "drugbank-id": "BE0000932", 
           "shared_name": "Picodon de la Drome", 
-          "id": "BE0000932"
+          "id": "91"
         }
       }, 
       {
@@ -7507,11 +7745,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Truffe de Valensole", 
-          "id": "BE0000704", 
+          "id": "90", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Truffe de Valensole"
           ], 
+          "drugbank-id": "BE0000704", 
           "shared_name": "Truffe de Valensole", 
           "Quality": 81, 
           "Milk": "Raw goat's milk"
@@ -7531,11 +7770,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Thomasville Tomme", 
-          "id": "BE0000387", 
+          "id": "89", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Thomasville Tomme"
           ], 
+          "drugbank-id": "BE0000387", 
           "shared_name": "Thomasville Tomme", 
           "Quality": 78, 
           "Milk": "Raw cow's milk"
@@ -7556,8 +7796,9 @@
           "cytoscape_alias_list": [
             "Orb Weaver"
           ], 
+          "drugbank-id": "BE0000293", 
           "shared_name": "Orb Weaver", 
-          "id": "BE0000293"
+          "id": "88"
         }
       }, 
       {
@@ -7574,11 +7815,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Wildmannli", 
-          "id": "BE0000165", 
+          "id": "87", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Wildmannli"
           ], 
+          "drugbank-id": "BE0000165", 
           "shared_name": "Wildmannli", 
           "Quality": 94, 
           "Milk": "Raw cow's milk"
@@ -7620,8 +7862,9 @@
           "cytoscape_alias_list": [
             "Aviateur"
           ], 
+          "drugbank-id": "BE0000773", 
           "shared_name": "Aviateur", 
-          "id": "BE0000773"
+          "id": "85"
         }
       }, 
       {
@@ -7639,8 +7882,9 @@
           "cytoscape_alias_list": [
             "Bayard Gourmand"
           ], 
+          "drugbank-id": "BE0000661", 
           "shared_name": "Bayard Gourmand", 
-          "id": "BE0000661"
+          "id": "84"
         }
       }, 
       {
@@ -7658,8 +7902,9 @@
           "cytoscape_alias_list": [
             "Brique Fleurie"
           ], 
+          "drugbank-id": "BE0000385", 
           "shared_name": "Brique Fleurie", 
-          "id": "BE0000385"
+          "id": "83"
         }
       }, 
       {
@@ -7677,8 +7922,9 @@
           "cytoscape_alias_list": [
             "Fontainbleau"
           ], 
+          "drugbank-id": "BE0000661", 
           "shared_name": "Fontainbleau", 
-          "id": "BE0000661"
+          "id": "82"
         }
       }, 
       {
@@ -7696,8 +7942,9 @@
           "cytoscape_alias_list": [
             "Grand Mogol"
           ], 
+          "drugbank-id": "BE0000385", 
           "shared_name": "Grand Mogol", 
-          "id": "BE0000385"
+          "id": "81"
         }
       }, 
       {
@@ -7715,8 +7962,9 @@
           "cytoscape_alias_list": [
             "Jean de Brie"
           ], 
+          "drugbank-id": "BE0004821", 
           "shared_name": "Jean de Brie", 
-          "id": "BE0004821"
+          "id": "80"
         }
       }, 
       {
@@ -7734,8 +7982,9 @@
           "cytoscape_alias_list": [
             "Jean Grogne"
           ], 
+          "drugbank-id": "BE0000984", 
           "shared_name": "Jean Grogne", 
-          "id": "BE0000984"
+          "id": "79"
         }
       }, 
       {
@@ -7753,8 +8002,9 @@
           "cytoscape_alias_list": [
             "Saint-Andre"
           ], 
+          "drugbank-id": "BE0000033", 
           "shared_name": "Saint-Andre", 
-          "id": "BE0000033"
+          "id": "78"
         }
       }, 
       {
@@ -7772,8 +8022,9 @@
           "cytoscape_alias_list": [
             "Saint-Clair"
           ], 
+          "drugbank-id": "BE0000858", 
           "shared_name": "Saint-Clair", 
-          "id": "BE0000858"
+          "id": "77"
         }
       }, 
       {
@@ -7791,8 +8042,9 @@
           "cytoscape_alias_list": [
             "Vignelait"
           ], 
+          "drugbank-id": "BE0001183", 
           "shared_name": "Vignelait", 
-          "id": "BE0001183"
+          "id": "76"
         }
       }, 
       {
@@ -7809,11 +8061,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Tumalo Tomme", 
-          "id": "BE0002122", 
+          "id": "75", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Tumalo Tomme"
           ], 
+          "drugbank-id": "BE0002122", 
           "shared_name": "Tumalo Tomme", 
           "Quality": 84, 
           "Milk": "Raw goat's milk"
@@ -7834,8 +8087,9 @@
           "cytoscape_alias_list": [
             "Capricious"
           ], 
+          "drugbank-id": "BE0004466", 
           "shared_name": "Capricious", 
-          "id": "BE0004466"
+          "id": "74"
         }
       }, 
       {
@@ -7853,8 +8107,9 @@
           "cytoscape_alias_list": [
             "Redmondo"
           ], 
+          "drugbank-id": "BE0002123", 
           "shared_name": "Redmondo", 
-          "id": "BE0002123"
+          "id": "73"
         }
       }, 
       {
@@ -7871,11 +8126,12 @@
           "Type": "Semi-hard", 
           "selected": false, 
           "canonicalName": "Urner Alpkase", 
-          "id": "BE0000941", 
+          "id": "72", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Urner Alpkase"
           ], 
+          "drugbank-id": "BE0000941", 
           "shared_name": "Urner Alpkase", 
           "Quality": 90, 
           "Milk": "Raw cow's milk"
@@ -7896,8 +8152,9 @@
           "cytoscape_alias_list": [
             "Alp Drackloch"
           ], 
+          "drugbank-id": "BE0001123", 
           "shared_name": "Alp Drackloch", 
-          "id": "BE0001123"
+          "id": "71"
         }
       }, 
       {
@@ -7914,12 +8171,13 @@
           "Type": "Soft", 
           "selected": false, 
           "canonicalName": "Vacherin du Haut-Doubs", 
-          "id": "BE0002124", 
+          "id": "70", 
           "Country": "France", 
           "cytoscape_alias_list": [
             "Vacherin du Haut-Doubs"
           ], 
           "NodeType": "Cheese", 
+          "drugbank-id": "BE0002124", 
           "shared_name": "Vacherin du Haut-Doubs", 
           "Quality": 90, 
           "Milk": "Raw cow's milk"
@@ -7940,8 +8198,9 @@
           "cytoscape_alias_list": [
             "Vacherin d'Abondance"
           ], 
+          "drugbank-id": "BE0002125", 
           "shared_name": "Vacherin d'Abondance", 
-          "id": "BE0002125"
+          "id": "69"
         }
       }, 
       {
@@ -7959,8 +8218,9 @@
           "cytoscape_alias_list": [
             "Vacherin Haut-Rive"
           ], 
+          "drugbank-id": "BE0001147", 
           "shared_name": "Vacherin Haut-Rive", 
-          "id": "BE0001147"
+          "id": "68"
         }
       }, 
       {
@@ -7977,11 +8237,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Val Bagner", 
-          "id": "BE0000942", 
+          "id": "67", 
           "Country": "Switzerland", 
           "cytoscape_alias_list": [
             "Val Bagner"
           ], 
+          "drugbank-id": "BE0000942", 
           "shared_name": "Val Bagner", 
           "Quality": 91, 
           "Milk": "Raw cow's milk"
@@ -8002,8 +8263,9 @@
           "cytoscape_alias_list": [
             "Raclette Combes"
           ], 
+          "drugbank-id": "BE0002126", 
           "shared_name": "Raclette Combes", 
-          "id": "BE0002126"
+          "id": "66"
         }
       }, 
       {
@@ -8021,8 +8283,9 @@
           "cytoscape_alias_list": [
             "Picon"
           ], 
+          "drugbank-id": "BE0002127", 
           "shared_name": "Picon", 
-          "id": "BE0002127"
+          "id": "65"
         }
       }, 
       {
@@ -8040,8 +8303,9 @@
           "cytoscape_alias_list": [
             "Picon-Beyes Tresviso"
           ], 
+          "drugbank-id": "BE0000511", 
           "shared_name": "Picon-Beyes Tresviso", 
-          "id": "BE0000511"
+          "id": "64"
         }
       }, 
       {
@@ -8058,11 +8322,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Wensleydale", 
-          "id": "BE0000767", 
+          "id": "63", 
           "Country": "England", 
           "cytoscape_alias_list": [
             "Wensleydale"
           ], 
+          "drugbank-id": "BE0000767", 
           "shared_name": "Wensleydale", 
           "Quality": 79, 
           "Milk": "Pasteurized cow's milk"
@@ -8082,11 +8347,12 @@
           "Type": "Hard", 
           "selected": false, 
           "canonicalName": "Winchester Aged Gouda", 
-          "id": "BE0002093", 
+          "id": "62", 
           "Country": "US", 
           "cytoscape_alias_list": [
             "Winchester Aged Gouda"
           ], 
+          "drugbank-id": "BE0002093", 
           "shared_name": "Winchester Aged Gouda", 
           "Quality": 74, 
           "Milk": "Raw cow's milk"
